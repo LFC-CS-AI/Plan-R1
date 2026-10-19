@@ -1,0 +1,30 @@
+completed seed=101 strength=0.0 domain=id; elapsed=6.2s
+completed seed=101 strength=0.0 domain=driver_shift; elapsed=10.8s
+completed seed=101 strength=0.65 domain=id; elapsed=18.1s
+completed seed=101 strength=0.65 domain=driver_shift; elapsed=23.0s
+completed seed=101 strength=1.3 domain=id; elapsed=30.6s
+completed seed=101 strength=1.3 domain=driver_shift; elapsed=35.8s
+completed seed=202 strength=0.0 domain=id; elapsed=43.2s
+completed seed=202 strength=0.0 domain=driver_shift; elapsed=48.0s
+completed seed=202 strength=0.65 domain=id; elapsed=54.7s
+completed seed=202 strength=0.65 domain=driver_shift; elapsed=59.5s
+completed seed=202 strength=1.3 domain=id; elapsed=66.3s
+completed seed=202 strength=1.3 domain=driver_shift; elapsed=71.6s
+completed seed=303 strength=0.0 domain=id; elapsed=78.5s
+completed seed=303 strength=0.0 domain=driver_shift; elapsed=83.3s
+completed seed=303 strength=0.65 domain=id; elapsed=90.2s
+completed seed=303 strength=0.65 domain=driver_shift; elapsed=95.3s
+completed seed=303 strength=1.3 domain=id; elapsed=102.3s
+completed seed=303 strength=1.3 domain=driver_shift; elapsed=107.2s
+completed seed=404 strength=0.0 domain=id; elapsed=114.1s
+completed seed=404 strength=0.0 domain=driver_shift; elapsed=119.0s
+completed seed=404 strength=0.65 domain=id; elapsed=126.0s
+completed seed=404 strength=0.65 domain=driver_shift; elapsed=130.9s
+completed seed=404 strength=1.3 domain=id; elapsed=138.2s
+completed seed=404 strength=1.3 domain=driver_shift; elapsed=143.5s
+{
+  "elapsed_seconds": 164.30583706100015,
+  "total_online_model_calls": 15500160,
+  "total_offline_model_calls": 1290240,
+  "total_reference_calls": 14751360
+}

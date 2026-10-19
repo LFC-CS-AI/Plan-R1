@@ -1,0 +1,50 @@
+{
+  "checked_on": "2026-10-20 Asia/Shanghai",
+  "sources": [
+    {
+      "short_name": "CRAFT",
+      "url": "https://arxiv.org/html/2605.04470v1",
+      "version": "v1, 2026-05-06",
+      "read_sections": "3.1-3.4, A.1-A.5, C, D.3-D.5",
+      "access": "full HTML, methods and relevant appendix/theory inspected"
+    },
+    {
+      "short_name": "AWM",
+      "url": "https://arxiv.org/html/2607.10630v1",
+      "version": "v1, 2026-07-12",
+      "read_sections": "2-4, C.1-C.7",
+      "access": "full HTML, methods and relevant appendix/theory inspected"
+    },
+    {
+      "short_name": "AD-WM",
+      "url": "https://arxiv.org/html/2609.30264v2",
+      "version": "v2, 2026-09-25",
+      "read_sections": "III.A-E, IV.A-E, V",
+      "access": "full HTML, methods and relevant appendix/theory inspected"
+    },
+    {
+      "short_name": "RISE",
+      "url": "https://arxiv.org/html/2608.20430v1",
+      "version": "v1, 2026-08-20",
+      "read_sections": "4.1-4.4,5,10,14",
+      "access": "full HTML, methods and relevant appendix/theory inspected"
+    },
+    {
+      "paper": "interactive_cp",
+      "url": "https://raw.githubusercontent.com/mlresearch/v331/main/assets/mirzaeedodangeh26a/mirzaeedodangeh26a.pdf",
+      "bytes": 3262443,
+      "sha256": "8f8b5a02a021aa7a588de94fa020d47fa0d1298b6656f476dd19984a469f3bde",
+      "read_sections": "system/method, assumptions, principal guarantee and proof/algorithm appendix",
+      "access": "official PMLR PDF downloaded and text extracted locally"
+    },
+    {
+      "paper": "policy_control",
+      "url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/prinster26a/prinster26a.pdf",
+      "bytes": 2272505,
+      "sha256": "754fe349ce8894181b7b19f69d47e834bbb05d86d784224db4071336d636b0f5",
+      "read_sections": "system/method, assumptions, principal guarantee and proof/algorithm appendix",
+      "access": "official PMLR PDF downloaded and text extracted locally"
+    }
+  ],
+  "scope": "not an exhaustive new phase-one search; method-level nearest-neighbor comparison"
+}

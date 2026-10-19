@@ -1,0 +1,94 @@
+{
+  "config": {
+    "protocol_version": "1.0-before-main-results",
+    "date": "2026-10-20 Asia/Shanghai",
+    "goal": "Test risk-ranking reliability under reactive traffic, not prove a new method.",
+    "seeds": [
+      101,
+      202,
+      303,
+      404
+    ],
+    "reaction_strengths": [
+      0.0,
+      0.65,
+      1.3
+    ],
+    "domains": [
+      "id",
+      "driver_shift"
+    ],
+    "budgets": [
+      80,
+      320,
+      1280
+    ],
+    "train_scenes": 64,
+    "calibration_scenes": 64,
+    "test_scenes": 48,
+    "train_rollouts_per_action": 256,
+    "calibration_rollouts_per_action": 512,
+    "reference_rollouts_per_action": 2048,
+    "risk_threshold": 0.1,
+    "ranking_margin": 0.05,
+    "relative_risk_tolerance": 0.03,
+    "alpha": 0.1,
+    "reference_interval_alpha": 0.01,
+    "dt": 0.08,
+    "horizon_seconds": 8.0,
+    "methods": [
+      "deterministic",
+      "mc",
+      "ensemble",
+      "binomial_union",
+      "paired_difference",
+      "residual_calibration",
+      "marginal_cp",
+      "simultaneous_cp",
+      "worst_member"
+    ],
+    "decision_rule": "Select highest nominal-progress nonfallback action whose method-specific risk upper score <=0.1; otherwise stop before intersection. Paired method additionally screens risk difference from coast.",
+    "data_split": "Disjoint scene RNG streams for model fitting, calibration, test and deployment; test labels never inform method fitting or selection.",
+    "budget_unit": "One complete candidate outcome from the analytical surrogate counts as one model call; deterministic uses only 5 useful calls; others use the exact stated cap. Offline calibration/reference/deployment calls and wall times are reported separately.",
+    "negative_controls": [
+      "no_reaction",
+      "in_distribution",
+      "oracle_risk_selection_diagnostic"
+    ],
+    "stop_rules": [
+      "No-go for a novel-method claim if ensemble plus conventional simultaneous calibration meets the empirical risk criterion without material progress loss in ID.",
+      "No-go for an OOD guarantee claim if failure is only observed after violating calibration exchangeability.",
+      "No-go if improvements require near-universal fallback or extra unaccounted model/reference calls.",
+      "Toy evidence alone cannot justify a CCF B/A paper or a Plan-R1 benchmark deficiency claim."
+    ],
+    "empirical_resolution_gate": {
+      "conditional_false_safe_accept_rate_max": 0.05,
+      "progress_relative_to_reference_oracle_min": 0.8
+    },
+    "reporting": "Report all methods, strengths, domains and budgets; paired scene bootstrap CIs; no selection of best seed. CI coverage for model sampling is not coverage for physical-model misspecification."
+  },
+  "quick": false,
+  "python": "3.9.25 (main, Oct 31 2025, 23:00:23) \n[Clang 21.1.4 ]",
+  "numpy": "1.24.4",
+  "scipy": "1.10.1",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.41",
+  "elapsed_seconds": 164.30583706100015,
+  "summary_bootstrap_seconds": 20.43193088099997,
+  "total_online_model_calls": 15500160,
+  "total_offline_model_calls": 1290240,
+  "total_reference_calls": 14751360,
+  "source_sha256": {
+    "world_model.py": "dfdad1d41e0c62e8b1d2b289fe3fc539e2e137dae40a074527de4d9a6f34e710",
+    "test_mechanisms.py": "4249f4d51ec59b87f847363da0e5b1c7fd7ca506893bd55f391a1875e6b318d1",
+    "reference_simulator.py": "f185d4bc28c48ef49c8289da99a0afd0b26427b8efa75a53f05f6e80a862c2be",
+    "run_experiment.py": "d64815723b51f39da8ca63223af75ce402c336c5e78a564d5e6177e5a45757d9",
+    "baselines.py": "8ef14d29ed4652ce7cfa6945343c21324967b963f8af74e678565389e57afb04"
+  },
+  "protocol_sha256": "56fff652ed5eca7633b9c1ea9fcf5a1206b593b7343597347d24e0808f518e60",
+  "conventions": {
+    "cpu_seconds": "perf_counter elapsed wall time for actual CPU-only NumPy/SciPy execution; selector time excludes reference/calibration; all components in ledger",
+    "reference": "independent reactive evaluator, Monte Carlo estimates not exact physical truth",
+    "statistical_unit": "scene within experiment seed; same scenes and exogenous deployment draws paired across methods",
+    "cpp_baselines": "no full-paper implementation or paper-level guarantee claimed"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "main": {
+    "elapsed_seconds": 164.30583706100015,
+    "online_model_calls": 15500160,
+    "offline_model_calls": 1290240,
+    "reference_calls": 14751360
+  },
+  "post_hoc_controls": {
+    "elapsed_seconds": 22.017626960000143,
+    "online_model_calls": 3870720,
+    "offline_model_calls": 1290240,
+    "reference_calls": 1966080
+  },
+  "numerical_validation": {
+    "elapsed_seconds": 15.532135072999608,
+    "online_model_calls": 0,
+    "offline_model_calls": 0,
+    "reference_calls": 1474560
+  },
+  "one_block_replay": {
+    "elapsed_seconds": 4.957977064000261,
+    "online_model_calls": 645840,
+    "offline_model_calls": 0,
+    "reference_calls": 491520
+  },
+  "total_recorded_components": {
+    "elapsed_seconds": 206.81357615800016,
+    "online_model_calls": 20016720,
+    "offline_model_calls": 2580480,
+    "reference_calls": 18683520
+  },
+  "timing_scope": "CPU-only elapsed wall times, not summed OS process CPU time; excludes smoke/unit tests, literature reading, plotting/reporting and delivery I/O."
+}
