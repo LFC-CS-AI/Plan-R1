@@ -1,0 +1,7 @@
+{
+  "elapsed_seconds": 22.017626960000143,
+  "additional_online_model_calls": 3870720.0,
+  "additional_offline_model_calls": 1290240,
+  "additional_reference_calls": 1966080,
+  "adaptation": "post-main-inspection ordinary controls; no original outputs overwritten"
+}

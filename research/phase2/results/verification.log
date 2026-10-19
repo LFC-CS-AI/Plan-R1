@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "saved_decision_rows_checked": 38016,
+  "reference_rows": 5760,
+  "exact_reference_replay_scenes": 48,
+  "exact_selector_replays": 27,
+  "original_source_hashes_match": true,
+  "original_protocol_hash_matches": true,
+  "additional_reference_calls": 491520,
+  "additional_online_model_calls": 645840,
+  "elapsed_seconds": 4.957977064000261,
+  "scope": "Consistency and one-block exact replay, not full independent implementation replication."
+}

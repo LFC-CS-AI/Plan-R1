@@ -1,0 +1,12 @@
+{
+  "version": "1.0-post-main-inspection-standard-controls",
+  "reason": "Global marginal and simultaneous risk residual quantiles caused universal fallback. Test standard action-specific corrections before attributing this to a novel reliability problem.",
+  "original_protocol_preserved": true,
+  "methods": ["action_residual", "actionwise_cp"],
+  "rules": {
+    "action_residual": "Add the per-action mean calibration residual to each model mean, clipped to [0,1].",
+    "actionwise_cp": "Add a separate per-action split-conformal residual quantile at alpha=0.1; this is action-marginal, NOT selection-valid simultaneous coverage."
+  },
+  "scope": "Run every original seed, strength, domain and budget; use identical model fits, calibration scenes/latent seeds, reference results and prediction seeds. No parameter tuning or best-seed selection.",
+  "novelty_claim": "none; conventional diagnostic controls added after reading all-global-calibration fallback results"
+}

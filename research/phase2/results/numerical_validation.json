@@ -1,0 +1,10 @@
+{
+  "scenes_per_condition": 4,
+  "timing_seconds": 15.532135072999608,
+  "reference_calls": 1474560,
+  "mean_dt_risk_difference": 0.0010213216145833334,
+  "max_dt_risk_difference": 0.021484375,
+  "mean_independent_mc_risk_difference": 0.0063751220703125,
+  "max_independent_mc_risk_difference": 0.033935546875,
+  "note": "Sensitivity diagnostic only; not proof of exact continuous dynamics or universal MC precision."
+}

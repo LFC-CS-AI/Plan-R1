@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "archive_path": "archives/plan_r1_phase2_research.zip",
+  "archive_bytes": 1724457,
+  "archive_sha256": "29aeb89af1d5f0d1d31eafa60026d3f68790dc37e180d90b20327bfc6c4c5e8f",
+  "archive_entries": 53,
+  "all_archive_entries_byte_match": true,
+  "crc_check": "PASS",
+  "manifest_files": 52,
+  "excluded_from_archive": [
+    "archives/plan_r1_phase2_research.zip",
+    "delivery_verification.json"
+  ],
+  "delivery": "GitHub branch download; this cloud runtime has no native projectless output directory."
+}
