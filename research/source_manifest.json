@@ -1,0 +1,22 @@
+{
+  "checked_on": "2026-10-20 Asia/Shanghai",
+  "official_repository": "https://github.com/XiaolongTang23/Plan-R1",
+  "local_repository": "/workspace/Plan-R1",
+  "local_remote": "https://github.com/LFC-CS-AI/Plan-R1.git",
+  "official_main_and_local_head": "23bc54433599002f275c18b88cf261ab5e87d775",
+  "paper_version": "arXiv:2505.17659v5",
+  "files": {
+    "model/PlanR1.py": "2da58bc96943e37782339cae01c296e23150ea526b913c93cdb8f4739e799533",
+    "config/train/plan.yaml": "611f6494d50a2ccdac705ea4df0f0fd6a8b231874351ca28dc538a45c7af3e58",
+    "train.py": "9509c1dded88bac01db3788c40994ec3c9130ed0ee9627aacec34313b3eed531",
+    "utils/process_data.py": "f3239d85d9e4158d3bdd920378a46ba9ab1111d66e6cdbe814076058836970b5",
+    "rewards/progress_reward.py": "4518e75ef4d2b43b71762c3e3a171cb3f32d35a41464ad4be686f33781ecf5c6",
+    "rewards/speed_limit_reward.py": "fe6f7bb713e9ac37e202935e8be6dff46cd817265eb0131c9cf77997b8c13d18",
+    "rewards/ttc_reward.py": "caa95c4c27be5d6ac5c9f1f162c5462b502d6ed65814f96304cd49b399b9f91c",
+    "rewards/comfort_reward.py": "6d6e14ba3ad9a1bd50fd4c10a01404420e2be1d483b5369dce30f012c4bfdd30",
+    "rewards/agent_collision_reward.py": "2dc2a73da0dd0ea852f69d57d1b3b941fbe09757b6493215489958bb069dfe6d",
+    "rewards/obstacle_collision_reward.py": "999ebea108243fbf7bb24a8812f690dbf3e38db146d72fc0e3f7cecba84dcae3",
+    "rewards/on_road_reward.py": "530e7c4ea5fff32ffab28163d92f71f5fa9b410e89ca3293ff873be83de1ef37"
+  },
+  "verification": "Official main commit fetched through connected GitHub GET API; local tracked files clean; no claims of benchmark reproduction"
+}

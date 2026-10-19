@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checks": {
+    "broadcast_weights.csv": true,
+    "gradient_metrics.csv": true,
+    "gradient_profiles.csv": true,
+    "learning.csv": true,
+    "model_error.csv": true,
+    "source_audit.json": true,
+    "termination.csv": true,
+    "summary_except_runtime": true
+  },
+  "runs": 2,
+  "scope": "all numerical CSVs, audit JSON and summary excluding runtime; SVG metadata not compared"
+}
