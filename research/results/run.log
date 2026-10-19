@@ -1,0 +1,116 @@
+{
+  "parameters": {
+    "H": 16,
+    "dt": 0.5,
+    "v0": 8.0,
+    "sigma": 0.8,
+    "wall": 66.0,
+    "penalty": 20.0,
+    "exogenous_p": 0.15,
+    "progress_weight": 0.05,
+    "effort_weight": 0.01,
+    "group_size": 4,
+    "cf_alternatives": 8,
+    "vd_scale": 1.0,
+    "learning_rate": 0.01,
+    "seeds": 8,
+    "groups_per_seed": 4096,
+    "iterations": 120
+  },
+  "truth": {
+    "value": -7.76811641703269,
+    "crash_probability": 0.39328582085163444,
+    "gradient": [
+      -3.8413537136218605,
+      -3.5935244417752883,
+      -3.345695169928717,
+      -3.097865898082145,
+      -2.850036626235574,
+      -2.6022073543890016,
+      -2.3543780825424308,
+      -2.1065488106958585,
+      -1.8587195388492872,
+      -1.6108902670027154,
+      -1.3630609951561439,
+      -1.1152317233095723,
+      -0.8674024514630007,
+      -0.619573179616429,
+      -0.37174390776985744,
+      -0.1239146359232858
+    ]
+  },
+  "source_audit": "passed",
+  "finite_difference_max_error": 4.246314411204821e-10,
+  "versions": {
+    "python": "3.9.25 (main, Oct 31 2025, 23:00:23) \n[Clang 21.1.4 ]",
+    "numpy": "1.24.4",
+    "matplotlib": "3.9.4",
+    "platform": "Linux-6.18.55-x86_64-with-glibc2.41"
+  },
+  "script_sha256": "563143d72f52cd7542420ca1d9830622b72a7bb4cc813002f5f4b8577c4272f4",
+  "seconds": 8.169260699999995,
+  "aggregated": {
+    "step": {
+      "early_mean": 0.005195331881740963,
+      "variance": 6.349229968200933,
+      "mse": 11.607339334093819,
+      "mean_gradient_rmse": 2.2933947078891332,
+      "cosine": -0.22276431375318073
+    },
+    "rtg": {
+      "early_mean": -3.412282195786208,
+      "variance": 89.10796414292322,
+      "mse": 89.1064261429764,
+      "mean_gradient_rmse": 0.140348798243845,
+      "cosine": 0.9981471115819198
+    },
+    "vd": {
+      "early_mean": -2.647169998518249,
+      "variance": 49.177228872770044,
+      "mse": 49.40395984800078,
+      "mean_gradient_rmse": 0.48850039587665506,
+      "cosine": 0.9963737446652887
+    },
+    "rloo": {
+      "early_mean": -3.432671710587128,
+      "variance": 46.82185050689391,
+      "mse": 46.82216437830854,
+      "mean_gradient_rmse": 0.10637820213984857,
+      "cosine": 0.9989371611800621
+    },
+    "counterfactual": {
+      "early_mean": -3.4518374244047165,
+      "variance": 13.48340502347791,
+      "mse": 13.484223315098111,
+      "mean_gradient_rmse": 0.0628711428003563,
+      "cosine": 0.9997180566909823
+    }
+  },
+  "final_learning": {
+    "step": {
+      "expected_return": -7.990224202055385,
+      "crash_probability": 0.40493414964471725,
+      "rollout_equivalents": 30720.0
+    },
+    "rtg": {
+      "expected_return": -0.8871471968770677,
+      "crash_probability": 0.009350344358322143,
+      "rollout_equivalents": 30720.0
+    },
+    "vd": {
+      "expected_return": -0.8935463981622953,
+      "crash_probability": 0.010761967659664626,
+      "rollout_equivalents": 30720.0
+    },
+    "rloo": {
+      "expected_return": -0.8868350011920726,
+      "crash_probability": 0.009548394715581034,
+      "rollout_equivalents": 30720.0
+    },
+    "counterfactual": {
+      "expected_return": -0.8859418401696566,
+      "crash_probability": 0.009392872331746016,
+      "rollout_equivalents": 3962880.0
+    }
+  }
+}

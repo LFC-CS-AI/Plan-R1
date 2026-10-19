@@ -1,0 +1,3 @@
+numpy==1.24.4
+matplotlib==3.9.4
+# Optional source audit: existing Plan-R1 CPU environment (torch 2.1.0+cpu and repository dependencies).
