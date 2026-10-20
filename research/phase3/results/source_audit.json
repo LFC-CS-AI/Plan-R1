@@ -1,0 +1,419 @@
+{
+  "base_commit": "23bc54433599002f275c18b88cf261ab5e87d775",
+  "evidence": [
+    {
+      "file": "transforms/token_builder.py",
+      "sha256": "81989b7c46351ea8d5ad23030d3b3a75b6dabc4db6ee38b5bd45c85e194570a6",
+      "functions": [
+        {
+          "function": "__init__",
+          "start_line": 16,
+          "end_line": 23
+        },
+        {
+          "function": "__call__",
+          "start_line": 25,
+          "end_line": 88
+        }
+      ]
+    },
+    {
+      "file": "model/PlanR1.py",
+      "sha256": "2da58bc96943e37782339cae01c296e23150ea526b913c93cdb8f4739e799533",
+      "functions": [
+        {
+          "function": "plan_inference",
+          "start_line": 198,
+          "end_line": 223
+        },
+        {
+          "function": "transition",
+          "start_line": 282,
+          "end_line": 305
+        },
+        {
+          "function": "rollout",
+          "start_line": 307,
+          "end_line": 348
+        },
+        {
+          "function": "reward_fn",
+          "start_line": 390,
+          "end_line": 415
+        }
+      ]
+    },
+    {
+      "file": "rewards/agent_collision_reward.py",
+      "sha256": "2dc2a73da0dd0ea852f69d57d1b3b941fbe09757b6493215489958bb069dfe6d",
+      "functions": [
+        {
+          "function": "forward",
+          "start_line": 18,
+          "end_line": 92
+        }
+      ]
+    },
+    {
+      "file": "rewards/obstacle_collision_reward.py",
+      "sha256": "999ebea108243fbf7bb24a8812f690dbf3e38db146d72fc0e3f7cecba84dcae3",
+      "functions": [
+        {
+          "function": "forward",
+          "start_line": 20,
+          "end_line": 72
+        }
+      ]
+    },
+    {
+      "file": "rewards/ttc_reward.py",
+      "sha256": "caa95c4c27be5d6ac5c9f1f162c5462b502d6ed65814f96304cd49b399b9f91c",
+      "functions": [
+        {
+          "function": "forward",
+          "start_line": 19,
+          "end_line": 92
+        }
+      ]
+    },
+    {
+      "file": "simulation/planr1_planner.py",
+      "sha256": "7f7d73583b29f5e745653067891154e34a60ec4677c7722da40cc1ed8fed6fbe",
+      "functions": [
+        {
+          "function": "compute_planner_trajectory",
+          "start_line": 53,
+          "end_line": 80
+        },
+        {
+          "function": "global_trajectory_to_states",
+          "start_line": 82,
+          "end_line": 101
+        }
+      ]
+    },
+    {
+      "file": "simulation/planr1_planner_with_refinement.py",
+      "sha256": "1a7e0122b310d59c8f7bd97c5128cbae9813b999a650726974c60c8ef6988f5d",
+      "functions": [
+        {
+          "function": "_get_closed_loop_trajectory",
+          "start_line": 147,
+          "end_line": 223
+        }
+      ]
+    },
+    {
+      "file": "utils/process_data.py",
+      "sha256": "f3239d85d9e4158d3bdd920378a46ba9ab1111d66e6cdbe814076058836970b5",
+      "functions": [
+        {
+          "function": "compute_corner_positions",
+          "start_line": 111,
+          "end_line": 131
+        },
+        {
+          "function": "interpolate_traj_using_midpoints",
+          "start_line": 161,
+          "end_line": 174
+        }
+      ]
+    },
+    {
+      "file": "datasets/nuplan_utils.py",
+      "sha256": "e8f2de8aba599705148223ed0eb10706d3abb38ec332126ca2091803e63e8f97",
+      "functions": [
+        {
+          "function": "get_features",
+          "start_line": 186,
+          "end_line": 657
+        }
+      ]
+    },
+    {
+      "file": "tuplan_garage/planning/simulation/planner/pdm_planner/scoring/pdm_scorer.py",
+      "sha256": "81503defd645c87bf7a649fe6896293b2a1dc33889ef873f40505bcef140b132",
+      "functions": [
+        {
+          "function": "_calculate_no_at_fault_collision",
+          "start_line": 328,
+          "end_line": 398
+        }
+      ]
+    }
+  ],
+  "original_file_sha256": {
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "assets/planr1.png": "02895c715cd7f5fbff6c671c421660c5c720e2483bde50ea30d019a9ba52a465",
+    "config/default_nuboard.yaml": "b2ce77760a4e716311512745891d92711dba628fa579e7ccb982561d47d35b4f",
+    "config/default_simulation.yaml": "0cdaf6e28df2cd851dd154999de6291522f7ae617b432658d7348a221dda097e",
+    "config/planner/planr1_planner.yaml": "edcf3f704fd902d49965f91b3eebd5025d2f64ac34f89d33b9f714a02c31c749",
+    "config/planner/planr1_planner_with_refinement.yaml": "32d6d11a0b062b239ffb27d93d82db1277118435c11f6346a4bfc70f17f0d1ab",
+    "config/scenario_builder/nuplan.yaml": "23e8d08b858074bac8c7347c1511ea02728cf78d1cbf9f6d2c011d252ab8f75b",
+    "config/scenario_builder/nuplan_challenge.yaml": "89ed8d6997648b72aa001238583bab4c617dfd829a82996d3657916c22505ec2",
+    "config/scenario_filter/test14-hard.yaml": "091c68fc52b6ac148f27d6c1fb5b19cfcc3529214111fbcc4ddd0b204457b5c5",
+    "config/scenario_filter/test14-random.yaml": "9c6fba880016e1101ff82502f3fee97b850b05f7b86583ad46436bc6ff10253b",
+    "config/scenario_filter/val14.yaml": "1a3d3ce13a3f52b2079115057bb5932146ba130a20bdc56a8415b8c97fd4e7d8",
+    "config/train/plan.yaml": "611f6494d50a2ccdac705ea4df0f0fd6a8b231874351ca28dc538a45c7af3e58",
+    "config/train/pred.yaml": "011df9d068360ad37fd0a2bb7b13d891ae9a4b13e39e175297e2260a631c5649",
+    "config/val/plan.yaml": "8958563dbfbfef8b9b798c180d5a3a10c4512bb3812abf2e221cdc14570483b8",
+    "config/val/pred.yaml": "da7bca09d9a0dcd093c2cd3dba0d8aaf9b7451074e47f46f8909e0df29652587",
+    "datamodules/__init__.py": "0a9f1c2a54cef750d7205931cf967ec24407deb16b7b4b4959abfc84022bdd0f",
+    "datamodules/__pycache__/__init__.cpython-39.pyc": "aeced2916fd1da4a9b9e5f1d83e249d13e83a02cae830db5c55f523f2f731bb6",
+    "datamodules/__pycache__/nuplan_datamodule.cpython-39.pyc": "6aed28fb4296df5dc803c217550ba59c500ef834c4278cd9cf265b6cf6dc2eaf",
+    "datamodules/nuplan_datamodule.py": "a5187db15255d7ccebf517f516b59bd9e146f4e6abf58bc9902b7d691e88e00b",
+    "datasets/__init__.py": "9efe3ebd1a3318050c473226ea45aabadc373d0a83da51cfe84bad8fbc3882c0",
+    "datasets/__pycache__/__init__.cpython-39.pyc": "0343897905f6779975c22ca6c9e67b0eceb89378214048ab8dd29a045c4c4967",
+    "datasets/__pycache__/nuplan_dataset.cpython-39.pyc": "0c10b824d721b6ca19395381886fd45f6aa05e4f649057914e7b44d1b4139d04",
+    "datasets/__pycache__/nuplan_utils.cpython-39.pyc": "717a2927b4143edade270f0f886bea319c988bd1ff11bbe7196d130f32ec68fa",
+    "datasets/nuplan_dataset.py": "79657504d9c5d734640cffea6623b790e3491fc2e6dd6b6cba5b8b69dc40b76f",
+    "datasets/nuplan_utils.py": "e8f2de8aba599705148223ed0eb10706d3abb38ec332126ca2091803e63e8f97",
+    "layers/__init__.py": "4c5474880ca635006e863e5da98b78c346b57e6ab8a9f58ff4a89ab27dfdd174",
+    "layers/__pycache__/__init__.cpython-39.pyc": "819d2359a22fdc2224b695f1edb21c783a5daecd2f3227a99cdb61c6986d9c57",
+    "layers/__pycache__/graph_attention.cpython-39.pyc": "90c025571a36673faca138dabadfab746ff6410b908b84c6e040ca7f209dd59d",
+    "layers/__pycache__/two_layer_mlp.cpython-39.pyc": "78435a28eb992eb49571dfd83ced6e1e57b9b5405d83abe881f138245b1be084",
+    "layers/graph_attention.py": "bd152fcc0d90a904c0bbb2f6bff0645376dc9ef8e5f99e7e9e0a905eb663fc76",
+    "layers/two_layer_mlp.py": "090f3c178509f49579a5a968726a779eb4bfe089596fc19136495e661727247d",
+    "metrics/__init__.py": "369413ed24240049adb3ea8295850cdadc085a1198557e4776612415b98d73ab",
+    "metrics/__pycache__/__init__.cpython-39.pyc": "5bb02d960ea691b8ba6be42813739e17ff496e54068b514b866b4b06c6025983",
+    "metrics/__pycache__/cumulative_reward.cpython-39.pyc": "236769223beeb0ede2638c3f5f11422b83ad032ab239626333f92d91b10d8e26",
+    "metrics/__pycache__/minJointADE.cpython-39.pyc": "6255e939f81586a09c004d7969ab921a08bf7f334ba188bcb2b1b34d2966a43d",
+    "metrics/__pycache__/minJointFDE.cpython-39.pyc": "ec1e159ba72b592140bfcd4060147988704bd849dbabf34950b3b953b64d1fd2",
+    "metrics/__pycache__/token_cls_acc.cpython-39.pyc": "2fa591f2d1c90c468eff1c34e5aec50bab764fe8b8dcf215eb76484c60f0c5f0",
+    "metrics/cumulative_reward.py": "7f85d004f2a0faf5d77de2e9c6890fa9cd97e4df7a459d8819e2f7d51afb525a",
+    "metrics/minJointADE.py": "35b19a40cf83069650db2cc8be4bfcd48efa01e1b3d494ced305ff40dad5546e",
+    "metrics/minJointFDE.py": "2587935845fb25fa9afad68cf7ea35a1310cf931c598496a04093dbf7ede7df0",
+    "metrics/token_cls_acc.py": "44df94f06a8a416c5324c08b42a7f71f2a6e9c7e18d200cddc416c8838dcf343",
+    "model/PlanR1.py": "2da58bc96943e37782339cae01c296e23150ea526b913c93cdb8f4739e799533",
+    "model/__init__.py": "fbb15c6990f8921629457f51279de59e088669a4ec0a2b9a7a8884e3cda48017",
+    "model/__pycache__/PlanR1.cpython-39.pyc": "748c0b169860d335b7b0796e69b92a6ea742b1308547facf1e661d4b572c96a6",
+    "model/__pycache__/__init__.cpython-39.pyc": "98016d3ffae53eeb059a514db76128e8284092e23d99b4f621d8d144d1c7c396",
+    "modules/__init__.py": "bbf456ed3db8710637428fe06a1397712a62f0382e61fed220721d0826eca470",
+    "modules/__pycache__/__init__.cpython-39.pyc": "e50503250938e487ffd370416d5b08796b41d3b0e631c0d5501fe03476057fe3",
+    "modules/__pycache__/backbone.cpython-39.pyc": "670438cc8ba4da88478049789855957fae1c217691f354d2bb2e9ca6f09d71e2",
+    "modules/__pycache__/map_encoder.cpython-39.pyc": "edd76828d282aa4ac0f1b474c9e9a5532dc344d961f8904326518e55776c257a",
+    "modules/backbone.py": "70f8a6cff26a136ec17893fdb623015f1ca14ebb7fcd2ef071399c5dbdbbe3c4",
+    "modules/map_encoder.py": "5742c988fa43d3825a85781b18fdee9017d0e6f2f575252922d0122da1b04908",
+    "preprocess_dataset.py": "a34130264b3894d4c7dc370b34a2866abc1b9e2d9526e306b906fff5b7c558ac",
+    "readme.md": "c326a20069b8ef2bda5959373b89e268e02677e0412901b2f36447c48d25dcdd",
+    "rewards/__init__.py": "b2219c6834c88a71a90860984bd7cf2eb42342e04dd2d242c367f6a11fd5c6f6",
+    "rewards/__pycache__/__init__.cpython-39.pyc": "3cfc5ab4871e9c38bcf1427a05e1874f24126debba696e1e6787a47e9c0e0141",
+    "rewards/__pycache__/agent_collision_reward.cpython-39.pyc": "05146d93723eb2610d6889a30d48192363c9ba62500a97a32214944b6649f12c",
+    "rewards/__pycache__/comfort_reward.cpython-39.pyc": "081add38dd4ded90c8380e88b3ed6102e37bba03f1c9710b1052f8b5778c0ccf",
+    "rewards/__pycache__/obstacle_collision_reward.cpython-39.pyc": "14247d5fac6db84051f9de5ed536cec180a249fa99abf6d376fe81304a5a1f3d",
+    "rewards/__pycache__/on_road_reward.cpython-39.pyc": "060dd15a83f3ed88892b6ee43b76ba529868d06eef5eda806fd1ab4dc7bda7f3",
+    "rewards/__pycache__/progress_reward.cpython-39.pyc": "f6cd6dbfe083869dd723903469827319d09ef910dce4f5d1c4df31de45174161",
+    "rewards/__pycache__/speed_limit_reward.cpython-39.pyc": "6fdc3dcb43b5505a2e7fb7a1ef26fb7a2c0d852318a628be1fef4b18fc97597e",
+    "rewards/__pycache__/ttc_reward.cpython-39.pyc": "c22ccbe74767887b76d072e8129a07493050fd03cb71d5a26f17514931adb838",
+    "rewards/agent_collision_reward.py": "2dc2a73da0dd0ea852f69d57d1b3b941fbe09757b6493215489958bb069dfe6d",
+    "rewards/comfort_reward.py": "6d6e14ba3ad9a1bd50fd4c10a01404420e2be1d483b5369dce30f012c4bfdd30",
+    "rewards/obstacle_collision_reward.py": "999ebea108243fbf7bb24a8812f690dbf3e38db146d72fc0e3f7cecba84dcae3",
+    "rewards/on_road_reward.py": "530e7c4ea5fff32ffab28163d92f71f5fa9b410e89ca3293ff873be83de1ef37",
+    "rewards/progress_reward.py": "4518e75ef4d2b43b71762c3e3a171cb3f32d35a41464ad4be686f33781ecf5c6",
+    "rewards/speed_limit_reward.py": "fe6f7bb713e9ac37e202935e8be6dff46cd817265eb0131c9cf77997b8c13d18",
+    "rewards/ttc_reward.py": "caa95c4c27be5d6ac5c9f1f162c5462b502d6ed65814f96304cd49b399b9f91c",
+    "run_nuboard.py": "74a0c4f541d98c92bf68d1f7827c2bbbf20c7028ab77a84c863ef65ac7bf4ff9",
+    "run_simulation.py": "01cca3dcdf7bf2acd113fc93ec66dec88a19c539a0cef4d646c39ee1317f59b7",
+    "simulation/__init__.py": "377b7192d26dab2b3bb1505100b140dc80de4ad47e5d91a48618c76a187008e9",
+    "simulation/__pycache__/__init__.cpython-39.pyc": "2b3eb6eddbf98c490e75d82189cea24ad631aff23a9e99f5ad09b55c39a7fc23",
+    "simulation/__pycache__/planr1_planner.cpython-39.pyc": "0cf6b45a84bdc1f551c338682d584268ec7a1121b782dda6e0a5b35e660f6c50",
+    "simulation/__pycache__/planr1_planner_with_refinement.cpython-39.pyc": "9e20a146256441cb3149d6b1e28f65c9509a9cebea488bd37e40729e29c97a46",
+    "simulation/planr1_planner.py": "7f7d73583b29f5e745653067891154e34a60ec4677c7722da40cc1ed8fed6fbe",
+    "simulation/planr1_planner_with_refinement.py": "1a7e0122b310d59c8f7bd97c5128cbae9813b999a650726974c60c8ef6988f5d",
+    "simulation/run_simulation.sh": "0841c011803c48992400d1dee8811ae809b17aa6637b146c79193be66ca9f77a",
+    "tokens/tokens_1024.pt": "72ad21c4c7530c48c6a7fd47355487e1b65b217ceda2db3bb0ee133466934213",
+    "train.py": "9509c1dded88bac01db3788c40994ec3c9130ed0ee9627aacec34313b3eed531",
+    "transforms/__init__.py": "d7863829c95dda820cefaba9200e4a06ca72dab485fb341fabaf349e9ed3823e",
+    "transforms/__pycache__/__init__.cpython-39.pyc": "cac120c1b09022cb98c71b4cb63339faf606b6501fd50db4fffb9815baa9683b",
+    "transforms/__pycache__/token_builder.cpython-39.pyc": "f1775c9b25facf94008f41affca994baaf7190e00b4fe217c0ff80893aa4938c",
+    "transforms/token_builder.py": "81989b7c46351ea8d5ad23030d3b3a75b6dabc4db6ee38b5bd45c85e194570a6",
+    "tuplan_garage/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/__pycache__/__init__.cpython-39.pyc": "2b4ed8fce9dd3790d84810cedc6a282709b54931d2c43b8c862637e5db72f7fb",
+    "tuplan_garage/abstract_idm_planner.py": "9dc50e28a32d2942ae3345783da76b33d3a61bf522b70cd6d2e72422e429bd82",
+    "tuplan_garage/planner_builder.py": "90dddb463a63337fe292e9cd1bf606bb8edcff86fc965270ae5f05baebd4e620",
+    "tuplan_garage/planning/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/script/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/script/config/common/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/script/config/common/model/gc_pgp_model.yaml": "0b98e5635551a7a76de70fd3586b82d43a6f73a18ad19a59f1f93e2b5fac642f",
+    "tuplan_garage/planning/script/config/common/model/pdm_offset_model.yaml": "860befc0279bdedd2fc05319d3c2635f6e2346aba50818e5638a057049c9d273",
+    "tuplan_garage/planning/script/config/common/model/pdm_offset_origin_model.yaml": "1ac70413e6502d99b6a3ebbc826cb98b9f73955203ecf72a405a752ac2d6a7d2",
+    "tuplan_garage/planning/script/config/common/model/pdm_open_model.yaml": "e7611632608de2b623bccba854075c319800a037667e64d325d72a6eaaf60b71",
+    "tuplan_garage/planning/script/config/common/model/pdm_ref_offset_model.yaml": "4d0d1ecf21a3c82a7e051a6b39e14159f723d985883f23f360531047ba76f245",
+    "tuplan_garage/planning/script/config/common/scenario_filter/reduced_val14_split.yaml": "30843cfa021653274bfaedc37179ca963c7a054f2fff2ca05699edcd974bca7a",
+    "tuplan_garage/planning/script/config/common/scenario_filter/test14_hard.yaml": "c08ad60959c4d528e191e5bbd8e4c8614ba1d5abe9569ddc3ea13d3061da1338",
+    "tuplan_garage/planning/script/config/common/scenario_filter/test_split_200.yaml": "ff4993fb3719081c3fe7734cf4fec415fe4772a30547333c80e990d8dc357b3c",
+    "tuplan_garage/planning/script/config/common/scenario_filter/test_split_30.yaml": "d41775ade25657fe2a315f79550c627e05495c0caf5715e0c0071a8eee70b3f8",
+    "tuplan_garage/planning/script/config/common/scenario_filter/train150k_split.yaml": "fc9fa16497cc2e0d0ecc95f6de613e745d72a994b5718ea2a99792991ce07b52",
+    "tuplan_garage/planning/script/config/common/scenario_filter/val14_split.yaml": "91921eb8d5491907504a028bcdf300a9a030ef36203766d36d68f6f8369060de",
+    "tuplan_garage/planning/script/config/simulation/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/script/config/simulation/callback/dummy_callback.yaml": "6e058547bef685575977f8d0532e373b7678e00e2c5839cde34b77c689dec566",
+    "tuplan_garage/planning/script/config/simulation/planner/pdm_closed_planner.yaml": "a2879883574fa2d38d137b3c29048dd920e5deac47a9a9e3a8f320ccb89db7d4",
+    "tuplan_garage/planning/script/config/simulation/planner/pdm_hybrid_planner.yaml": "f56daf85ade58077680bb18148389fecf6e94b00a0076df36b9b6eebedc84084",
+    "tuplan_garage/planning/script/config/simulation/planner/pdm_open_planner.yaml": "3738676f0a2712e70182eaff33d214410141dd4ca9427c4b0d7b0b20cfcba55e",
+    "tuplan_garage/planning/script/config/simulation/planner/str_closed_planner.yaml": "cbc9d52f2e0e7ed556276aba1003cdb759d45d3b6c32601d8d43890fa5f99272",
+    "tuplan_garage/planning/script/config/training/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/script/config/training/callbacks/multimodal_visualization_callback.yaml": "50752bbbb96c951c4f90b59519f388bc12e6a576bfe630a7b1773c8a59410282",
+    "tuplan_garage/planning/script/config/training/data_augmentation/pgp_agent_dropout_augmentation.yaml": "7c6282f029706c0d5bb72c173217ad6fd01e06d2f148c1ad016911c412a5da8d",
+    "tuplan_garage/planning/script/config/training/data_augmentation/pgp_ego_history_dropout_augmentation.yaml": "58d3c4cd0eddab39cd6ceb55c0e957c206c05fc1a83bf111b6eda8554c4993c9",
+    "tuplan_garage/planning/script/config/training/data_augmentation/pgp_kinematic_agent_augmentation.yaml": "bbbc8d9a744a0d4017c52ea9e282b36bf6cd90f08ec61a60598b98fa54a2a3a0",
+    "tuplan_garage/planning/script/config/training/objective/l1_objective.yaml": "3383c7f807af9bc4edd57ecbf11a72f285052001d962ea0042509552bab12e12",
+    "tuplan_garage/planning/script/config/training/objective/pgp_minADE_objective.yaml": "779c64a32d35931231f8452d16768c3345d0718604ce2187123154da46b3198b",
+    "tuplan_garage/planning/script/config/training/objective/pgp_traversal_objective.yaml": "8f426ce598699b6a22625715e8fce8d4214947ea871894f4b56819e51962ed3f",
+    "tuplan_garage/planning/script/config/training/training_metric/min_avg_displacement_error.yaml": "7a443963dadfe284460ffbba2806745437bfaf629a9c43a14c3ab2f0a7accdc7",
+    "tuplan_garage/planning/script/config/training/training_metric/min_final_displacement_error.yaml": "f52d199e913eaabc9e6ae87030308f4f87368b65c89517fd41fd79939fba6976",
+    "tuplan_garage/planning/script/experiments/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/script/experiments/training/training_gc_pgp_model.yaml": "091de47e832f915173c048a514eb51388234c8f090fc053d08b95a569c4a2ad1",
+    "tuplan_garage/planning/script/experiments/training/training_pdm_offset_model.yaml": "06e73144bb8ac57c043d2bf7c45315b19ba7ea13f80c096e7e15368e8b5bc367",
+    "tuplan_garage/planning/script/experiments/training/training_pdm_offset_origin_model.yaml": "ab052ef2aae63eaa6c98d301a129194f19af150c22bac5431815f9980c315f2c",
+    "tuplan_garage/planning/script/experiments/training/training_pdm_open_model.yaml": "222e4e75208a2b2f9a056115d0b045d324809f0fcc0644c0e451cf37dbc0f2d4",
+    "tuplan_garage/planning/script/experiments/training/training_pdm_ref_offset_model.yaml": "a874577dd80f981cb9b5bfc96cb2cdae8233ecf05645fb4fded5aaca72e8f211",
+    "tuplan_garage/planning/simulation/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/simulation/__pycache__/__init__.cpython-39.pyc": "64a1ed029ad0dca1e19fc1319d6b27c292e9c062199244ca09d972c4c9d14e48",
+    "tuplan_garage/planning/simulation/callback/dummy_callback.py": "f29bc13d3085a5383418c1199334953d79d64eb88c039d91579961c33302d2d9",
+    "tuplan_garage/planning/simulation/planner/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/simulation/planner/__pycache__/__init__.cpython-39.pyc": "98a9eb0c74dffe7df45532c896047bbb5c23c55ccae9ccf7cd5543cd09023037",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/__pycache__/abstract_pdm_closed_planner.cpython-39.pyc": "76735d06d1591cb93203ede7242dd9ed7951697239cb8182640ddbe54d0364b4",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/__pycache__/abstract_pdm_planner.cpython-39.pyc": "ce4ee30928ee6f837540bf9270cf348682a5a74f281f1c8f5fa268a0ed07ad34",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/__pycache__/pdm_closed_planner.cpython-39.pyc": "c2d9d6f283b8994917665bd093ad4bfbd1879e63eac01d648e99620d045077cd",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/__pycache__/pdm_str_closed_planner.cpython-39.pyc": "069ed3afec67518f8b81ac3f9af79e3fe174b1668928ef514f3c8845cf6af8c4",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/abstract_pdm_closed_planner.py": "159ef9f989b749439639894585ab6eaf46bde6cccb675f2174bc8f237844b52d",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/abstract_pdm_planner.py": "167d720b4a965e1698d8a5946fbd8dd88d13cdbe33c53a327160cced6cb34c36",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/observation/__pycache__/pdm_object_manager.cpython-39.pyc": "d9ea389fa6a4cdcdfade55bd02fc00fe6051d8d74943841d1de5a9acfa69b999",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/observation/__pycache__/pdm_observation.cpython-39.pyc": "88ab7ed6d503a1a3b0566c4b2dc073518b6d35d78e63d233ec7a4b7dda09af77",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/observation/__pycache__/pdm_observation_utils.cpython-39.pyc": "3a428e9e1534512b0e32c8d0b2fe05060d44ef07a8f61bdbc38487453667fbfc",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/observation/__pycache__/pdm_occupancy_map.cpython-39.pyc": "5d128ce91bd69c368d21e3696011cdb1a36a51f55234ccd985dc897b77b88474",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/observation/pdm_object_manager.py": "8903658d74d454f055c14d2f89d62d955695d66efe5c3e7c941c1e2791143abf",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/observation/pdm_observation.py": "143e29286034b1a20b4df8502eecd2b0c8161dd2f844668c32b7699603733908",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/observation/pdm_observation_utils.py": "2b0b0848d9380c02dafeab4f32dbb2e40eab2fdceabbced06686fc461fa82e90",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/observation/pdm_occupancy_map.py": "71c5c6ef7692002d1bf3eb13d45e0ad1919e3e115cdef99252b7aa2639428a8b",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/pdm_closed_planner.py": "cdd3a679b8fe7aadaba838d538409b0366091a7cbeac4b765d20d8a6b8af39a8",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/pdm_hybrid_planner.py": "0defafd957f96ab19eebae4e4a10c420a1af4bfbe5b8efa0c8a37b865e415912",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/pdm_open_planner.py": "fd7f3d01933d6e3fea1d061ee0915de6e195b095a7fad7e1a716e9d43001334e",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/pdm_str_closed_planner.py": "3a0f7327e5dd29560c8396adda1cced44a106acb4e5a2b5f115e3ead5d5365ea",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/proposal/__pycache__/batch_idm_policy.cpython-39.pyc": "b459b64515c156073e6168a73bf35fe95114a7c7aeae9c0ac72198e56ffe5c4d",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/proposal/__pycache__/pdm_generator.cpython-39.pyc": "f170fd29c492b1d777647e45bfd94f661eff43fa94fa0ba7aa41edbe4de40695",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/proposal/__pycache__/pdm_proposal.cpython-39.pyc": "c3826f6e0d76e6a46109cdcd53ab6631b68a726f65b04a71d2f7d3874d6e5088",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/proposal/batch_idm_policy.py": "65e559af2831b06827de64c956a738343fb053c7be54070906e8a1d2f64a5f06",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/proposal/pdm_generator.py": "b263b38c94aa05dab525fbcc41724288aaee0bfae6d4f316b890bc5c10b2630c",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/proposal/pdm_proposal.py": "c18121d3c68112ddd4bb37bef5d77cd0bb05159cde6be75515266f189df6f80e",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/scoring/__pycache__/pdm_comfort_metrics.cpython-39.pyc": "722e29ab18dce6d0f92da7cb94403e9a9840aa27cde23e52726cfe6a5f4f4054",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/scoring/__pycache__/pdm_scorer.cpython-39.pyc": "e3e5147e3e5ddd552ab08fd12ae8e423b9e22b23e66b1112cf3f4567ec374dbb",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/scoring/__pycache__/pdm_scorer_utils.cpython-39.pyc": "92704a3b3c5d4e743511a240c78f1116d20fb177dcc7df8410389565bc4aefa2",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/scoring/pdm_comfort_metrics.py": "102f61c1e0820cdf4dd084687bbb41495914e1152c3acb8b9f49ec00701e649e",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/scoring/pdm_scorer.py": "81503defd645c87bf7a649fe6896293b2a1dc33889ef873f40505bcef140b132",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/scoring/pdm_scorer_utils.py": "83bdcb13efab18d84926604ad15522c977981baf0932634e09fe7f017c241252",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/simulation/__pycache__/batch_kinematic_bicycle.cpython-39.pyc": "8d9ecfda8358a9d91369adbf0a5389d22e3c014ee7a0b1bdcca74462198470c0",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/simulation/__pycache__/batch_lqr.cpython-39.pyc": "fcfcccb18fbf07d46e649379ae1c15a0ba800733eb8a254999b0dcc9b12dd0c8",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/simulation/__pycache__/batch_lqr_utils.cpython-39.pyc": "1f1d5b5bd7c3dbd3b3a2c9c704d51733d9ca15f2299361c45f4c29f7b8ce4d3f",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/simulation/__pycache__/pdm_simulator.cpython-39.pyc": "437532705224d2a077aab7ec0e950a062c3bb9302a966ee6a360849606ce27ee",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/simulation/batch_kinematic_bicycle.py": "b84d47144531b061746f851c94e1b8b43ca1679699fb06e026ce6bad5daca6df",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/simulation/batch_lqr.py": "3c630b499b1b621198e700f9ae1cb00a39a96b4a3a6a1b4831273dbf9e61fe2e",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/simulation/batch_lqr_utils.py": "f138a74b2d1ceca3d150f391c79480c12fcf30ebd0b28ebf841739ecb541494e",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/simulation/pdm_simulator.py": "ba2688b8e46fcfcd8b638c4d2e4e29ffba3681115b2e5dc138a40cd86b961610",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/__pycache__/pdm_array_representation.cpython-39.pyc": "421b86d23f3fa263725f772776762ed155549716083402512f8fc83e50b54aaf",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/__pycache__/pdm_emergency_brake.cpython-39.pyc": "37061bcef02e95a50811d1c1913f9e4003a2f03d4e365dc18f2982b28753fc17",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/__pycache__/pdm_enums.cpython-39.pyc": "bb54d575ad52a3f34673850465eaba4f4bec47cba7a3d92a1c2aa4de7ed711ed",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/__pycache__/pdm_geometry_utils.cpython-39.pyc": "9d161774b171ced114dad92dd10be56e91e19e5d73c7d9be67330380bd7f1933",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/__pycache__/pdm_path.cpython-39.pyc": "6288246b311fd0e7b81da4c422627f934e14792e549c406316b2f437b9d92cee",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/__pycache__/route_utils.cpython-39.pyc": "1c5709bda00bc7b218cc7ad5c231e0d24ce3e4642bc0cd0ed3b3dfd729ef8d09",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/graph_search/__pycache__/bfs_roadblock.cpython-39.pyc": "281ebd0baaa72bdf9dd1403bf9e4d8248f5704358e3d013e89109236e3239d1a",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/graph_search/__pycache__/dijkstra.cpython-39.pyc": "5584991017885465874dda06d58d435677cc4d3a333862dcb93f7572b40fb2e9",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/graph_search/bfs_roadblock.py": "009182a7131124d1088e10e550d29bfc9ae34762ad326970f51c2a340ffe2435",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/graph_search/dijkstra.py": "87484e9057d49f97d955c08e62f899e7f4e1d49027be6f47635b643be34bc293",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/pdm_array_representation.py": "af623764285bdfc41cea8cb59e13183c80c8b9fb5fc346b7f719a36531a23bd1",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/pdm_emergency_brake.py": "ef1b3bbd5191986d5007e0f5c73d1e5a9ac9b4a14bc64ef9705dc47d4f0fa811",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/pdm_enums.py": "0e0eb8d34a541c681393f22d6fc3a435f61557202bc31273139b0a7e3c5b49e2",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/pdm_feature_utils.py": "0f4807f92af31d21ada4d21e6da9a28e07d118de0ee8431ffc88e5a3325daa0f",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/pdm_geometry_utils.py": "1a3bf1bc3c6a9b1fa699bdba714f81a4bebcc29bc26b6336df917af28cd30834",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/pdm_path.py": "76bf7796a28a2bebc5633cb28fd324220845340d4365fd93601a1c92f34a802c",
+    "tuplan_garage/planning/simulation/planner/pdm_planner/utils/route_utils.py": "e1ee810d52866c84055929108d84bb036c08042a5cb1e99c3a56d2c224937a52",
+    "tuplan_garage/planning/training/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/training/callbacks/multimodal_visualization_callback.py": "3f4b4bd769834eaea0fa41c921d77ee7fcf67cdb91aeff643b4a245fc5517417",
+    "tuplan_garage/planning/training/data_augmentation/pgp/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/training/data_augmentation/pgp/pgp_agent_dropout_augmentation.py": "9a1fee9eb4003ef22c58827e0d96fa1b58371b5297b8acf51c91ea5033cb2dae",
+    "tuplan_garage/planning/training/data_augmentation/pgp/pgp_ego_history_dropout_augmentation.py": "d00f864db6a72c4f168f355d61f91d93e99b5bc76a5eaab6085e4178a9503925",
+    "tuplan_garage/planning/training/data_augmentation/pgp/pgp_kinematic_agent_augmentation.py": "a6a5ddeed9c50e4bb805a3badc4a1d8c3e7cb7ab5e2e3713e485359b96948bc3",
+    "tuplan_garage/planning/training/modeling/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/training/modeling/metrics/prediction_metrics.py": "fc8c00be5166ef2433d07aa4d1e02366b9ee7c9b57beef4e6ec52aa1ad076bc4",
+    "tuplan_garage/planning/training/modeling/models/pdm_offset_model.py": "68d412d17a1aecab6ac9331e68ccca47c5cf4f8052e9506fabfa436acaa2e83b",
+    "tuplan_garage/planning/training/modeling/models/pdm_offset_model_origin.py": "ad39992abe619852efbea7ef347992b6d5774c05f6928cdc895011470302148a",
+    "tuplan_garage/planning/training/modeling/models/pdm_open_model.py": "ed2a420b814d00c87c8d01ebba94492cc52b89243356a7d85d8c08cba0d53425",
+    "tuplan_garage/planning/training/modeling/models/pdm_ref_offset_model.py": "5dc0ac0f91454c2041dd7ebf470eadba1ad4d71aac614de294d94c145ebb7320",
+    "tuplan_garage/planning/training/modeling/models/pgp/PGP_DESCRIPTION.md": "155f4c054e4d7d3eba097ffab1657282e1bc848868be8b0d8da415888831d508",
+    "tuplan_garage/planning/training/modeling/models/pgp/pgp_aggregator.py": "927a34a6abaaadca2cab922278cdb2274f36ac325fc269b74db5d559e027dc98",
+    "tuplan_garage/planning/training/modeling/models/pgp/pgp_decoder.py": "9059869fff15f7ea41b886aeea2e26566d53c08850773bf81cd13cc8345f44cb",
+    "tuplan_garage/planning/training/modeling/models/pgp/pgp_encoder.py": "e1429218a2069960dcf731325fc7046fdbc1b7663e047035622db678c8170d79",
+    "tuplan_garage/planning/training/modeling/models/pgp/pgp_model.py": "dc70cd4cee0a74e7e9947f5cb4226b3eadf8c5f8f2c42f3a76374c585733131c",
+    "tuplan_garage/planning/training/modeling/models/pgp/utils.py": "19204829805708bd4ed37c5c4872c2c368115342afe0eff38b710f6e08d1fc22",
+    "tuplan_garage/planning/training/modeling/objectives/l1_objective.py": "c4638d320be2fe9ce351c6fbff7260871670b8e954051123d8e8c5c77b62eff6",
+    "tuplan_garage/planning/training/modeling/objectives/pgp_minADE_objective.py": "8beb56b012781511e3de51e680e1ba7ae1d4725ffed1daf05812b296853dd440",
+    "tuplan_garage/planning/training/modeling/objectives/pgp_traversal_objective.py": "bcd825b864c3d183d76db2ccfac0648c058efdfe98b4e6d463619b6b4a3909eb",
+    "tuplan_garage/planning/training/preprocessing/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tuplan_garage/planning/training/preprocessing/feature_builders/pdm_feature_builder.py": "a2d524a823ba6c25448815ddba9aee955b54d2e8af1df0063b0eb8e97174bffc",
+    "tuplan_garage/planning/training/preprocessing/feature_builders/pgp/pgp_ego_agents_feature_builder.py": "de68ab22fc78393cc00f5cae4e7f9685bdbe67a30b2818da44a4ca3dcbf71347",
+    "tuplan_garage/planning/training/preprocessing/feature_builders/pgp/pgp_feature_builder.py": "263c0620a7608b7d0abc63db860c07a0073469e82f1a8cee76db666b42dadb84",
+    "tuplan_garage/planning/training/preprocessing/feature_builders/pgp/pgp_graph_map_feature_builder.py": "63fb8038167fdcb8314ca2ceb8b1fa57fdea44fc86dd02a9073c53238ab03bca",
+    "tuplan_garage/planning/training/preprocessing/feature_builders/pgp/pgp_graph_map_feature_builder_utils.py": "adfab82edcac5f5d4f523c9509ee09a43bdb1f1bbfd56511f2c64ea58848eda7",
+    "tuplan_garage/planning/training/preprocessing/feature_builders/route_utils.py": "98d8b0e172e13f4781984d4208840219fb11974e9d9db8778308df366698e661",
+    "tuplan_garage/planning/training/preprocessing/features/pdm_feature.py": "1c1853872664b21c5052c6d9fee6ba82c5dec8cfa274ea28a8d222b3494ca835",
+    "tuplan_garage/planning/training/preprocessing/features/pgp/pgp_agent_node_masks.py": "a1d6f1164ec0fb856dc0dd51f3990d5d78065525ab04e64e03009c4f022ea9cf",
+    "tuplan_garage/planning/training/preprocessing/features/pgp/pgp_ego_agents.py": "4ac1b058f252a30891e0c6c3debc6274b140fd8dd975d08e6c7f7bb31c10dab7",
+    "tuplan_garage/planning/training/preprocessing/features/pgp/pgp_features.py": "0f50e02acea218a5f0ec8c4972fe3a5c5257178f568c6df058680715a31f4891",
+    "tuplan_garage/planning/training/preprocessing/features/pgp/pgp_graph_map.py": "a244e38a0bf5db152eabe740c470b475c9b16404af417689c25486f6ae344222",
+    "tuplan_garage/planning/training/preprocessing/features/pgp/pgp_targets.py": "53061b4220dfdc8aad29bb28b15807ab243e939d3f741ee47d7e5e1174331913",
+    "tuplan_garage/planning/training/preprocessing/features/pgp/pgp_traversals.py": "9520e0e978f6426b957d8dc6965d4621183958715ab5aae1a6c5ba682f6edf56",
+    "tuplan_garage/planning/training/preprocessing/features/trajectories_multimodal.py": "9cb524bad81cdb92f9b5506ea05b73615e5a89a31a73e97e8ff49041758c0394",
+    "tuplan_garage/planning/training/preprocessing/target_builders/multimodal_trajectories_target_builder.py": "f1a8b230d2f7ca1267090375de9b64a017e2b99273fe4ef8a43cb7d9d3540e51",
+    "tuplan_garage/run_nuboard.py": "b2c7e534c7d193752f7ecebb0bc9901aeae161462e1341b3f84e567b9279fc4c",
+    "tuplan_garage/run_simulation.py": "2a007372e350ea43d91eab125216d9a6a99b50b5b7cdde03f2eca2a9539b783d",
+    "tuplan_garage/scripts/run_caching.sh": "15e239dfe1dab796ccb9292d1e12512f6f3a071458fa5c7df2142a7a3f5af009",
+    "tuplan_garage/scripts/run_simulation.sh": "e73d82170effd6ac8ed1b8a8f9ba923aefeb43fb8b58eaa0e8b0d0740aa523bf",
+    "tuplan_garage/scripts/run_training.sh": "f80bcbd026bf13c59fda84fbbcc96efae530c0af5b8782e4a4e28967543f3b67",
+    "tuplan_garage/scripts/run_training_origin.sh": "72837c81489d30e6b5a41fb8cdffc352ac8831026fb86b1e62614994ae37abd5",
+    "tuplan_garage/scripts/run_training_ref.sh": "e6ff1ad96c2c60ab05fe31ee932d3f5f928064e8e36b8f15e44ba0154ae8de59",
+    "tuplan_garage/simulation_log_callback.py": "a6f361126afcf5382b1c456420355457a95793200a6bb5f8c4babaff4e756ff7",
+    "utils/__init__.py": "6e45022e035e092eafc1593fad70e078966e1b1b58e76b9b76ad1d90d6ee95b6",
+    "utils/__pycache__/__init__.cpython-39.pyc": "b47a03a22a4bd7770692048c215c945ea4ec123076122bd79cad60b22ada21d4",
+    "utils/__pycache__/config.cpython-39.pyc": "1c1ec8ee1f8ee8cac7e2d494cd634cbba98bf67d77cdb411dc63bfc37156ce33",
+    "utils/__pycache__/init_weights.cpython-39.pyc": "ef7102223b7dbb167867d452219491fdfcea6270de36b59dd27f59724a24e48b",
+    "utils/__pycache__/process_data.cpython-39.pyc": "04fde08d2a31a88fa5bceb767a26581bed834478acacaaafc9a887fcd056f725",
+    "utils/config.py": "5f52d2326077be0b278e3b7dabfad52fd76dfe5d7caba5fb35259fbbbe5543cd",
+    "utils/init_weights.py": "b65a1ef2fa068c41457379de6c9e9f19d7c01908f4f624288577b34aa2fc8aef",
+    "utils/process_data.py": "f3239d85d9e4158d3bdd920378a46ba9ab1111d66e6cdbe814076058836970b5",
+    "val.py": "152fc95b23a4cb6fac5440c2355b778e88e9bd0d5ec76c2748ac0aed697d9399",
+    "visualization/__init__.py": "5652ecb839fc5786d05e1d2ef0089e09335508b5417dcbdb325025f7b7913a12",
+    "visualization/__pycache__/__init__.cpython-39.pyc": "f8ace16a9f828e2e8f593e4297cf34eda5f7a8d2e6928b99c5b3775f7df1c02a",
+    "visualization/__pycache__/visualization.cpython-39.pyc": "5bab5e4500cab2b1d7169490f82f254aba33a4bfc01d3a5b9cb870e751cf8158",
+    "visualization/visualization.py": "a93fa4d914610c5ba44eea9d73ba13a3699c43a6c355d6457dccddfce487482c"
+  },
+  "token": {
+    "path": "tokens/tokens_1024.pt",
+    "bytes": 38682,
+    "sha256": "72ad21c4c7530c48c6a7fd47355487e1b65b217ceda2db3bb0ee133466934213",
+    "shapes": {
+      "Vehicle": [
+        1024,
+        3
+      ],
+      "Pedestrian": [
+        1024,
+        3
+      ],
+      "Bicycle": [
+        1024,
+        3
+      ]
+    }
+  },
+  "transition_ast_verification": {
+    "status": "PASS",
+    "scope": "Exact original transition function body; not full model inference.",
+    "max_abs_error": 3.713327192400584e-07
+  },
+  "real_model_preflight": {
+    "checkpoints_found": [],
+    "verified_real_outputs_found": 0,
+    "reason": "No checkpoint or recorded model-output/feature bundle supplied. No random-weight outputs substituted."
+  },
+  "dormant_midpoint_helper": "Definition and export only: repository search found no invocation in reward or planner path."
+}

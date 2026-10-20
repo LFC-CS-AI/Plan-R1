@@ -1,0 +1,23 @@
+/workspace/.planr1/venv/lib/python3.9/site-packages/torch/_utils.py:831: UserWarning: TypedStorage is deprecated. It will be removed in the future and UntypedStorage will be the only storage class. This should only matter to you if you are using storages directly.  To access UntypedStorage directly, use tensor.untyped_storage() instead of tensor.storage()
+  return self.fget.__get__(instance, owner)()
+completed 1103 crossing_vehicle elapsed 1.09
+completed 1103 opposing_vehicle elapsed 2.04
+completed 1103 crossing_pedestrian elapsed 2.91
+completed 2207 crossing_vehicle elapsed 3.88
+completed 2207 opposing_vehicle elapsed 4.87
+completed 2207 crossing_pedestrian elapsed 5.73
+completed 3301 crossing_vehicle elapsed 6.58
+completed 3301 opposing_vehicle elapsed 7.61
+completed 3301 crossing_pedestrian elapsed 8.52
+completed 4409 crossing_vehicle elapsed 9.43
+completed 4409 opposing_vehicle elapsed 10.46
+completed 4409 crossing_pedestrian elapsed 11.38
+{
+  "elapsed_seconds": 11.475990280999895,
+  "feasible_token_counts": {
+    "Vehicle": 304,
+    "Pedestrian": 94
+  },
+  "diagnostic_rows": 3072,
+  "candidate_rows": 2176
+}

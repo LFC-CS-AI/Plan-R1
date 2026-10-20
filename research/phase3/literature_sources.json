@@ -1,0 +1,56 @@
+{
+  "checked_on": "2026-10-20 Asia/Shanghai",
+  "sources": [
+    {
+      "name": "CorrectionPlanner",
+      "url": "https://proceedings.mlr.press/v306/guo26ae.html",
+      "full_text": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/guo26ae/guo26ae.pdf",
+      "read": "Official PDF sections3\u20134.3, algorithms, relevant experiments; cross-check arXiv2603.15771v1",
+      "pdf_sha256": "d53f982158b28d237b0538d3b63e9357905091139a71141c3aaa377a7e23b1c9"
+    },
+    {
+      "name": "FCL",
+      "url": "https://gamma.cs.unc.edu/FCL/fcl_docs/webpage/pdfs/fcl_icra2012.pdf",
+      "read": "Author-hosted PDF, continuous collision/CA/bounds and library architecture sections"
+    },
+    {
+      "name": "Redon CCD",
+      "url": "https://doi.org/10.1111/1467-8659.t01-1-00587",
+      "read": "Primary publisher abstract and metadata only; full text inaccessible in this session; no detailed theorem comparison"
+    },
+    {
+      "name": "SMART",
+      "url": "https://arxiv.org/html/2405.15677v2",
+      "read": "Tokenization3.1, architecture/training context; official NeurIPS2024 metadata checked"
+    },
+    {
+      "name": "Sampled-data CBF",
+      "url": "https://arxiv.org/html/2103.03677v2",
+      "read": "Problem1, Theorem1/3/4, continuous-safety margins and example systems"
+    },
+    {
+      "name": "Predictive safety filter",
+      "url": "https://arxiv.org/pdf/1812.05506",
+      "version": "v4 17 May2021 / Automatica2021",
+      "read": "System/assumptions, section4 and Theorem4.6, backup/feasibility limitations"
+    },
+    {
+      "name": "REDEFINED",
+      "url": "https://arxiv.org/pdf/2403.12280",
+      "read": "SectionIV assumptions9/10, RDF/Theorem12, sectionV neural representation; project page cross-check"
+    },
+    {
+      "name": "SafeDiffuser",
+      "url": "https://arxiv.org/pdf/2306.00148",
+      "official": "https://openreview.net/pdf?id=ig2wk7kK9J",
+      "read": "Section3 finite diffusion-time invariance, planning vs diffusion clock, generator constraints"
+    },
+    {
+      "name": "Shielding",
+      "url": "https://arxiv.org/pdf/1708.08611",
+      "official": "https://ojs.aaai.org/index.php/AAAI/article/view/11797",
+      "read": "Section5 preemptive/post-posed, assumptions, learning with intervention; official AAAI2018 metadata"
+    }
+  ],
+  "scope": "Targeted comparison, not exhaustive novelty certification; no full-paper performance reproduction."
+}

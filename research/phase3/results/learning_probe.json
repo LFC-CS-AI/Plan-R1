@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "candidate_banks": 272,
+  "interval_expected_cost": 0.06875118685879399,
+  "endpoint_expected_cost": 0.03662941062269366,
+  "token_logit_gradient_change_norm": 0.0010504701100876536,
+  "endpoint_position_jacobian_max": 0.0,
+  "elapsed_seconds": 0.09470298299993374,
+  "interior_bridge_safety_gradient": [
+    -6.788367766136143,
+    6.04798831843677
+  ],
+  "coefficient_update_applied": false,
+  "scope": "Autograd verification only. No policy/head training, independent validation score, or certified learned controller.",
+  "missing": "Bridge coefficients are NOT executed or optimized here; full dynamics limits, state-conditioned endpoint speeds and tracking remain to implement."
+}

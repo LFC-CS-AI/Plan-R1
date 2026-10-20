@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "sat_vs_independent_shapely_pairs": 600,
+  "native_crossed_bar_miss_confirmed": true,
+  "translation_temporal_collision_confirmed": true,
+  "hermite_endpoint_and_bound_checks": true
+}

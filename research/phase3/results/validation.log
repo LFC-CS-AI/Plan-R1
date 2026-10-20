@@ -1,0 +1,18 @@
+/workspace/.planr1/venv/lib/python3.9/site-packages/torch/_utils.py:831: UserWarning: TypedStorage is deprecated. It will be removed in the future and UntypedStorage will be the only storage class. This should only matter to you if you are using storages directly.  To access UntypedStorage directly, use tensor.untyped_storage() instead of tensor.storage()
+  return self.fget.__get__(instance, owner)()
+{
+  "status": "PASS",
+  "original_diagnostic_code_hashes_match": true,
+  "all_linear_collision_witnesses_shapely_checked": 414,
+  "ccd_safe_has_no_dense_counterexample": true,
+  "temporal_leaks": 83,
+  "post_hoc_translation_radius_m": 0.1,
+  "perturbations_per_leak": 9,
+  "leaks_surviving_all_9_perturbations": 66,
+  "leaks_surviving_at_least_5_perturbations": 83,
+  "leaks_also_satisfying_conservative_curvature_bound_025": 82,
+  "linear_hermite_event_disagreements": 0,
+  "additional_geometry_queries": 169615,
+  "elapsed_seconds": 0.7610451499999726,
+  "scope": "After-main sensitivity analysis on all temporal leak cases. Conditional robustness, not an unbiased population collision-rate estimate."
+}

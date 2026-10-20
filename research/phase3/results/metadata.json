@@ -1,0 +1,76 @@
+{
+  "protocol": {
+    "version": "phase3-round1-before-results",
+    "date": "2026-10-20 Asia/Shanghai",
+    "source_base": "23bc54433599002f275c18b88cf261ab5e87d775",
+    "token_duration": 0.5,
+    "seeds": [
+      1103,
+      2207,
+      3301,
+      4409
+    ],
+    "scenes_per_seed_per_kind": 256,
+    "kinds": [
+      "crossing_vehicle",
+      "opposing_vehicle",
+      "crossing_pedestrian"
+    ],
+    "sample_steps_seconds": [
+      0.5,
+      0.1,
+      0.02,
+      0.005
+    ],
+    "ccd_min_interval_seconds": 5e-05,
+    "kinematics": {
+      "max_speed": 35.0,
+      "max_acceleration": 6.0,
+      "max_yaw_rate": 0.6,
+      "min_forward_speed": 0.3
+    },
+    "tube_acceleration_bound": 6.0,
+    "tube_angular_acceleration_bound": 1.0,
+    "candidate_scenes_per_seed_per_kind": 24,
+    "candidates_per_scene": 8,
+    "candidate_speed_band_mps": 1.5,
+    "sampling": "Uniform token IDs in a declared kinematic-feasible subset, uniform relative geometry, independent seeds. No model outputs or collision-conditioned resampling. Analyze initially-clear subset; retain all raw scenes.",
+    "reference": "Adaptive interval SAT for specified linear-SE2 bridge; independent cubic-Hermite nonholonomic bridge sensitivity; bounded-acceleration outer tube returns uncertified, never labels potential overlap as actual collision.",
+    "baselines": [
+      "native_endpoint",
+      "sat_endpoint",
+      "sat_10hz_filter",
+      "sat_50hz_filter",
+      "ccd_filter",
+      "sat_10hz_rerank",
+      "ccd_rerank",
+      "tube_rerank"
+    ],
+    "stop_rules": [
+      "No Plan-R1 benchmark claim without actual checkpoint outputs and independent tracking/evaluation.",
+      "If 10/50Hz SAT and candidate filtering remove the main gap at negligible total cost, detector replacement alone is not a method paper.",
+      "If nominal leakage disappears under kinematic constraints or occurs only at zero-clearance contact, do not build a learning-method claim on it.",
+      "Safety learning requires evidence beyond the same external geometry checker; correction traces or a new binary collision head alone overlap CorrectionPlanner."
+    ]
+  },
+  "elapsed_seconds": 11.475990280999895,
+  "process_cpu_note": "Elapsed perf_counter wall time for CPU-only execution, not OS summed process time.",
+  "python": "3.9.25",
+  "numpy": "1.24.4",
+  "torch": "2.1.0+cpu",
+  "feasible_token_counts": {
+    "Vehicle": 304,
+    "Pedestrian": 94
+  },
+  "diagnostic_rows": 3072,
+  "candidate_rows": 2176,
+  "source_hashes": {
+    "source_audit.py": "82d70877adea1b1befd270cf15b85f4890f694b6a70ebcf19be5dbece153b779",
+    "run_diagnostics.py": "322dc54ee255f296af13839b9d8cb7203377b75a2308571e9b3b11ddae9ddc55",
+    "test_geometry.py": "30aab5ab71c51492eb7292d38aafe654422b1d9cc200e802616ec69bd56eb3f4",
+    "motion_geometry.py": "703e7412389f1fb8ac173bb1b2cecaae676470ac497aaa934e91ee8150a113b5",
+    "native_probe.py": "078f887f37ef1c0a1f5d775411b9087060f22fadedce34bd74674e3ad02fc4b9"
+  },
+  "protocol_sha256": "c696e819008273d925dbd8db328ed75b9e490e894c65f0c24b1d4dbcc932099b",
+  "sampling_warning": "Synthetic uniform geometric stress population using actual token IDs; no learned-policy distribution or real benchmark failure rate."
+}

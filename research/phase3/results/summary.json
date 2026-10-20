@@ -1,0 +1,18 @@
+{
+  "status": "completed",
+  "real_model_output_intervals": 0,
+  "diagnostic_intervals": 3072,
+  "initially_clear": 2894,
+  "nominal_interval_collisions": 236,
+  "pure_temporal_misses": 83,
+  "synthetic_temporal_miss_fraction_wilson95": [
+    0.02319589293589401,
+    0.03541375194433785
+  ],
+  "candidate_scenes": 272,
+  "ten_hz_ccd_rerank_choice_agreement": 272,
+  "main_cpu_only_wall_seconds": 11.475990280999895,
+  "sensitivity_seconds": 0.7610451499999726,
+  "learning_autograd_probe_seconds": 0.09470298299993374,
+  "note": "Wilson interval is a descriptive binomial approximation for this fixed synthetic population, not a real-model benchmark inference."
+}

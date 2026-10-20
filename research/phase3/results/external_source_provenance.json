@@ -1,0 +1,17 @@
+{
+  "scope": "Installed local nuplan-devkit source read, not executed closed-loop metrics.",
+  "files": [
+    {
+      "path": "nuplan/planning/simulation/trajectory/interpolated_trajectory.py",
+      "sha256": "148f5ef4db7dbfa2749297ac3f35fc32ce27520f4822d9c6d4b60d7ade674e40"
+    },
+    {
+      "path": "nuplan/common/geometry/compute.py",
+      "sha256": "b703c457090ab288b14ba747ebc75725a3df9dadd2095da145c3224620736c52"
+    },
+    {
+      "path": "nuplan/planning/metrics/evaluation_metrics/common/no_ego_at_fault_collisions.py",
+      "sha256": "6d1a5a1aef78bc22e3d1bf1fa943bf0a49e20c48d28dc1dd737cee1440f4cb03"
+    }
+  ]
+}

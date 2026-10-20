@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "reproduction_commit": "2089549",
+  "byte_identical_scientific_tables": [
+    {
+      "file": "candidate_bank.csv",
+      "byte_identical": true,
+      "sha256": "05692a82e97cb30fca8144bb9cb6556d56b4d3c0d6014c412ff8c3116834cdc0"
+    },
+    {
+      "file": "vocabulary_kinematics.csv",
+      "byte_identical": true,
+      "sha256": "7602a3121979fe21515fa92d2eb5332d851aec19eacbd7072fe21856c8d2e2da"
+    },
+    {
+      "file": "selections.csv",
+      "byte_identical": true,
+      "sha256": "f0f012b588c2bd7a3055d66849a4a430e7cc4f5834ebbe8721e8d385a664525f"
+    },
+    {
+      "file": "leak_robustness.csv",
+      "byte_identical": true,
+      "sha256": "a8c104a9e96e9eb31afc030c374b77e7761b4e46fd93f42cbe539617acc75f56"
+    },
+    {
+      "file": "detection_summary.csv",
+      "byte_identical": true,
+      "sha256": "e18cd38826dc1d522d65cc2659e54e30c0255317d86c8e5848bcd76676b80158"
+    },
+    {
+      "file": "seed_summary.csv",
+      "byte_identical": true,
+      "sha256": "542a259eccec60afc9d69c3b9ecf6caa219c32746102dbbf26afb2c2ba21f255"
+    }
+  ],
+  "diagnostic_rows": 3072,
+  "diagnostic_event_and_token_fields_exact": true,
+  "diagnostic_gap_values_with_roundoff_difference": 281,
+  "max_diagnostic_gap_abs_difference": 7.105427357601002e-15,
+  "diagnostic_gap_absolute_tolerance": 1e-12,
+  "selection_summary_equal_except_actual_runtime": true,
+  "main_reproduction_elapsed_seconds": 11.618724594000014,
+  "independent_worktree": true,
+  "scope": "Full phase3 rerun only; no phase1/phase2 or neural training. Retain original data; last-bit gap roundoff is reported, not rounded away. Timing and provenance differ; final report editorial wording differs."
+}
