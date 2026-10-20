@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "checks": 1702,
+  "bases": 21,
+  "dynamics_grid_points": 2001,
+  "reference_dense_hz": 10000,
+  "note": "Cross-checks, not proof that all possible token pairs have a feasible bridge; certificates conditional on stated kinematics."
+}

@@ -1,0 +1,16 @@
+Certified original-token bases: 21
+Traceback (most recent call last):
+  File "/workspace/Plan-R1-phase4/research/phase4/build_data.py", line 50, in <module>
+    if __name__=='__main__':run()
+  File "/workspace/Plan-R1-phase4/research/phase4/build_data.py", line 37, in run
+    cap=b['cap_'+family];fg=refined_margins(coeff,xgrid*cap,s,family).tolist();fc=[]
+  File "/workspace/Plan-R1-phase4/research/phase4/geometry.py", line 45, in refined_margins
+    cs=np.asarray(cs);t=np.linspace(0,1,201);g=point_gaps(coeff,cs[:,None],scene,t[None,:],family)
+  File "/workspace/Plan-R1-phase4/research/phase4/geometry.py", line 36, in point_gaps
+    return sat_gap(pa,other_pose(scene,t),EGO_BOX,OTHER_BOX)
+  File "/workspace/Plan-R1-phase4/research/phase3/motion_geometry.py", line 75, in sat_gap
+    axes=np.stack([ua,va,ub,vb],-2);rel=cb-ca
+  File "<__array_function__ internals>", line 200, in stack
+  File "/workspace/.planr1/venv/lib/python3.9/site-packages/numpy/core/shape_base.py", line 464, in stack
+    raise ValueError('all input arrays must have the same shape')
+ValueError: all input arrays must have the same shape

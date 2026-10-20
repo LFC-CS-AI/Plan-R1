@@ -1,0 +1,2882 @@
+[
+  {
+    "base_index": 0,
+    "population": "boundary",
+    "other_v": [
+      -0.47659600049872736,
+      -10.404263841681018
+    ],
+    "other_yaw": -1.6165720848526026,
+    "other_p": [
+      7.114703354776764,
+      -0.24061275889055134
+    ],
+    "target_gap": 0.0068387817114486105,
+    "construction_time": 0.25,
+    "scene_id": "validation_0"
+  },
+  {
+    "base_index": 8,
+    "population": "broad",
+    "other_v": [
+      -4.435398655246192,
+      -3.199154885560507
+    ],
+    "other_yaw": -2.516728521977055,
+    "other_p": [
+      -1.455700683443001,
+      -5.5124920360027865
+    ],
+    "scene_id": "validation_1"
+  },
+  {
+    "base_index": 8,
+    "population": "boundary",
+    "other_v": [
+      -10.790015838089102,
+      3.5566364559640333
+    ],
+    "other_yaw": 2.8231851859876453,
+    "other_p": [
+      13.893091569947334,
+      -5.26167457679745
+    ],
+    "target_gap": -0.0061773097228384685,
+    "construction_time": 0.75,
+    "scene_id": "validation_2"
+  },
+  {
+    "base_index": 1,
+    "population": "broad",
+    "other_v": [
+      5.485079235098585,
+      -3.2473861030936084
+    ],
+    "other_yaw": -0.5345459720700685,
+    "other_p": [
+      16.32943076167348,
+      7.896035040002898
+    ],
+    "scene_id": "validation_3"
+  },
+  {
+    "base_index": 13,
+    "population": "boundary",
+    "other_v": [
+      5.957311798325131,
+      -1.757411175353742
+    ],
+    "other_yaw": -0.28686399730078316,
+    "other_p": [
+      8.652614288742237,
+      -1.7265266262816388
+    ],
+    "target_gap": -0.024492741922601813,
+    "construction_time": 0.75,
+    "scene_id": "validation_4"
+  },
+  {
+    "base_index": 19,
+    "population": "broad",
+    "other_v": [
+      3.6469802595685348,
+      -10.58789222841644
+    ],
+    "other_yaw": -1.239075981285066,
+    "other_p": [
+      5.158316825490823,
+      0.8788765883304102
+    ],
+    "scene_id": "validation_5"
+  },
+  {
+    "base_index": 5,
+    "population": "boundary",
+    "other_v": [
+      7.37082225199947,
+      -5.869697595108748
+    ],
+    "other_yaw": -0.6725066586986612,
+    "other_p": [
+      6.74330467998121,
+      -0.286487158832919
+    ],
+    "target_gap": 0.008850284463283675,
+    "construction_time": 0.25,
+    "scene_id": "validation_6"
+  },
+  {
+    "base_index": 14,
+    "population": "broad",
+    "other_v": [
+      -0.590258125693252,
+      -11.799743548869044
+    ],
+    "other_yaw": -1.6207776274433476,
+    "other_p": [
+      6.34337278425237,
+      0.01504074694497426
+    ],
+    "scene_id": "validation_7"
+  },
+  {
+    "base_index": 12,
+    "population": "boundary",
+    "other_v": [
+      9.34501559147476,
+      0.4590320141717262
+    ],
+    "other_yaw": 0.049081069496867524,
+    "other_p": [
+      0.7939430252327804,
+      -2.4710508709190466
+    ],
+    "target_gap": 0.013757138898396762,
+    "construction_time": 0.25,
+    "scene_id": "validation_8"
+  },
+  {
+    "base_index": 1,
+    "population": "broad",
+    "other_v": [
+      7.357476263540012,
+      4.275102735498248
+    ],
+    "other_yaw": 0.5263733099414711,
+    "other_p": [
+      0.9882453704551839,
+      5.414533500654384
+    ],
+    "scene_id": "validation_9"
+  },
+  {
+    "base_index": 18,
+    "population": "boundary",
+    "other_v": [
+      4.007077313094973,
+      3.093454999645775
+    ],
+    "other_yaw": 0.657431718019815,
+    "other_p": [
+      7.698199964783644,
+      2.036915758531646
+    ],
+    "target_gap": -0.012783456933001761,
+    "construction_time": 0.75,
+    "scene_id": "validation_10"
+  },
+  {
+    "base_index": 20,
+    "population": "broad",
+    "other_v": [
+      1.949249392043287,
+      2.5255761000266936
+    ],
+    "other_yaw": 0.913486155881035,
+    "other_p": [
+      16.817195695926724,
+      -2.3856307167508355
+    ],
+    "scene_id": "validation_11"
+  },
+  {
+    "base_index": 3,
+    "population": "boundary",
+    "other_v": [
+      2.262757593261822,
+      -4.59831621805275
+    ],
+    "other_yaw": -1.1135015910227413,
+    "other_p": [
+      6.76713969358484,
+      -2.694290647367045
+    ],
+    "target_gap": 0.028959761769875386,
+    "construction_time": 0.25,
+    "scene_id": "validation_12"
+  },
+  {
+    "base_index": 0,
+    "population": "broad",
+    "other_v": [
+      -9.279100874679493,
+      0.8291891071375281
+    ],
+    "other_yaw": 3.0524684481079527,
+    "other_p": [
+      8.037231382778057,
+      -1.4406502163304094
+    ],
+    "scene_id": "validation_13"
+  },
+  {
+    "base_index": 6,
+    "population": "boundary",
+    "other_v": [
+      -2.234958821317078,
+      -2.8814935507201227
+    ],
+    "other_yaw": -2.2304968331013066,
+    "other_p": [
+      9.785368011944971,
+      -1.3970668103318036
+    ],
+    "target_gap": -0.028933351301750686,
+    "construction_time": 0.75,
+    "scene_id": "validation_14"
+  },
+  {
+    "base_index": 11,
+    "population": "broad",
+    "other_v": [
+      -10.2245338382954,
+      0.3289295406038787
+    ],
+    "other_yaw": 3.109433130116561,
+    "other_p": [
+      -0.661696485663354,
+      2.1586734216233
+    ],
+    "scene_id": "validation_15"
+  },
+  {
+    "base_index": 1,
+    "population": "boundary",
+    "other_v": [
+      1.8531811432020016,
+      -7.054206029054757
+    ],
+    "other_yaw": -1.3138954323967444,
+    "other_p": [
+      8.80148362086127,
+      2.845910516274502
+    ],
+    "target_gap": -0.013877093770457961,
+    "construction_time": 0.75,
+    "scene_id": "validation_16"
+  },
+  {
+    "base_index": 15,
+    "population": "broad",
+    "other_v": [
+      5.198652724944947,
+      2.5075073676667916
+    ],
+    "other_yaw": 0.4494183754392198,
+    "other_p": [
+      -1.7625579640374864,
+      -3.891452170702035
+    ],
+    "scene_id": "validation_17"
+  },
+  {
+    "base_index": 7,
+    "population": "boundary",
+    "other_v": [
+      0.45975213264968645,
+      9.61154825771791
+    ],
+    "other_yaw": 1.5229994516792722,
+    "other_p": [
+      14.251113965106175,
+      -3.5384780568538687
+    ],
+    "target_gap": -0.029988609017529786,
+    "construction_time": 0.75,
+    "scene_id": "validation_18"
+  },
+  {
+    "base_index": 10,
+    "population": "broad",
+    "other_v": [
+      6.178365253915997,
+      8.23900334513939
+    ],
+    "other_yaw": 0.9273641429054971,
+    "other_p": [
+      20.41260350540622,
+      -2.2248892408298406
+    ],
+    "scene_id": "validation_19"
+  },
+  {
+    "base_index": 13,
+    "population": "boundary",
+    "other_v": [
+      -0.2725087618545497,
+      7.423941874221525
+    ],
+    "other_yaw": 1.607486601837877,
+    "other_p": [
+      3.1601006329492414,
+      -5.725406291333652
+    ],
+    "target_gap": 0.0010716883769821862,
+    "construction_time": 0.25,
+    "scene_id": "validation_20"
+  },
+  {
+    "base_index": 8,
+    "population": "broad",
+    "other_v": [
+      -3.2773291239103473,
+      -5.754798051975879
+    ],
+    "other_yaw": -2.088483665041048,
+    "other_p": [
+      16.500024172024766,
+      -2.6910016641908996
+    ],
+    "scene_id": "validation_21"
+  },
+  {
+    "base_index": 15,
+    "population": "boundary",
+    "other_v": [
+      7.052405833202211,
+      8.688237804983526
+    ],
+    "other_yaw": 0.8889505191362925,
+    "other_p": [
+      -2.585254764264886,
+      -3.7079611259661203
+    ],
+    "target_gap": 0.005644438162007624,
+    "construction_time": 0.25,
+    "scene_id": "validation_22"
+  },
+  {
+    "base_index": 4,
+    "population": "broad",
+    "other_v": [
+      -2.9566767491902577,
+      -3.9340103582536186
+    ],
+    "other_yaw": -2.215300273995239,
+    "other_p": [
+      -3.9058019865976457,
+      -6.99667539576118
+    ],
+    "scene_id": "validation_23"
+  },
+  {
+    "base_index": 11,
+    "population": "boundary",
+    "other_v": [
+      1.8753702168302693,
+      -3.123792357070953
+    ],
+    "other_yaw": -1.0301191661734768,
+    "other_p": [
+      6.784469084101691,
+      6.68887077146103
+    ],
+    "target_gap": 0.017643035940199003,
+    "construction_time": 0.75,
+    "scene_id": "validation_24"
+  },
+  {
+    "base_index": 13,
+    "population": "broad",
+    "other_v": [
+      5.446197926277637,
+      5.548319304350703
+    ],
+    "other_yaw": 0.7946862875841809,
+    "other_p": [
+      3.296238087220818,
+      -7.611079294209418
+    ],
+    "scene_id": "validation_25"
+  },
+  {
+    "base_index": 18,
+    "population": "boundary",
+    "other_v": [
+      -0.536482565347455,
+      -6.5610877679347075
+    ],
+    "other_yaw": -1.6523821454578167,
+    "other_p": [
+      6.558325174808747,
+      -2.095994204897684
+    ],
+    "target_gap": 0.025864746377246423,
+    "construction_time": 0.25,
+    "scene_id": "validation_26"
+  },
+  {
+    "base_index": 17,
+    "population": "broad",
+    "other_v": [
+      7.587381743031188,
+      0.10536304302751442
+    ],
+    "other_yaw": 0.013885721677274976,
+    "other_p": [
+      11.046476452368264,
+      1.8947985912098915
+    ],
+    "scene_id": "validation_27"
+  },
+  {
+    "base_index": 20,
+    "population": "boundary",
+    "other_v": [
+      0.6031737671126943,
+      -6.854591769065767
+    ],
+    "other_yaw": -1.4830268221353615,
+    "other_p": [
+      8.042758538370974,
+      9.424205906539964
+    ],
+    "target_gap": -0.019878337563380484,
+    "construction_time": 0.75,
+    "scene_id": "validation_28"
+  },
+  {
+    "base_index": 5,
+    "population": "broad",
+    "other_v": [
+      3.4021007840680744,
+      -2.157149142706753
+    ],
+    "other_yaw": -0.5650906098357744,
+    "other_p": [
+      9.599435197308853,
+      6.61222375576868
+    ],
+    "scene_id": "validation_29"
+  },
+  {
+    "base_index": 10,
+    "population": "boundary",
+    "other_v": [
+      4.863456499444906,
+      2.5733346830479586
+    ],
+    "other_yaw": 0.48666851406816836,
+    "other_p": [
+      -2.1296340806701184,
+      -3.497612855391956
+    ],
+    "target_gap": 0.02259374517740273,
+    "construction_time": 0.25,
+    "scene_id": "validation_30"
+  },
+  {
+    "base_index": 7,
+    "population": "broad",
+    "other_v": [
+      7.045137665015529,
+      -7.875090341778086
+    ],
+    "other_yaw": -0.8409669009828318,
+    "other_p": [
+      0.8153600595815362,
+      1.4610230948556353
+    ],
+    "scene_id": "validation_31"
+  },
+  {
+    "base_index": 19,
+    "population": "boundary",
+    "other_v": [
+      -1.8231410690681566,
+      4.098255604116341
+    ],
+    "other_yaw": 1.9893657964070721,
+    "other_p": [
+      2.3199978978461515,
+      -4.742722390711552
+    ],
+    "target_gap": -0.02150786318117582,
+    "construction_time": 0.25,
+    "scene_id": "validation_32"
+  },
+  {
+    "base_index": 12,
+    "population": "broad",
+    "other_v": [
+      -1.714644525762659,
+      -7.009445533463935
+    ],
+    "other_yaw": -1.810704272864158,
+    "other_p": [
+      9.366313749970814,
+      -2.1525715819542786
+    ],
+    "scene_id": "validation_33"
+  },
+  {
+    "base_index": 10,
+    "population": "boundary",
+    "other_v": [
+      7.146453240003638,
+      -3.2159718306100444
+    ],
+    "other_yaw": -0.42286182413704054,
+    "other_p": [
+      6.288369495465736,
+      1.2977098716580153
+    ],
+    "target_gap": -0.005963860784879538,
+    "construction_time": 0.25,
+    "scene_id": "validation_34"
+  },
+  {
+    "base_index": 18,
+    "population": "broad",
+    "other_v": [
+      3.03478703766596,
+      -2.5500568449757126
+    ],
+    "other_yaw": -0.6988212618473058,
+    "other_p": [
+      -3.032959964123596,
+      -5.787793208392147
+    ],
+    "scene_id": "validation_35"
+  },
+  {
+    "base_index": 4,
+    "population": "boundary",
+    "other_v": [
+      7.269122126005731,
+      -4.831100055754786
+    ],
+    "other_yaw": -0.5865744283547252,
+    "other_p": [
+      7.157299944692443,
+      2.612355651455853
+    ],
+    "target_gap": -0.014640871090857679,
+    "construction_time": 0.75,
+    "scene_id": "validation_36"
+  },
+  {
+    "base_index": 4,
+    "population": "broad",
+    "other_v": [
+      6.871460684149236,
+      4.243614257793911
+    ],
+    "other_yaw": 0.5532392057352857,
+    "other_p": [
+      17.804919335506735,
+      -6.022808457478929
+    ],
+    "scene_id": "validation_37"
+  },
+  {
+    "base_index": 9,
+    "population": "boundary",
+    "other_v": [
+      -7.245008286984661,
+      -5.355458312867024
+    ],
+    "other_yaw": -2.5050440761181654,
+    "other_p": [
+      13.611475947894512,
+      7.11132174638816
+    ],
+    "target_gap": 0.017950875120410145,
+    "construction_time": 0.75,
+    "scene_id": "validation_38"
+  },
+  {
+    "base_index": 9,
+    "population": "broad",
+    "other_v": [
+      -7.5849909546641205,
+      -3.10544836416352
+    ],
+    "other_yaw": -2.7529919020204923,
+    "other_p": [
+      15.672751935951329,
+      2.7575982664024643
+    ],
+    "scene_id": "validation_39"
+  },
+  {
+    "base_index": 15,
+    "population": "boundary",
+    "other_v": [
+      9.139704603426578,
+      5.102511175808463
+    ],
+    "other_yaw": 0.5091777236161588,
+    "other_p": [
+      -2.8465442496303135,
+      -4.022989663042087
+    ],
+    "target_gap": -0.0007202086652746548,
+    "construction_time": 0.75,
+    "scene_id": "validation_40"
+  },
+  {
+    "base_index": 4,
+    "population": "broad",
+    "other_v": [
+      -0.7383540587451631,
+      4.628201043590122
+    ],
+    "other_yaw": 1.7289968998672638,
+    "other_p": [
+      8.172269161349927,
+      4.864362409856167
+    ],
+    "scene_id": "validation_41"
+  },
+  {
+    "base_index": 12,
+    "population": "boundary",
+    "other_v": [
+      -8.862044619321987,
+      0.07573503368316442
+    ],
+    "other_yaw": 3.1330468615891824,
+    "other_p": [
+      6.308652907803868,
+      1.8889857359998816
+    ],
+    "target_gap": 0.0007404668490476399,
+    "construction_time": 0.25,
+    "scene_id": "validation_42"
+  },
+  {
+    "base_index": 3,
+    "population": "broad",
+    "other_v": [
+      0.085005587816231,
+      -6.490216795783552
+    ],
+    "other_yaw": -1.5576995797605688,
+    "other_p": [
+      14.855440608069987,
+      -1.9474063525265297
+    ],
+    "scene_id": "validation_43"
+  },
+  {
+    "base_index": 2,
+    "population": "boundary",
+    "other_v": [
+      3.424795330124852,
+      7.120459154609348
+    ],
+    "other_yaw": 1.1224805224256444,
+    "other_p": [
+      6.602696327328042,
+      1.859474027702454
+    ],
+    "target_gap": 0.005839256118836969,
+    "construction_time": 0.25,
+    "scene_id": "validation_44"
+  },
+  {
+    "base_index": 10,
+    "population": "broad",
+    "other_v": [
+      -5.328220639395507,
+      -2.3218618370568826
+    ],
+    "other_yaw": -2.7306378606253423,
+    "other_p": [
+      4.208424195004831,
+      -3.4550598469039464
+    ],
+    "scene_id": "validation_45"
+  },
+  {
+    "base_index": 13,
+    "population": "boundary",
+    "other_v": [
+      1.2831725380604508,
+      5.4141230133278
+    ],
+    "other_yaw": 1.3380854429733544,
+    "other_p": [
+      9.765608697685536,
+      -7.703561947838594
+    ],
+    "target_gap": 0.01908807012056049,
+    "construction_time": 0.75,
+    "scene_id": "validation_46"
+  },
+  {
+    "base_index": 11,
+    "population": "broad",
+    "other_v": [
+      -3.5495952992553725,
+      -2.809493723029615
+    ],
+    "other_yaw": -2.472058068621709,
+    "other_p": [
+      23.428609555848226,
+      1.5102293432675324
+    ],
+    "scene_id": "validation_47"
+  },
+  {
+    "base_index": 16,
+    "population": "boundary",
+    "other_v": [
+      1.4810264313247676,
+      4.039364805370956
+    ],
+    "other_yaw": 1.2193676809200111,
+    "other_p": [
+      10.09601157335997,
+      0.17697619423012467
+    ],
+    "target_gap": -0.02932941997710999,
+    "construction_time": 0.75,
+    "scene_id": "validation_48"
+  },
+  {
+    "base_index": 12,
+    "population": "broad",
+    "other_v": [
+      -0.38966301265582054,
+      -5.435657765403555
+    ],
+    "other_yaw": -1.6423603571550727,
+    "other_p": [
+      17.098213978549882,
+      -2.533615042471734
+    ],
+    "scene_id": "validation_49"
+  },
+  {
+    "base_index": 19,
+    "population": "boundary",
+    "other_v": [
+      -2.0561193373288944,
+      4.161929395108918
+    ],
+    "other_yaw": 2.029656802310603,
+    "other_p": [
+      5.597562476355554,
+      2.5519359806369466
+    ],
+    "target_gap": 0.02614993761794543,
+    "construction_time": 0.25,
+    "scene_id": "validation_50"
+  },
+  {
+    "base_index": 10,
+    "population": "broad",
+    "other_v": [
+      -5.443690040339781,
+      3.1040559765696916
+    ],
+    "other_yaw": 2.6233643229349477,
+    "other_p": [
+      16.107380080298583,
+      -0.5106253594973573
+    ],
+    "scene_id": "validation_51"
+  },
+  {
+    "base_index": 13,
+    "population": "boundary",
+    "other_v": [
+      6.914533023737239,
+      6.794762597509529
+    ],
+    "other_yaw": 0.7766619465631073,
+    "other_p": [
+      0.18171758858995268,
+      -5.1563624280271
+    ],
+    "target_gap": 0.01357678436136582,
+    "construction_time": 0.25,
+    "scene_id": "validation_52"
+  },
+  {
+    "base_index": 8,
+    "population": "broad",
+    "other_v": [
+      2.0197750022420933,
+      -3.097811059087197
+    ],
+    "other_yaw": -0.9930159189989864,
+    "other_p": [
+      17.90762649024639,
+      7.296715503140447
+    ],
+    "scene_id": "validation_53"
+  },
+  {
+    "base_index": 2,
+    "population": "boundary",
+    "other_v": [
+      3.1129822247015206,
+      -0.7949847623356976
+    ],
+    "other_yaw": -0.25003314269501153,
+    "other_p": [
+      7.808719337166739,
+      3.2437388307371693
+    ],
+    "target_gap": 0.008760223947919088,
+    "construction_time": 0.75,
+    "scene_id": "validation_54"
+  },
+  {
+    "base_index": 14,
+    "population": "broad",
+    "other_v": [
+      -7.408439418124516,
+      8.064391172099269
+    ],
+    "other_yaw": 2.3138260814237617,
+    "other_p": [
+      -4.180814533133383,
+      -1.187945133315413
+    ],
+    "scene_id": "validation_55"
+  },
+  {
+    "base_index": 13,
+    "population": "boundary",
+    "other_v": [
+      -2.528555275452239,
+      -6.427669728671466
+    ],
+    "other_yaw": -1.945588007255124,
+    "other_p": [
+      7.134182851383829,
+      -2.077372735127059
+    ],
+    "target_gap": -0.014767226320205521,
+    "construction_time": 0.25,
+    "scene_id": "validation_56"
+  },
+  {
+    "base_index": 14,
+    "population": "broad",
+    "other_v": [
+      0.2303497829691023,
+      -6.751565747133236
+    ],
+    "other_yaw": -1.5366915760683442,
+    "other_p": [
+      21.838888168708174,
+      -0.015909261824862853
+    ],
+    "scene_id": "validation_57"
+  },
+  {
+    "base_index": 19,
+    "population": "boundary",
+    "other_v": [
+      -8.639128408230018,
+      2.330822690621
+    ],
+    "other_yaw": 2.87806876635496,
+    "other_p": [
+      5.256449050897691,
+      -3.0604104840066055
+    ],
+    "target_gap": -0.0006594401063055137,
+    "construction_time": 0.25,
+    "scene_id": "validation_58"
+  },
+  {
+    "base_index": 14,
+    "population": "broad",
+    "other_v": [
+      -2.8107307545071962,
+      -5.309492751201516
+    ],
+    "other_yaw": -2.0576694943319396,
+    "other_p": [
+      4.99803658805423,
+      2.219285173093997
+    ],
+    "scene_id": "validation_59"
+  },
+  {
+    "base_index": 12,
+    "population": "boundary",
+    "other_v": [
+      -9.511960177254833,
+      2.1608371367513364
+    ],
+    "other_yaw": 2.918213222163817,
+    "other_p": [
+      6.201916368547916,
+      -2.928575682548799
+    ],
+    "target_gap": -0.009972815435180239,
+    "construction_time": 0.25,
+    "scene_id": "validation_60"
+  },
+  {
+    "base_index": 1,
+    "population": "broad",
+    "other_v": [
+      8.767882124311285,
+      -0.8105872128662199
+    ],
+    "other_yaw": -0.0921875577820308,
+    "other_p": [
+      -1.5446549825592335,
+      6.678219478735333
+    ],
+    "scene_id": "validation_61"
+  },
+  {
+    "base_index": 0,
+    "population": "boundary",
+    "other_v": [
+      -7.659098393833285,
+      8.884027424211032
+    ],
+    "other_yaw": 2.2822847720577437,
+    "other_p": [
+      14.950779106834934,
+      -3.36993380567766
+    ],
+    "target_gap": -0.0009766701000478578,
+    "construction_time": 0.75,
+    "scene_id": "validation_62"
+  },
+  {
+    "base_index": 13,
+    "population": "broad",
+    "other_v": [
+      -6.807924579425782,
+      0.966796382750436
+    ],
+    "other_yaw": 3.0005254634120684,
+    "other_p": [
+      14.63451574858669,
+      -7.68620112076562
+    ],
+    "scene_id": "validation_63"
+  },
+  {
+    "base_index": 16,
+    "population": "boundary",
+    "other_v": [
+      3.254840407858136,
+      -1.9011806700415317
+    ],
+    "other_yaw": -0.5286527813129402,
+    "other_p": [
+      2.3529436144226032,
+      3.9589949998384824
+    ],
+    "target_gap": -0.012711600828316152,
+    "construction_time": 0.25,
+    "scene_id": "validation_64"
+  },
+  {
+    "base_index": 13,
+    "population": "broad",
+    "other_v": [
+      -0.7384467356876737,
+      5.498058506784974
+    ],
+    "other_yaw": 1.7043077892477045,
+    "other_p": [
+      21.95452875763863,
+      -7.782055825336755
+    ],
+    "scene_id": "validation_65"
+  },
+  {
+    "base_index": 12,
+    "population": "boundary",
+    "other_v": [
+      -2.143797839021253,
+      4.429205438303936
+    ],
+    "other_yaw": 2.021573616312926,
+    "other_p": [
+      5.927291584105331,
+      2.6097680867925535
+    ],
+    "target_gap": 0.001372366343556447,
+    "construction_time": 0.25,
+    "scene_id": "validation_66"
+  },
+  {
+    "base_index": 17,
+    "population": "broad",
+    "other_v": [
+      2.3917825271831465,
+      4.552659902012503
+    ],
+    "other_yaw": 1.087067648023945,
+    "other_p": [
+      18.572379682023644,
+      -5.331973179407788
+    ],
+    "scene_id": "validation_67"
+  },
+  {
+    "base_index": 5,
+    "population": "boundary",
+    "other_v": [
+      -5.0853294544805365,
+      2.420742402523544
+    ],
+    "other_yaw": 2.697308590105126,
+    "other_p": [
+      5.576875277240973,
+      2.233136063209503
+    ],
+    "target_gap": 0.02171603850574705,
+    "construction_time": 0.25,
+    "scene_id": "validation_68"
+  },
+  {
+    "base_index": 3,
+    "population": "broad",
+    "other_v": [
+      5.859606855092602,
+      -3.4313030899823964
+    ],
+    "other_yaw": -0.5297534641276265,
+    "other_p": [
+      23.072853843704834,
+      7.294960470080698
+    ],
+    "scene_id": "validation_69"
+  },
+  {
+    "base_index": 1,
+    "population": "boundary",
+    "other_v": [
+      0.3632343597323552,
+      5.232715559454512
+    ],
+    "other_yaw": 1.5014914675306983,
+    "other_p": [
+      8.915025706766638,
+      -0.3747330372231077
+    ],
+    "target_gap": 0.0011551771870388257,
+    "construction_time": 0.75,
+    "scene_id": "validation_70"
+  },
+  {
+    "base_index": 9,
+    "population": "broad",
+    "other_v": [
+      -8.15061311406752,
+      -7.1780263204399795
+    ],
+    "other_yaw": -2.4195585482134843,
+    "other_p": [
+      12.85326684073408,
+      7.641259652104642
+    ],
+    "scene_id": "validation_71"
+  },
+  {
+    "base_index": 8,
+    "population": "boundary",
+    "other_v": [
+      -5.25375557326834,
+      -5.192406871667845
+    ],
+    "other_yaw": -2.3620672685093957,
+    "other_p": [
+      8.855778007018912,
+      7.116526687626093
+    ],
+    "target_gap": 0.0061527371032624595,
+    "construction_time": 0.75,
+    "scene_id": "validation_72"
+  },
+  {
+    "base_index": 0,
+    "population": "broad",
+    "other_v": [
+      -3.5256553457386977,
+      -3.292976978380228
+    ],
+    "other_yaw": -2.3903051601834164,
+    "other_p": [
+      23.340015064648878,
+      -0.2900543979437753
+    ],
+    "scene_id": "validation_73"
+  },
+  {
+    "base_index": 10,
+    "population": "boundary",
+    "other_v": [
+      7.689312915095006,
+      5.997004388153134
+    ],
+    "other_yaw": 0.6623729513181886,
+    "other_p": [
+      -3.886125350498329,
+      -4.352354685749895
+    ],
+    "target_gap": -0.0025381150857283,
+    "construction_time": 0.75,
+    "scene_id": "validation_74"
+  },
+  {
+    "base_index": 14,
+    "population": "broad",
+    "other_v": [
+      0.3497417567854931,
+      6.506569753873424
+    ],
+    "other_yaw": 1.5170959104662485,
+    "other_p": [
+      0.29521528992571966,
+      -2.847441490029178
+    ],
+    "scene_id": "validation_75"
+  },
+  {
+    "base_index": 2,
+    "population": "boundary",
+    "other_v": [
+      -6.613108330952764,
+      5.964978807864139
+    ],
+    "other_yaw": 2.4076774218952197,
+    "other_p": [
+      14.309234185062959,
+      -7.713008645668989
+    ],
+    "target_gap": -0.010262805391086097,
+    "construction_time": 0.75,
+    "scene_id": "validation_76"
+  },
+  {
+    "base_index": 15,
+    "population": "broad",
+    "other_v": [
+      -1.5769841574364367,
+      -9.548360295401826
+    ],
+    "other_yaw": -1.7344763532793988,
+    "other_p": [
+      9.38588312361581,
+      -5.044326614310998
+    ],
+    "scene_id": "validation_77"
+  },
+  {
+    "base_index": 7,
+    "population": "boundary",
+    "other_v": [
+      6.9675373679263854,
+      -5.521070708433664
+    ],
+    "other_yaw": -0.6700890649080642,
+    "other_p": [
+      9.595023429298877,
+      0.4191990794415874
+    ],
+    "target_gap": 0.0012098042528744524,
+    "construction_time": 0.75,
+    "scene_id": "validation_78"
+  },
+  {
+    "base_index": 5,
+    "population": "broad",
+    "other_v": [
+      0.2920754601605422,
+      11.091476830751132
+    ],
+    "other_yaw": 1.5444690865152602,
+    "other_p": [
+      18.146060466542586,
+      -3.5861501061496845
+    ],
+    "scene_id": "validation_79"
+  },
+  {
+    "base_index": 1,
+    "population": "boundary",
+    "other_v": [
+      -3.653280207938362,
+      11.352309014068549
+    ],
+    "other_yaw": 1.882139772622648,
+    "other_p": [
+      5.609260710510831,
+      -11.230025903143126
+    ],
+    "target_gap": -0.017298366846888034,
+    "construction_time": 0.75,
+    "scene_id": "validation_80"
+  },
+  {
+    "base_index": 13,
+    "population": "broad",
+    "other_v": [
+      -6.2993240444929635,
+      -1.5584105542326978
+    ],
+    "other_yaw": -2.89906885724251,
+    "other_p": [
+      1.8326007610072814,
+      0.5395165394585604
+    ],
+    "scene_id": "validation_81"
+  },
+  {
+    "base_index": 17,
+    "population": "boundary",
+    "other_v": [
+      -4.799040999587065,
+      2.902207139186444
+    ],
+    "other_yaw": 2.597689793246529,
+    "other_p": [
+      4.5035779603757895,
+      -3.7443094310304437
+    ],
+    "target_gap": 0.028936838711919183,
+    "construction_time": 0.25,
+    "scene_id": "validation_82"
+  },
+  {
+    "base_index": 3,
+    "population": "broad",
+    "other_v": [
+      2.1129598444217486,
+      5.810586831527916
+    ],
+    "other_yaw": 1.22202240808733,
+    "other_p": [
+      3.863928793564172,
+      7.262182510549611
+    ],
+    "scene_id": "validation_83"
+  },
+  {
+    "base_index": 8,
+    "population": "boundary",
+    "other_v": [
+      -1.7957550101727373,
+      7.20902019074991
+    ],
+    "other_yaw": 1.814926195092501,
+    "other_p": [
+      4.814260753581422,
+      -8.72815874653779
+    ],
+    "target_gap": -0.016371582838917337,
+    "construction_time": 0.75,
+    "scene_id": "validation_84"
+  },
+  {
+    "base_index": 4,
+    "population": "broad",
+    "other_v": [
+      -4.592554421832869,
+      0.06954745848960314
+    ],
+    "other_yaw": 3.1264502869504103,
+    "other_p": [
+      -4.129071462891484,
+      5.792704860857537
+    ],
+    "scene_id": "validation_85"
+  },
+  {
+    "base_index": 8,
+    "population": "boundary",
+    "other_v": [
+      -1.9612446597091149,
+      6.927462005851573
+    ],
+    "other_yaw": 1.8466880526522749,
+    "other_p": [
+      0.7924194492113412,
+      -5.122636996776548
+    ],
+    "target_gap": 0.029874282336417667,
+    "construction_time": 0.25,
+    "scene_id": "validation_86"
+  },
+  {
+    "base_index": 12,
+    "population": "broad",
+    "other_v": [
+      4.417019192583842,
+      -6.660995031638446
+    ],
+    "other_yaw": -0.9852551968383767,
+    "other_p": [
+      -2.24233567898364,
+      2.5754616713699114
+    ],
+    "scene_id": "validation_87"
+  },
+  {
+    "base_index": 20,
+    "population": "boundary",
+    "other_v": [
+      -2.0553182203197413,
+      2.5615011842463224
+    ],
+    "other_yaw": 2.2469917682707115,
+    "other_p": [
+      4.633261450570815,
+      -4.102064023065683
+    ],
+    "target_gap": 0.01920149611569935,
+    "construction_time": 0.25,
+    "scene_id": "validation_88"
+  },
+  {
+    "base_index": 13,
+    "population": "broad",
+    "other_v": [
+      -1.0967039375385794,
+      -11.165828658272563
+    ],
+    "other_yaw": -1.6687019612944967,
+    "other_p": [
+      -4.95859958280974,
+      1.5493771024147343
+    ],
+    "scene_id": "validation_89"
+  },
+  {
+    "base_index": 0,
+    "population": "boundary",
+    "other_v": [
+      4.348957135886937,
+      2.520042408432236
+    ],
+    "other_yaw": 0.5251788891269222,
+    "other_p": [
+      4.761838732664322,
+      2.8962871053645203
+    ],
+    "target_gap": 0.01456706069695185,
+    "construction_time": 0.25,
+    "scene_id": "validation_90"
+  },
+  {
+    "base_index": 4,
+    "population": "broad",
+    "other_v": [
+      -6.5973284326819055,
+      7.029431325052556
+    ],
+    "other_yaw": 2.3244952338379807,
+    "other_p": [
+      24.29573492966997,
+      5.852454416191609
+    ],
+    "scene_id": "validation_91"
+  },
+  {
+    "base_index": 15,
+    "population": "boundary",
+    "other_v": [
+      4.371777428543079,
+      -2.716840040865783
+    ],
+    "other_yaw": -0.556042260437215,
+    "other_p": [
+      0.6252054395295135,
+      4.6564127901445245
+    ],
+    "target_gap": -0.005116815624836547,
+    "construction_time": 0.25,
+    "scene_id": "validation_92"
+  },
+  {
+    "base_index": 3,
+    "population": "broad",
+    "other_v": [
+      1.1680385317135236,
+      4.570382215584613
+    ],
+    "other_yaw": 1.3205851060291334,
+    "other_p": [
+      15.636924811914447,
+      -4.382615313614396
+    ],
+    "scene_id": "validation_93"
+  },
+  {
+    "base_index": 16,
+    "population": "boundary",
+    "other_v": [
+      3.1557448101695837,
+      2.715363921647684
+    ],
+    "other_yaw": 0.7105302309093142,
+    "other_p": [
+      8.691510764326516,
+      1.242417499115767
+    ],
+    "target_gap": -0.023143172579117032,
+    "construction_time": 0.75,
+    "scene_id": "validation_94"
+  },
+  {
+    "base_index": 14,
+    "population": "broad",
+    "other_v": [
+      -11.950465371435872,
+      -0.7181824435495602
+    ],
+    "other_yaw": -3.081568236673566,
+    "other_p": [
+      20.949261611298972,
+      -5.7656167050767895
+    ],
+    "scene_id": "validation_95"
+  },
+  {
+    "base_index": 7,
+    "population": "boundary",
+    "other_v": [
+      -2.578312159570044,
+      -5.439066379723948
+    ],
+    "other_yaw": -2.013457665175657,
+    "other_p": [
+      6.812693652817874,
+      -2.377600131878892
+    ],
+    "target_gap": -0.0038927181538392676,
+    "construction_time": 0.25,
+    "scene_id": "validation_96"
+  },
+  {
+    "base_index": 6,
+    "population": "broad",
+    "other_v": [
+      -5.715419053176391,
+      3.20001016641169
+    ],
+    "other_yaw": 2.6311875164383327,
+    "other_p": [
+      6.7896502429235355,
+      6.70720193127206
+    ],
+    "scene_id": "validation_97"
+  },
+  {
+    "base_index": 13,
+    "population": "boundary",
+    "other_v": [
+      -5.190453273220518,
+      -3.6205257470933625
+    ],
+    "other_yaw": -2.5325225893151697,
+    "other_p": [
+      6.927835200717364,
+      -2.102533774658968
+    ],
+    "target_gap": -0.02205036788277952,
+    "construction_time": 0.25,
+    "scene_id": "validation_98"
+  },
+  {
+    "base_index": 6,
+    "population": "broad",
+    "other_v": [
+      10.910150387062371,
+      -1.049532871402072
+    ],
+    "other_yaw": -0.0959027350355468,
+    "other_p": [
+      20.44240969045734,
+      3.6961438355419087
+    ],
+    "scene_id": "validation_99"
+  },
+  {
+    "base_index": 9,
+    "population": "boundary",
+    "other_v": [
+      -2.891041900631927,
+      -5.724101723123955
+    ],
+    "other_yaw": -2.038487507177984,
+    "other_p": [
+      6.332389806113792,
+      -2.296933124082339
+    ],
+    "target_gap": 0.02334788841945004,
+    "construction_time": 0.25,
+    "scene_id": "validation_100"
+  },
+  {
+    "base_index": 11,
+    "population": "broad",
+    "other_v": [
+      4.2711143630413195,
+      -4.138323211082567
+    ],
+    "other_yaw": -0.7696087463991752,
+    "other_p": [
+      21.165488754752317,
+      -7.436184836090542
+    ],
+    "scene_id": "validation_101"
+  },
+  {
+    "base_index": 16,
+    "population": "boundary",
+    "other_v": [
+      3.7425125287855883,
+      -9.447648772854665
+    ],
+    "other_yaw": -1.193629191401526,
+    "other_p": [
+      2.2753127773056407,
+      9.559409377831436
+    ],
+    "target_gap": -0.027295483076508024,
+    "construction_time": 0.75,
+    "scene_id": "validation_102"
+  },
+  {
+    "base_index": 9,
+    "population": "broad",
+    "other_v": [
+      -5.688556677396449,
+      2.2948939765304783
+    ],
+    "other_yaw": 2.7581389962017706,
+    "other_p": [
+      2.9447511400027784,
+      -5.794856106064945
+    ],
+    "scene_id": "validation_103"
+  },
+  {
+    "base_index": 11,
+    "population": "boundary",
+    "other_v": [
+      2.6344420534065853,
+      -11.687061850561511
+    ],
+    "other_yaw": -1.3490866717965169,
+    "other_p": [
+      -0.2538506640207485,
+      5.830517579389589
+    ],
+    "target_gap": -0.012827836103657949,
+    "construction_time": 0.25,
+    "scene_id": "validation_104"
+  },
+  {
+    "base_index": 16,
+    "population": "broad",
+    "other_v": [
+      -4.592179417062273,
+      -6.658920904041588
+    ],
+    "other_yaw": -2.174527358932351,
+    "other_p": [
+      12.24769329426455,
+      3.9978477142398177
+    ],
+    "scene_id": "validation_105"
+  },
+  {
+    "base_index": 3,
+    "population": "boundary",
+    "other_v": [
+      2.5712944369771864,
+      5.822219261884736
+    ],
+    "other_yaw": 1.1549206689734106,
+    "other_p": [
+      6.998858591773217,
+      2.336399303376667
+    ],
+    "target_gap": -0.002549099144021693,
+    "construction_time": 0.25,
+    "scene_id": "validation_106"
+  },
+  {
+    "base_index": 9,
+    "population": "broad",
+    "other_v": [
+      0.3839758060055128,
+      -5.903177232002727
+    ],
+    "other_yaw": -1.5058422120402597,
+    "other_p": [
+      -2.583375161473863,
+      -0.10678307995450886
+    ],
+    "scene_id": "validation_107"
+  },
+  {
+    "base_index": 17,
+    "population": "boundary",
+    "other_v": [
+      1.2136224043759407,
+      -7.54990933367765
+    ],
+    "other_yaw": -1.411413166200899,
+    "other_p": [
+      0.3265090116140845,
+      5.422995137980834
+    ],
+    "target_gap": -0.0049081070387610205,
+    "construction_time": 0.25,
+    "scene_id": "validation_108"
+  },
+  {
+    "base_index": 5,
+    "population": "broad",
+    "other_v": [
+      1.5963800800750092,
+      3.2133933450541607
+    ],
+    "other_yaw": 1.1097204129873335,
+    "other_p": [
+      13.01320178780118,
+      6.7393242885229405
+    ],
+    "scene_id": "validation_109"
+  },
+  {
+    "base_index": 13,
+    "population": "boundary",
+    "other_v": [
+      4.017766207807117,
+      -8.758417965702083
+    ],
+    "other_yaw": -1.1407046758491544,
+    "other_p": [
+      0.9003226127979689,
+      5.82232055928684
+    ],
+    "target_gap": 0.009589845474777862,
+    "construction_time": 0.25,
+    "scene_id": "validation_110"
+  },
+  {
+    "base_index": 4,
+    "population": "broad",
+    "other_v": [
+      1.6711716555860014,
+      -3.698538630905837
+    ],
+    "other_yaw": -1.1464079292017646,
+    "other_p": [
+      23.575945569456227,
+      -3.092629259597752
+    ],
+    "scene_id": "validation_111"
+  },
+  {
+    "base_index": 3,
+    "population": "boundary",
+    "other_v": [
+      8.527122505766922,
+      -5.444184356854978
+    ],
+    "other_yaw": -0.5682163963047802,
+    "other_p": [
+      7.801669159957182,
+      7.903902013103098
+    ],
+    "target_gap": 0.02138713897238418,
+    "construction_time": 0.75,
+    "scene_id": "validation_112"
+  },
+  {
+    "base_index": 13,
+    "population": "broad",
+    "other_v": [
+      2.82932738147777,
+      -1.452694426548001
+    ],
+    "other_yaw": -0.4743429875171681,
+    "other_p": [
+      5.370303363052098,
+      4.673926993765058
+    ],
+    "scene_id": "validation_113"
+  },
+  {
+    "base_index": 7,
+    "population": "boundary",
+    "other_v": [
+      2.6361513314882363,
+      -2.598408658008834
+    ],
+    "other_yaw": -0.7781880025592156,
+    "other_p": [
+      5.142440968076644,
+      -3.120488833818576
+    ],
+    "target_gap": -0.0005865423149258205,
+    "construction_time": 0.25,
+    "scene_id": "validation_114"
+  },
+  {
+    "base_index": 16,
+    "population": "broad",
+    "other_v": [
+      -7.472280405091587,
+      -1.3766775689752653
+    ],
+    "other_yaw": -2.95939782668095,
+    "other_p": [
+      18.803705983385466,
+      7.409813886048926
+    ],
+    "scene_id": "validation_115"
+  },
+  {
+    "base_index": 1,
+    "population": "boundary",
+    "other_v": [
+      -3.3224134114091073,
+      4.565240454006881
+    ],
+    "other_yaw": 2.199913249535972,
+    "other_p": [
+      5.464995001457103,
+      2.312974766152162
+    ],
+    "target_gap": -0.0024078999953041115,
+    "construction_time": 0.25,
+    "scene_id": "validation_116"
+  },
+  {
+    "base_index": 16,
+    "population": "broad",
+    "other_v": [
+      3.5980795188109473,
+      1.447499508283658
+    ],
+    "other_yaw": 0.3824856763607416,
+    "other_p": [
+      -2.368262441654961,
+      -0.20238196631606797
+    ],
+    "scene_id": "validation_117"
+  },
+  {
+    "base_index": 14,
+    "population": "boundary",
+    "other_v": [
+      -0.9746769508334165,
+      -9.171608751300226
+    ],
+    "other_yaw": -1.6766700567664272,
+    "other_p": [
+      9.63678986046475,
+      4.9475711851443975
+    ],
+    "target_gap": 0.012299959197038884,
+    "construction_time": 0.75,
+    "scene_id": "validation_118"
+  },
+  {
+    "base_index": 2,
+    "population": "broad",
+    "other_v": [
+      -5.303074933714885,
+      -1.8532539770547454
+    ],
+    "other_yaw": -2.8053920252708138,
+    "other_p": [
+      23.094564739157185,
+      4.541933140012755
+    ],
+    "scene_id": "validation_119"
+  },
+  {
+    "base_index": 20,
+    "population": "boundary",
+    "other_v": [
+      -6.5450192622626995,
+      9.1527222480508
+    ],
+    "other_yaw": 2.1915781134346135,
+    "other_p": [
+      4.664663609320971,
+      -5.72145131645178
+    ],
+    "target_gap": 0.009193004132156533,
+    "construction_time": 0.25,
+    "scene_id": "validation_120"
+  },
+  {
+    "base_index": 12,
+    "population": "broad",
+    "other_v": [
+      4.955093317726086,
+      2.1213200545548583
+    ],
+    "other_yaw": 0.40450105007213866,
+    "other_p": [
+      2.4994036970743663,
+      -7.8908187510385055
+    ],
+    "scene_id": "validation_121"
+  },
+  {
+    "base_index": 6,
+    "population": "boundary",
+    "other_v": [
+      0.011948420091563125,
+      -5.921959497824449
+    ],
+    "other_yaw": -1.5687786831615018,
+    "other_p": [
+      4.260866205581058,
+      8.037639889368537
+    ],
+    "target_gap": 0.00038518588912606413,
+    "construction_time": 0.75,
+    "scene_id": "validation_122"
+  },
+  {
+    "base_index": 11,
+    "population": "broad",
+    "other_v": [
+      2.25854858998519,
+      8.941888268090075
+    ],
+    "other_yaw": 1.3233902281300054,
+    "other_p": [
+      8.213584042990677,
+      -2.626406863261076
+    ],
+    "scene_id": "validation_123"
+  },
+  {
+    "base_index": 14,
+    "population": "boundary",
+    "other_v": [
+      -2.713570157493451,
+      -5.652873031074629
+    ],
+    "other_yaw": -2.018343777430518,
+    "other_p": [
+      9.719987800227347,
+      1.497859609884904
+    ],
+    "target_gap": 0.011062171613251702,
+    "construction_time": 0.75,
+    "scene_id": "validation_124"
+  },
+  {
+    "base_index": 2,
+    "population": "broad",
+    "other_v": [
+      -8.77691178008628,
+      0.19860282242892394
+    ],
+    "other_yaw": 3.1189686439638935,
+    "other_p": [
+      16.324594370440472,
+      -7.455308238260612
+    ],
+    "scene_id": "validation_125"
+  },
+  {
+    "base_index": 4,
+    "population": "boundary",
+    "other_v": [
+      9.95439752915015,
+      2.691787545510291
+    ],
+    "other_yaw": 0.2640957070657106,
+    "other_p": [
+      -3.8226658254209944,
+      0.5633005427866753
+    ],
+    "target_gap": -0.020590725302646325,
+    "construction_time": 0.75,
+    "scene_id": "validation_126"
+  },
+  {
+    "base_index": 0,
+    "population": "broad",
+    "other_v": [
+      4.3749439277211986,
+      -8.013272682900316
+    ],
+    "other_yaw": -1.0710584442608932,
+    "other_p": [
+      4.058830806476729,
+      -3.644682154499815
+    ],
+    "scene_id": "validation_127"
+  },
+  {
+    "base_index": 17,
+    "population": "boundary",
+    "other_v": [
+      -8.267543206967021,
+      -2.9337352621742228
+    ],
+    "other_yaw": -2.800603935044067,
+    "other_p": [
+      14.332583773602982,
+      5.1061158817250405
+    ],
+    "target_gap": 0.015810626990292863,
+    "construction_time": 0.75,
+    "scene_id": "validation_128"
+  },
+  {
+    "base_index": 18,
+    "population": "broad",
+    "other_v": [
+      -2.1556166081063086,
+      10.873794859991364
+    ],
+    "other_yaw": 1.7664986107369334,
+    "other_p": [
+      8.847656740287857,
+      -1.9590099032163497
+    ],
+    "scene_id": "validation_129"
+  },
+  {
+    "base_index": 20,
+    "population": "boundary",
+    "other_v": [
+      5.13520479440018,
+      -0.13689788794273766
+    ],
+    "other_yaw": -0.026652388124429827,
+    "other_p": [
+      3.152448314844691,
+      2.584399189244418
+    ],
+    "target_gap": -0.021028068806036422,
+    "construction_time": 0.25,
+    "scene_id": "validation_130"
+  },
+  {
+    "base_index": 7,
+    "population": "broad",
+    "other_v": [
+      -6.724475398405245,
+      3.721268335186051
+    ],
+    "other_yaw": 2.636149241444997,
+    "other_p": [
+      -2.9990620205264817,
+      5.554371274534713
+    ],
+    "scene_id": "validation_131"
+  },
+  {
+    "base_index": 8,
+    "population": "boundary",
+    "other_v": [
+      -6.050172226409284,
+      8.258340941581096
+    ],
+    "other_yaw": 2.203076914380997,
+    "other_p": [
+      6.675043085876714,
+      1.0652583131579485
+    ],
+    "target_gap": -0.011770028405288978,
+    "construction_time": 0.25,
+    "scene_id": "validation_132"
+  },
+  {
+    "base_index": 17,
+    "population": "broad",
+    "other_v": [
+      4.008773753084156,
+      8.859284217532021
+    ],
+    "other_yaw": 1.1458702500487599,
+    "other_p": [
+      -1.7966462445824671,
+      -7.189095871871395
+    ],
+    "scene_id": "validation_133"
+  },
+  {
+    "base_index": 10,
+    "population": "boundary",
+    "other_v": [
+      1.1057791673532622,
+      3.754673607166601
+    ],
+    "other_yaw": 1.2843861999426993,
+    "other_p": [
+      5.551966378661607,
+      2.7615224313669717
+    ],
+    "target_gap": -2.492234004381616e-06,
+    "construction_time": 0.25,
+    "scene_id": "validation_134"
+  },
+  {
+    "base_index": 17,
+    "population": "broad",
+    "other_v": [
+      -4.830034718714345,
+      0.2405672322379801
+    ],
+    "other_yaw": 3.0918272548756613,
+    "other_p": [
+      19.640964050453597,
+      4.0517039457375486
+    ],
+    "scene_id": "validation_135"
+  },
+  {
+    "base_index": 18,
+    "population": "boundary",
+    "other_v": [
+      -0.17789694655378435,
+      -7.732009266411371
+    ],
+    "other_yaw": -1.5938001230657648,
+    "other_p": [
+      6.600847861653078,
+      9.71971776567751
+    ],
+    "target_gap": 0.0204091580718972,
+    "construction_time": 0.75,
+    "scene_id": "validation_136"
+  },
+  {
+    "base_index": 8,
+    "population": "broad",
+    "other_v": [
+      4.334678538370293,
+      -9.20887383063658
+    ],
+    "other_yaw": -1.1308567682242576,
+    "other_p": [
+      2.912545958182201,
+      -0.04995455471269494
+    ],
+    "scene_id": "validation_137"
+  },
+  {
+    "base_index": 2,
+    "population": "boundary",
+    "other_v": [
+      -9.453957583574725,
+      -3.6987809435610948
+    ],
+    "other_yaw": -2.7686593989351547,
+    "other_p": [
+      7.266241054479931,
+      -1.7716824243995246
+    ],
+    "target_gap": 0.019533546857485956,
+    "construction_time": 0.25,
+    "scene_id": "validation_138"
+  },
+  {
+    "base_index": 7,
+    "population": "broad",
+    "other_v": [
+      9.532856400272177,
+      -0.9942974563746297
+    ],
+    "other_yaw": -0.1039263715728822,
+    "other_p": [
+      20.325151711385185,
+      3.97748668330453
+    ],
+    "scene_id": "validation_139"
+  },
+  {
+    "base_index": 6,
+    "population": "boundary",
+    "other_v": [
+      3.9369094252913084,
+      -2.725476898624508
+    ],
+    "other_yaw": -0.6055316513605646,
+    "other_p": [
+      6.9204751305238155,
+      -1.7624987025059258
+    ],
+    "target_gap": 0.008280133975200221,
+    "construction_time": 0.75,
+    "scene_id": "validation_140"
+  },
+  {
+    "base_index": 2,
+    "population": "broad",
+    "other_v": [
+      -4.748833735850773,
+      -7.30788837629305
+    ],
+    "other_yaw": -2.147047088055145,
+    "other_p": [
+      23.138155018947543,
+      5.589080930668699
+    ],
+    "scene_id": "validation_141"
+  },
+  {
+    "base_index": 16,
+    "population": "boundary",
+    "other_v": [
+      -0.10244833604766894,
+      -4.535273300835724
+    ],
+    "other_yaw": -1.5933817167006976,
+    "other_p": [
+      5.630728829635483,
+      -2.879624955777957
+    ],
+    "target_gap": 0.00016585855337971148,
+    "construction_time": 0.25,
+    "scene_id": "validation_142"
+  },
+  {
+    "base_index": 6,
+    "population": "broad",
+    "other_v": [
+      -0.941853266686391,
+      -9.413954816784255
+    ],
+    "other_yaw": -1.6705131259268007,
+    "other_p": [
+      18.75130597676354,
+      -4.055658186074675
+    ],
+    "scene_id": "validation_143"
+  },
+  {
+    "base_index": 6,
+    "population": "boundary",
+    "other_v": [
+      3.077263277116646,
+      3.390381267000602
+    ],
+    "other_yaw": 0.8337733795589877,
+    "other_p": [
+      7.604510066460788,
+      1.029900284690184
+    ],
+    "target_gap": 0.0016522399290791398,
+    "construction_time": 0.75,
+    "scene_id": "validation_144"
+  },
+  {
+    "base_index": 10,
+    "population": "broad",
+    "other_v": [
+      -10.057853803947731,
+      6.3580274679421205
+    ],
+    "other_yaw": 2.577871463007404,
+    "other_p": [
+      24.016571961916917,
+      -3.5248961799716128
+    ],
+    "scene_id": "validation_145"
+  },
+  {
+    "base_index": 4,
+    "population": "boundary",
+    "other_v": [
+      3.900315276596395,
+      -9.032025685499297
+    ],
+    "other_yaw": -1.1631534025183998,
+    "other_p": [
+      6.978490122561306,
+      0.11787210599867937
+    ],
+    "target_gap": -0.008081949996041522,
+    "construction_time": 0.25,
+    "scene_id": "validation_146"
+  },
+  {
+    "base_index": 10,
+    "population": "broad",
+    "other_v": [
+      -1.2336814289566107,
+      2.8242279902801886
+    ],
+    "other_yaw": 1.9826365135374981,
+    "other_p": [
+      4.554367588137579,
+      -1.5536862695842864
+    ],
+    "scene_id": "validation_147"
+  },
+  {
+    "base_index": 16,
+    "population": "boundary",
+    "other_v": [
+      0.429123208355437,
+      -6.72014080435793
+    ],
+    "other_yaw": -1.5070266267415984,
+    "other_p": [
+      6.4111183261604925,
+      -2.244811762638351
+    ],
+    "target_gap": 0.027899553366860445,
+    "construction_time": 0.25,
+    "scene_id": "validation_148"
+  },
+  {
+    "base_index": 15,
+    "population": "broad",
+    "other_v": [
+      -0.06346754937021225,
+      -7.054677457337456
+    ],
+    "other_yaw": -1.579792604447297,
+    "other_p": [
+      7.946102384139586,
+      -3.6645774488379264
+    ],
+    "scene_id": "validation_149"
+  },
+  {
+    "base_index": 6,
+    "population": "boundary",
+    "other_v": [
+      7.487668903780703,
+      3.0576462871992303
+    ],
+    "other_yaw": 0.38769035224134996,
+    "other_p": [
+      6.3526337627977885,
+      -0.7099765645994213
+    ],
+    "target_gap": -0.0031901008696227293,
+    "construction_time": 0.25,
+    "scene_id": "validation_150"
+  },
+  {
+    "base_index": 10,
+    "population": "broad",
+    "other_v": [
+      -1.5036858909536233,
+      6.896063378525468
+    ],
+    "other_yaw": 1.7854857945280989,
+    "other_p": [
+      21.598000849283544,
+      -3.466063270433258
+    ],
+    "scene_id": "validation_151"
+  },
+  {
+    "base_index": 19,
+    "population": "boundary",
+    "other_v": [
+      9.42077911947787,
+      -5.7334596169076315
+    ],
+    "other_yaw": -0.5467169878980829,
+    "other_p": [
+      5.08947411746747,
+      5.1487791186511815
+    ],
+    "target_gap": 0.010851521755209578,
+    "construction_time": 0.75,
+    "scene_id": "validation_152"
+  },
+  {
+    "base_index": 12,
+    "population": "broad",
+    "other_v": [
+      5.570461401243301,
+      6.528615459358632
+    ],
+    "other_yaw": 0.8644255615614638,
+    "other_p": [
+      17.185932154342616,
+      1.6123759855056257
+    ],
+    "scene_id": "validation_153"
+  },
+  {
+    "base_index": 16,
+    "population": "boundary",
+    "other_v": [
+      -6.789259651443585,
+      8.870804483437501
+    ],
+    "other_yaw": 2.224048521943688,
+    "other_p": [
+      3.9093137598820773,
+      -5.575707005744669
+    ],
+    "target_gap": 0.00907164915929562,
+    "construction_time": 0.25,
+    "scene_id": "validation_154"
+  },
+  {
+    "base_index": 18,
+    "population": "broad",
+    "other_v": [
+      0.45277420505121413,
+      -3.461935331583649
+    ],
+    "other_yaw": -1.4407480284634513,
+    "other_p": [
+      15.847485860910552,
+      7.276456150798436
+    ],
+    "scene_id": "validation_155"
+  },
+  {
+    "base_index": 0,
+    "population": "boundary",
+    "other_v": [
+      -3.0532557006881027,
+      -8.863459832522699
+    ],
+    "other_yaw": -1.9025421938393436,
+    "other_p": [
+      1.4858542133861063,
+      5.562062614133847
+    ],
+    "target_gap": 0.017198686389372893,
+    "construction_time": 0.25,
+    "scene_id": "validation_156"
+  },
+  {
+    "base_index": 11,
+    "population": "broad",
+    "other_v": [
+      7.059187979046654,
+      -8.344116621099738
+    ],
+    "other_yaw": -0.8686244947613337,
+    "other_p": [
+      13.584986018025234,
+      -5.4779479774289115
+    ],
+    "scene_id": "validation_157"
+  },
+  {
+    "base_index": 9,
+    "population": "boundary",
+    "other_v": [
+      4.236427646245986,
+      5.797220268629709
+    ],
+    "other_yaw": 0.939717226070437,
+    "other_p": [
+      2.6059807929403735,
+      -7.794424859581317
+    ],
+    "target_gap": -0.006079528457735187,
+    "construction_time": 0.75,
+    "scene_id": "validation_158"
+  },
+  {
+    "base_index": 9,
+    "population": "broad",
+    "other_v": [
+      -6.069848155721786,
+      -0.1323359810517728
+    ],
+    "other_yaw": -3.1197939173381166,
+    "other_p": [
+      21.754496632195554,
+      0.11303113155519284
+    ],
+    "scene_id": "validation_159"
+  },
+  {
+    "base_index": 7,
+    "population": "boundary",
+    "other_v": [
+      4.427840166445481,
+      7.327554113788533
+    ],
+    "other_yaw": 1.0272411308230955,
+    "other_p": [
+      5.81518701406263,
+      -9.180659296354417
+    ],
+    "target_gap": 0.019196330168336224,
+    "construction_time": 0.75,
+    "scene_id": "validation_160"
+  },
+  {
+    "base_index": 8,
+    "population": "broad",
+    "other_v": [
+      -3.903201229104584,
+      0.1321758617721574
+    ],
+    "other_yaw": 3.1077421382655848,
+    "other_p": [
+      1.6625088478702654,
+      -1.2023086412865425
+    ],
+    "scene_id": "validation_161"
+  },
+  {
+    "base_index": 4,
+    "population": "boundary",
+    "other_v": [
+      -2.406252261033464,
+      -4.829054586546488
+    ],
+    "other_yaw": -2.033072122277994,
+    "other_p": [
+      5.808080482718584,
+      -2.451209924985635
+    ],
+    "target_gap": 0.027447636994779402,
+    "construction_time": 0.25,
+    "scene_id": "validation_162"
+  },
+  {
+    "base_index": 16,
+    "population": "broad",
+    "other_v": [
+      -1.4055868574578807,
+      -7.219741307321656
+    ],
+    "other_yaw": -1.763077662900891,
+    "other_p": [
+      20.311967973713458,
+      1.659722288856317
+    ],
+    "scene_id": "validation_163"
+  },
+  {
+    "base_index": 18,
+    "population": "boundary",
+    "other_v": [
+      -3.2442493127081855,
+      -1.6821836376234955
+    ],
+    "other_yaw": -2.6632450101964924,
+    "other_p": [
+      11.235771641251695,
+      4.359502883255672
+    ],
+    "target_gap": -0.020754702310305316,
+    "construction_time": 0.75,
+    "scene_id": "validation_164"
+  },
+  {
+    "base_index": 5,
+    "population": "broad",
+    "other_v": [
+      -2.6759578415879597,
+      -10.212082459473978
+    ],
+    "other_yaw": -1.8270727735422096,
+    "other_p": [
+      -2.5958819795075927,
+      -1.9605854330651145
+    ],
+    "scene_id": "validation_165"
+  },
+  {
+    "base_index": 4,
+    "population": "boundary",
+    "other_v": [
+      -5.692277872786266,
+      0.7126295048090204
+    ],
+    "other_yaw": 3.0170482967910894,
+    "other_p": [
+      11.87757855751179,
+      -2.6699429761419164
+    ],
+    "target_gap": -0.01833802372427463,
+    "construction_time": 0.75,
+    "scene_id": "validation_166"
+  },
+  {
+    "base_index": 17,
+    "population": "broad",
+    "other_v": [
+      -7.7469634383097885,
+      -4.636200287959959
+    ],
+    "other_yaw": -2.602310785553315,
+    "other_p": [
+      -3.5789044812762425,
+      -2.798680620950819
+    ],
+    "scene_id": "validation_167"
+  },
+  {
+    "base_index": 6,
+    "population": "boundary",
+    "other_v": [
+      2.5884039623399095,
+      -3.2710822979207044
+    ],
+    "other_yaw": -0.9013834720199805,
+    "other_p": [
+      7.601052687914009,
+      -1.3695080434877198
+    ],
+    "target_gap": 0.022342038488667247,
+    "construction_time": 0.75,
+    "scene_id": "validation_168"
+  },
+  {
+    "base_index": 15,
+    "population": "broad",
+    "other_v": [
+      5.952699429150586,
+      2.7314984541979443
+    ],
+    "other_yaw": 0.4302033676125414,
+    "other_p": [
+      6.1398387842030075,
+      4.877780868841921
+    ],
+    "scene_id": "validation_169"
+  },
+  {
+    "base_index": 12,
+    "population": "boundary",
+    "other_v": [
+      3.595537795365849,
+      -2.2323075695811756
+    ],
+    "other_yaw": -0.5556130772296277,
+    "other_p": [
+      5.528059832743651,
+      5.170943590975446
+    ],
+    "target_gap": 0.011773357709945698,
+    "construction_time": 0.75,
+    "scene_id": "validation_170"
+  },
+  {
+    "base_index": 7,
+    "population": "broad",
+    "other_v": [
+      3.0466895600916883,
+      6.006100234557762
+    ],
+    "other_yaw": 1.1013529447860595,
+    "other_p": [
+      10.578535164218373,
+      -2.3044382378891726
+    ],
+    "scene_id": "validation_171"
+  },
+  {
+    "base_index": 8,
+    "population": "boundary",
+    "other_v": [
+      -6.466595886751638,
+      2.4595361853585005
+    ],
+    "other_yaw": 2.77814437595603,
+    "other_p": [
+      11.710716034457047,
+      0.760226747760316
+    ],
+    "target_gap": 0.025003996023452442,
+    "construction_time": 0.75,
+    "scene_id": "validation_172"
+  },
+  {
+    "base_index": 11,
+    "population": "broad",
+    "other_v": [
+      -3.8298585867821893,
+      1.6863598258894468
+    ],
+    "other_yaw": 2.7268184811214145,
+    "other_p": [
+      3.9829518402205615,
+      0.8920812117453707
+    ],
+    "scene_id": "validation_173"
+  },
+  {
+    "base_index": 14,
+    "population": "boundary",
+    "other_v": [
+      -0.31565129660762375,
+      -4.934136294643099
+    ],
+    "other_yaw": -1.634682228387151,
+    "other_p": [
+      2.2303538882121363,
+      7.190936486935239
+    ],
+    "target_gap": 0.022702373590132524,
+    "construction_time": 0.75,
+    "scene_id": "validation_174"
+  },
+  {
+    "base_index": 5,
+    "population": "broad",
+    "other_v": [
+      -4.78243804030276,
+      9.590275897109331
+    ],
+    "other_yaw": 2.033383975950673,
+    "other_p": [
+      -1.6141113377382887,
+      4.777883272331975
+    ],
+    "scene_id": "validation_175"
+  },
+  {
+    "base_index": 4,
+    "population": "boundary",
+    "other_v": [
+      -9.451917637349494,
+      -0.6596000612546115
+    ],
+    "other_yaw": -3.071920818530273,
+    "other_p": [
+      5.979487521750128,
+      -1.8445367851252605
+    ],
+    "target_gap": -0.01758652481410814,
+    "construction_time": 0.25,
+    "scene_id": "validation_176"
+  },
+  {
+    "base_index": 19,
+    "population": "broad",
+    "other_v": [
+      1.5970735671958236,
+      -9.589636965373838
+    ],
+    "other_yaw": -1.4057693298553877,
+    "other_p": [
+      18.216400537038346,
+      5.113831808134032
+    ],
+    "scene_id": "validation_177"
+  },
+  {
+    "base_index": 4,
+    "population": "boundary",
+    "other_v": [
+      -11.136075594388686,
+      1.0351059525375654
+    ],
+    "other_yaw": 3.048908273396112,
+    "other_p": [
+      16.159905571639108,
+      1.4238401835073675
+    ],
+    "target_gap": 0.006556734164044627,
+    "construction_time": 0.75,
+    "scene_id": "validation_178"
+  },
+  {
+    "base_index": 17,
+    "population": "broad",
+    "other_v": [
+      -2.3061709250455134,
+      11.768499541680375
+    ],
+    "other_yaw": 1.7643055596758312,
+    "other_p": [
+      10.609980930847971,
+      -1.6335783822079364
+    ],
+    "scene_id": "validation_179"
+  },
+  {
+    "base_index": 14,
+    "population": "boundary",
+    "other_v": [
+      3.290020440358944,
+      5.286001378432968
+    ],
+    "other_yaw": 1.014067062006423,
+    "other_p": [
+      6.553559327879627,
+      0.35237873176832024
+    ],
+    "target_gap": -0.02497791817443593,
+    "construction_time": 0.25,
+    "scene_id": "validation_180"
+  },
+  {
+    "base_index": 10,
+    "population": "broad",
+    "other_v": [
+      4.249920564042205,
+      -1.3685446026009371
+    ],
+    "other_yaw": -0.3115310755018097,
+    "other_p": [
+      10.179723546735392,
+      -5.679834862498989
+    ],
+    "scene_id": "validation_181"
+  },
+  {
+    "base_index": 2,
+    "population": "boundary",
+    "other_v": [
+      -4.688660884151618,
+      7.053272140265731
+    ],
+    "other_yaw": 2.157470659043069,
+    "other_p": [
+      15.413801730742634,
+      -1.7070401083194855
+    ],
+    "target_gap": 0.017572217903066567,
+    "construction_time": 0.75,
+    "scene_id": "validation_182"
+  },
+  {
+    "base_index": 14,
+    "population": "broad",
+    "other_v": [
+      -9.890617127815682,
+      2.3699970159901538
+    ],
+    "other_yaw": 2.906406306121222,
+    "other_p": [
+      2.783229865776099,
+      0.020056665868692036
+    ],
+    "scene_id": "validation_183"
+  },
+  {
+    "base_index": 5,
+    "population": "boundary",
+    "other_v": [
+      6.974571506400848,
+      -8.91912992031494
+    ],
+    "other_yaw": -0.9071408529211222,
+    "other_p": [
+      8.125605677579992,
+      5.3111747423294995
+    ],
+    "target_gap": -0.023513868781540367,
+    "construction_time": 0.75,
+    "scene_id": "validation_184"
+  },
+  {
+    "base_index": 17,
+    "population": "broad",
+    "other_v": [
+      -4.504302797361971,
+      6.734440661379616
+    ],
+    "other_yaw": 2.160306089904994,
+    "other_p": [
+      9.987282291663092,
+      -4.490022751756376
+    ],
+    "scene_id": "validation_185"
+  },
+  {
+    "base_index": 6,
+    "population": "boundary",
+    "other_v": [
+      -2.5090169625891643,
+      -6.44620831902852
+    ],
+    "other_yaw": -1.9419783984254337,
+    "other_p": [
+      6.718516424103403,
+      8.357432540422952
+    ],
+    "target_gap": 0.004902243582438799,
+    "construction_time": 0.75,
+    "scene_id": "validation_186"
+  },
+  {
+    "base_index": 17,
+    "population": "broad",
+    "other_v": [
+      -7.165949658859922,
+      6.439546589621497
+    ],
+    "other_yaw": 2.4095342597467537,
+    "other_p": [
+      9.57503169948988,
+      5.408169997156815
+    ],
+    "scene_id": "validation_187"
+  },
+  {
+    "base_index": 12,
+    "population": "boundary",
+    "other_v": [
+      3.4004316093346865,
+      5.365870352011628
+    ],
+    "other_yaw": 1.0059546996988917,
+    "other_p": [
+      9.535738494181338,
+      -0.38743765410296716
+    ],
+    "target_gap": -0.016580884654673708,
+    "construction_time": 0.75,
+    "scene_id": "validation_188"
+  },
+  {
+    "base_index": 10,
+    "population": "broad",
+    "other_v": [
+      3.62365167697329,
+      0.701275835666156
+    ],
+    "other_yaw": 0.19116421642865866,
+    "other_p": [
+      13.171425138370065,
+      -0.016736413025913777
+    ],
+    "scene_id": "validation_189"
+  },
+  {
+    "base_index": 5,
+    "population": "boundary",
+    "other_v": [
+      9.545751752994352,
+      1.4893577807630243
+    ],
+    "other_yaw": 0.15477524183684244,
+    "other_p": [
+      -3.3972829754275793,
+      -1.0484221969052154
+    ],
+    "target_gap": 0.008820896466566384,
+    "construction_time": 0.75,
+    "scene_id": "validation_190"
+  },
+  {
+    "base_index": 8,
+    "population": "broad",
+    "other_v": [
+      -11.260366349068205,
+      3.182013797141794
+    ],
+    "other_yaw": 2.8661882322401553,
+    "other_p": [
+      24.177645709376932,
+      -3.5728855343960806
+    ],
+    "scene_id": "validation_191"
+  }
+]

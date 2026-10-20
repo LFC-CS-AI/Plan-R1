@@ -1,0 +1,8 @@
+# Python 3.9; small synthetic component experiment only.
+# Install torch CPU using: pip install torch==2.1.0+cpu --index-url https://download.pytorch.org/whl/cpu
+numpy==1.24.4
+scipy==1.10.1
+torch==2.1.0+cpu
+matplotlib==3.9.4
+# Real Plan-R1 inference additionally needs repository requirements/PyG/nuPlan
+# dependencies; exact versions actually imported are in results/environment.json.

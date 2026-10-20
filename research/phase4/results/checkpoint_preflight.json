@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-20 Asia/Shanghai",
+  "official_repository": "https://github.com/XiaolongTang23/Plan-R1",
+  "official_folder": "https://drive.google.com/drive/folders/1I8wPrpLAeKFS7x7fpQOwunE7qtDJN9hm",
+  "files": [
+    {
+      "name": "fine-tuning.ckpt",
+      "bytes": 81364059,
+      "file_id": "1Imnrju-5vwz1kzUMENv5s38iHMIMOH4W",
+      "can_download": true,
+      "source": "Official README-linked Drive; streamed retrieval succeeded"
+    },
+    {
+      "name": "pre-training.ckpt",
+      "bytes": 81310520,
+      "file_id": "10ceLBFefi5C-2h11Fh0_imZ4Yw6zzpyR",
+      "can_download": true,
+      "source": "Drive folder metadata only; not downloaded"
+    }
+  ],
+  "checkpoint_transfer": {
+    "connector_retrieval": "success, 81364059 bytes",
+    "executor_materialization": "failed",
+    "exact_reason": "file exceeds the executor transfer limit of 32 MiB",
+    "checkpoint_loaded": false,
+    "local_sha256": null
+  },
+  "license": {
+    "repository": "Apache-2.0",
+    "official_readme_explicitly_invites_checkpoint_download": true,
+    "standalone_weight_terms_found": false,
+    "limitations": "No separate weight-license document returned in the two-file folder. No checkpoint redistribution or additional legal rights inferred."
+  },
+  "architecture_probe": {
+    "parameter_count": 10072576,
+    "float32_parameter_bytes": 40290304,
+    "meta_construction_seconds": 0.10182750400008445,
+    "peak_import_plus_meta_rss_KiB": 281572,
+    "checkpoint_loaded": false,
+    "inference_run": false,
+    "random_weight_outputs_generated": false
+  },
+  "resources": {
+    "code_supports_cpu": true,
+    "gpu_required_by_inference_code": false,
+    "actual_checkpoint_inference_minimum": "unverified",
+    "suggested_small_batch_cpu_ram": "4\u20138 GiB planning estimate, not measured minimum",
+    "weights_parameter_lower_bound_MiB": 38.423828125
+  },
+  "user_steering": "No existing checkpoint or real feature bundle; proceed constrained synthetic validation.",
+  "real_model_output_count": 0
+}
