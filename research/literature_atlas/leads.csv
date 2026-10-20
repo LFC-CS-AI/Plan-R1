@@ -1,0 +1,2 @@
+lead_id,title,authors,year,publication_status,read_level,source_url,reason,depth,quota
+X01,NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning,Ishaan Rawal; Shubh Gupta; Yihan Hu; Wei Zhan,2026,preprint_verified_formal_venue_unknown,L2,https://arxiv.org/html/2602.21172v2,已读§1–3及References和部分附录；§4–5主实验尚未完整核对；[39]引用ICLR2026 Plan-R1；去std驾驶应用必须排重,1,0
