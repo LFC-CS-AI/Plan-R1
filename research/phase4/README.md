@@ -25,6 +25,7 @@
 - `figures/*.png`：由真实保存数据生成的图，不手工填数。
 - `results/diagnostic_v1_sampled_labels/`：被独立检查发现200Hz标签混叠的完整旧版代码/数据/模型/日志。它不是主结果；保留以审计数值修正。若要复现旧版，请在另一个 checkout 将其中 `source/` 内容复制回 `research/phase4/`，不能直接在嵌套归档目录运行，亦不要覆盖本目录已交付结果。
 - `artifact_manifest.json`：交付文件路径/大小/SHA-256。NPZ/PNG 是必要小型实验产物；无环境、缓存、官方权重或大型数据。
+- [本阶段专用ZIP](archives/plan_r1_phase4_research.zip)：含报告/源码/CSV/JSON/NPZ/图表/日志/旧版失败记录和manifest；不将ZIP自身或其CRC元数据递归打包。`delivery_verification.json` 保存CRC/逐字节核对及SHA；`package_delivery.py` 可只重新打包已有文件，不运行研究。
 
 CPU复现（不训练完整 Plan-R1）：先使用 `requirements-cpu.txt` 的 Python3.9 CPU依赖，再在仓库根运行：
 

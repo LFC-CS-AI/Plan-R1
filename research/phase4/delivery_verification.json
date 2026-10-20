@@ -1,0 +1,14 @@
+{
+  "zip_path": "archives/plan_r1_phase4_research.zip",
+  "bytes": 2007742,
+  "sha256": "0abe2e90eac2309297fdd5a4933010836d1a83d964b1b335e60c0541890651a0",
+  "entries": 110,
+  "crc_verified": true,
+  "all_entries_identical_to_local_payload": true,
+  "payload_files_excluding_manifest": 109,
+  "payload_bytes_excluding_manifest": 6998484,
+  "phase4_only": true,
+  "no_checkpoint_or_large_dataset": true,
+  "base_commit": "fd7d0364c97c2bc77423e8aeaec5699a4dfd32f7",
+  "note": "Delivery-only verification; no research/training rerun. ZIP excludes itself and this delivery metadata."
+}

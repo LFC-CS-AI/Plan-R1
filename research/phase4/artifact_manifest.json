@@ -1,10 +1,12 @@
 {
-  "scope": "phase4 deliverables, excludes this manifest itself",
+  "scope": "phase4 research payload; excludes manifest itself, archives/ and delivery_verification.json to avoid recursive archive hashes",
+  "total_files": 109,
+  "total_bytes": 6998484,
   "files": [
     {
       "path": "README.md",
-      "bytes": 3408,
-      "sha256": "6f98e5dd47734561a08557767bf528cc0368894944e51cdc398222e0590b2568"
+      "bytes": 3732,
+      "sha256": "7e34b56d8810130f5e20ceced0c8c40b9bcaff7e008c16253dc098fb7ecfb0b4"
     },
     {
       "path": "analyze_results.py",
@@ -80,6 +82,11 @@
       "path": "method_scope.md",
       "bytes": 3853,
       "sha256": "7a7fcd912040b09cafb5c72685559f6a5e1774f21c3af3e3e46e700d7fc909a8"
+    },
+    {
+      "path": "package_delivery.py",
+      "bytes": 2237,
+      "sha256": "9fb72672cb0166dfcf8d6bcda158e2989946cf96a262af51c0b30f9de1922e2e"
     },
     {
       "path": "protocol.json",
@@ -541,7 +548,5 @@
       "bytes": 2654,
       "sha256": "c9ef53bd846c84f24ec1566015c740444234227b0badfa023453b20363de7732"
     }
-  ],
-  "total_files": 108,
-  "total_bytes": 6995923
+  ]
 }
