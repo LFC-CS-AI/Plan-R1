@@ -1,0 +1,238 @@
+relation_id,source_id,relation,target_id,evidence_status,source_url,locator,evidence_or_rationale,verified_on
+T001,R00,ADDRESSES,Q01,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T002,R00,ADDRESSES,Q03,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T003,R00,ADDRESSES,Q04,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T004,R00,ADDRESSES,Q07,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T005,R00,USES,M01,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T006,R00,USES,M02,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T007,R00,USES,M03,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T008,R00,USES,M13,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T009,R00,USES,A01,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T010,R00,USES,A02,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T011,R00,USES,A03,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T012,R00,USES,A05,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T013,R00,USES,A07,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T014,R00,USES,A08,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T015,R00,USES,B01,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T016,R00,USES,B02,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T017,R00,USES,B09,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T018,R00,LIMITED_BY,L01,inferred,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T019,R00,LIMITED_BY,L03,inferred,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T020,R00,LIMITED_BY,L04,inferred,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T021,R00,LIMITED_BY,L05,inferred,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T022,R00,LIMITED_BY,L08,inferred,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T023,R00,LIMITED_BY,L09,inferred,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T024,P01,ADDRESSES,Q01,verified_method_description,https://arxiv.org/html/2309.16534v1,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T025,P01,ADDRESSES,Q07,verified_method_description,https://arxiv.org/html/2309.16534v1,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T026,P01,USES,M01,verified_method_description,https://arxiv.org/html/2309.16534v1,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T027,P01,USES,A01,verified_method_description,https://arxiv.org/html/2309.16534v1,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T028,P01,USES,A02,verified_method_description,https://arxiv.org/html/2309.16534v1,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T029,P01,USES,A03,verified_method_description,https://arxiv.org/html/2309.16534v1,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T030,P01,USES,B03,verified_method_description,https://arxiv.org/html/2309.16534v1,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T031,P01,LIMITED_BY,L02,inferred,https://arxiv.org/html/2309.16534v1,§3–5,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T032,P01,LIMITED_BY,L03,inferred,https://arxiv.org/html/2309.16534v1,§3–5,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T033,P02,ADDRESSES,Q01,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T034,P02,ADDRESSES,Q07,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T035,P02,USES,M01,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T036,P02,USES,M02,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T037,P02,USES,A01,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T038,P02,USES,A02,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T039,P02,USES,B04,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T040,P02,USES,B10,verified_method_description,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T041,P02,LIMITED_BY,L02,inferred,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T042,P02,LIMITED_BY,L03,inferred,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T043,P02,LIMITED_BY,L09,inferred,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T044,P03,ADDRESSES,Q01,verified_method_description,https://arxiv.org/html/2405.15677v3,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T045,P03,ADDRESSES,Q08,verified_method_description,https://arxiv.org/html/2405.15677v3,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T046,P03,USES,M01,verified_method_description,https://arxiv.org/html/2405.15677v3,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T047,P03,USES,M02,verified_method_description,https://arxiv.org/html/2405.15677v3,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T048,P03,USES,M03,verified_method_description,https://arxiv.org/html/2405.15677v3,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T049,P03,USES,A01,verified_method_description,https://arxiv.org/html/2405.15677v3,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T050,P03,USES,A02,verified_method_description,https://arxiv.org/html/2405.15677v3,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T051,P03,USES,B04,verified_method_description,https://arxiv.org/html/2405.15677v3,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T052,P03,USES,B05,verified_method_description,https://arxiv.org/html/2405.15677v3,§3–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T053,P03,LIMITED_BY,L02,inferred,https://arxiv.org/html/2405.15677v3,§3–5,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T054,P03,LIMITED_BY,L08,inferred,https://arxiv.org/html/2405.15677v3,§3–5,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T055,P04,ADDRESSES,Q02,verified_method_description,https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf,§3–4;Limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T056,P04,ADDRESSES,Q06,verified_method_description,https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf,§3–4;Limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T057,P04,USES,M06,verified_method_description,https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf,§3–4;Limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T058,P04,USES,A01,verified_method_description,https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf,§3–4;Limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T059,P04,USES,B01,verified_method_description,https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf,§3–4;Limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T060,P04,USES,B02,verified_method_description,https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf,§3–4;Limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T061,P04,LIMITED_BY,L08,inferred,https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf,§3–4;Limitations,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T062,P04,LIMITED_BY,L09,inferred,https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf,§3–4;Limitations,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T063,P04,LIMITED_BY,L10,inferred,https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf,§3–4;Limitations,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T064,P05,ADDRESSES,Q02,verified_method_description,https://arxiv.org/pdf/2309.10443v1,§III–V;project limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T065,P05,ADDRESSES,Q06,verified_method_description,https://arxiv.org/pdf/2309.10443v1,§III–V;project limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T066,P05,USES,M04,verified_method_description,https://arxiv.org/pdf/2309.10443v1,§III–V;project limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T067,P05,USES,A01,verified_method_description,https://arxiv.org/pdf/2309.10443v1,§III–V;project limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T068,P05,USES,A04,verified_method_description,https://arxiv.org/pdf/2309.10443v1,§III–V;project limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T069,P05,USES,B01,verified_method_description,https://arxiv.org/pdf/2309.10443v1,§III–V;project limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T070,P05,USES,B02,verified_method_description,https://arxiv.org/pdf/2309.10443v1,§III–V;project limitations,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T071,P05,LIMITED_BY,L04,inferred,https://arxiv.org/pdf/2309.10443v1,§III–V;project limitations,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T072,P05,LIMITED_BY,L10,inferred,https://arxiv.org/pdf/2309.10443v1,§III–V;project limitations,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T073,P06,ADDRESSES,Q01,verified_method_description,https://arxiv.org/html/2404.14327v1,§III–VI,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T074,P06,ADDRESSES,Q02,verified_method_description,https://arxiv.org/html/2404.14327v1,§III–VI,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T075,P06,ADDRESSES,Q03,verified_method_description,https://arxiv.org/html/2404.14327v1,§III–VI,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T076,P06,USES,M04,verified_method_description,https://arxiv.org/html/2404.14327v1,§III–VI,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T077,P06,USES,M05,verified_method_description,https://arxiv.org/html/2404.14327v1,§III–VI,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T078,P06,USES,M06,verified_method_description,https://arxiv.org/html/2404.14327v1,§III–VI,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T079,P06,USES,A01,verified_method_description,https://arxiv.org/html/2404.14327v1,§III–VI,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T080,P06,USES,A04,verified_method_description,https://arxiv.org/html/2404.14327v1,§III–VI,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T081,P06,USES,B01,verified_method_description,https://arxiv.org/html/2404.14327v1,§III–VI,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T082,P06,USES,B02,verified_method_description,https://arxiv.org/html/2404.14327v1,§III–VI,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T083,P06,LIMITED_BY,L07,inferred,https://arxiv.org/html/2404.14327v1,§III–VI,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T084,P06,LIMITED_BY,L10,inferred,https://arxiv.org/html/2404.14327v1,§III–VI,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T085,P07,ADDRESSES,Q01,verified_method_description,https://arxiv.org/html/2501.15564v1,§4–5;附E,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T086,P07,ADDRESSES,Q03,verified_method_description,https://arxiv.org/html/2501.15564v1,§4–5;附E,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T087,P07,ADDRESSES,Q06,verified_method_description,https://arxiv.org/html/2501.15564v1,§4–5;附E,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T088,P07,USES,M07,verified_method_description,https://arxiv.org/html/2501.15564v1,§4–5;附E,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T089,P07,USES,A01,verified_method_description,https://arxiv.org/html/2501.15564v1,§4–5;附E,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T090,P07,USES,A06,verified_method_description,https://arxiv.org/html/2501.15564v1,§4–5;附E,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T091,P07,USES,B01,verified_method_description,https://arxiv.org/html/2501.15564v1,§4–5;附E,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T092,P07,USES,B02,verified_method_description,https://arxiv.org/html/2501.15564v1,§4–5;附E,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T093,P07,LIMITED_BY,L01,inferred,https://arxiv.org/html/2501.15564v1,§4–5;附E,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T094,P07,LIMITED_BY,L04,inferred,https://arxiv.org/html/2501.15564v1,§4–5;附E,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T095,P07,LIMITED_BY,L08,inferred,https://arxiv.org/html/2501.15564v1,§4–5;附E,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T096,P07,LIMITED_BY,L10,inferred,https://arxiv.org/html/2501.15564v1,§4–5;附E,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T097,P08,ADDRESSES,Q01,verified_method_description,https://arxiv.org/html/2502.19908v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T098,P08,ADDRESSES,Q05,verified_method_description,https://arxiv.org/html/2502.19908v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T099,P08,USES,M09,verified_method_description,https://arxiv.org/html/2502.19908v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T100,P08,USES,M06,verified_method_description,https://arxiv.org/html/2502.19908v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T101,P08,USES,A01,verified_method_description,https://arxiv.org/html/2502.19908v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T102,P08,USES,A07,verified_method_description,https://arxiv.org/html/2502.19908v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T103,P08,USES,A08,verified_method_description,https://arxiv.org/html/2502.19908v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T104,P08,USES,B01,verified_method_description,https://arxiv.org/html/2502.19908v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T105,P08,USES,B02,verified_method_description,https://arxiv.org/html/2502.19908v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T106,P08,LIMITED_BY,L03,inferred,https://arxiv.org/html/2502.19908v2,§3–4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T107,P08,LIMITED_BY,L09,inferred,https://arxiv.org/html/2502.19908v2,§3–4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T108,P09,ADDRESSES,Q01,verified_method_description,https://arxiv.org/html/2410.05582v1,§III–IV,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T109,P09,ADDRESSES,Q03,verified_method_description,https://arxiv.org/html/2410.05582v1,§III–IV,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T110,P09,ADDRESSES,Q08,verified_method_description,https://arxiv.org/html/2410.05582v1,§III–IV,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T111,P09,USES,M07,verified_method_description,https://arxiv.org/html/2410.05582v1,§III–IV,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T112,P09,USES,M08,verified_method_description,https://arxiv.org/html/2410.05582v1,§III–IV,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T113,P09,USES,A01,verified_method_description,https://arxiv.org/html/2410.05582v1,§III–IV,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T114,P09,USES,A07,verified_method_description,https://arxiv.org/html/2410.05582v1,§III–IV,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T115,P09,USES,A08,verified_method_description,https://arxiv.org/html/2410.05582v1,§III–IV,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T116,P09,USES,B01,verified_method_description,https://arxiv.org/html/2410.05582v1,§III–IV,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T117,P09,LIMITED_BY,L06,inferred,https://arxiv.org/html/2410.05582v1,§III–IV,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T118,P09,LIMITED_BY,L09,inferred,https://arxiv.org/html/2410.05582v1,§III–IV,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T119,P10,ADDRESSES,Q01,verified_method_description,https://arxiv.org/html/2303.05760v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T120,P10,ADDRESSES,Q07,verified_method_description,https://arxiv.org/html/2303.05760v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T121,P10,USES,M10,verified_method_description,https://arxiv.org/html/2303.05760v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T122,P10,USES,M06,verified_method_description,https://arxiv.org/html/2303.05760v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T123,P10,USES,A01,verified_method_description,https://arxiv.org/html/2303.05760v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T124,P10,USES,B01,verified_method_description,https://arxiv.org/html/2303.05760v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T125,P10,USES,B02,verified_method_description,https://arxiv.org/html/2303.05760v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T126,P10,USES,B03,verified_method_description,https://arxiv.org/html/2303.05760v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T127,P10,LIMITED_BY,L01,inferred,https://arxiv.org/html/2303.05760v2,§3–4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T128,P10,LIMITED_BY,L09,inferred,https://arxiv.org/html/2303.05760v2,§3–4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T129,P11,ADDRESSES,Q05,verified_method_description,https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T130,P11,ADDRESSES,Q07,verified_method_description,https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T131,P11,USES,M11,verified_method_description,https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T132,P11,USES,A01,verified_method_description,https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T133,P11,USES,A09,verified_method_description,https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T134,P11,USES,B07,verified_method_description,https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T135,P11,LIMITED_BY,L08,inferred,https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf,§3–4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T136,P11,LIMITED_BY,L09,inferred,https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf,§3–4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T137,P12,ADDRESSES,Q04,verified_method_description,https://arxiv.org/html/2503.20783v2,§3.1–3.4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T138,P12,USES,M12,verified_method_description,https://arxiv.org/html/2503.20783v2,§3.1–3.4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T139,P12,USES,A07,verified_method_description,https://arxiv.org/html/2503.20783v2,§3.1–3.4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T140,P12,USES,B08,verified_method_description,https://arxiv.org/html/2503.20783v2,§3.1–3.4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T141,P12,LIMITED_BY,L09,inferred,https://arxiv.org/html/2503.20783v2,§3.1–3.4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T142,P13,ADDRESSES,Q02,verified_method_description,https://arxiv.org/html/2412.05334v2,§4–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T143,P13,USES,M01,verified_method_description,https://arxiv.org/html/2412.05334v2,§4–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T144,P13,USES,M14,verified_method_description,https://arxiv.org/html/2412.05334v2,§4–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T145,P13,USES,A01,verified_method_description,https://arxiv.org/html/2412.05334v2,§4–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T146,P13,USES,A02,verified_method_description,https://arxiv.org/html/2412.05334v2,§4–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T147,P13,USES,A04,verified_method_description,https://arxiv.org/html/2412.05334v2,§4–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T148,P13,USES,B05,verified_method_description,https://arxiv.org/html/2412.05334v2,§4–5,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T149,P13,LIMITED_BY,L02,inferred,https://arxiv.org/html/2412.05334v2,§4–5,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T150,P14,ADDRESSES,Q02,verified_method_description,https://arxiv.org/html/2509.23993v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T151,P14,ADDRESSES,Q08,verified_method_description,https://arxiv.org/html/2509.23993v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T152,P14,USES,M01,verified_method_description,https://arxiv.org/html/2509.23993v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T153,P14,USES,M03,verified_method_description,https://arxiv.org/html/2509.23993v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T154,P14,USES,M14,verified_method_description,https://arxiv.org/html/2509.23993v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T155,P14,USES,M15,verified_method_description,https://arxiv.org/html/2509.23993v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T156,P14,USES,A01,verified_method_description,https://arxiv.org/html/2509.23993v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T157,P14,USES,A02,verified_method_description,https://arxiv.org/html/2509.23993v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T158,P14,USES,A07,verified_method_description,https://arxiv.org/html/2509.23993v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T159,P14,USES,A08,verified_method_description,https://arxiv.org/html/2509.23993v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T160,P14,USES,B06,verified_method_description,https://arxiv.org/html/2509.23993v2,§3–4,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T161,P14,LIMITED_BY,L06,inferred,https://arxiv.org/html/2509.23993v2,§3–4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T162,P14,LIMITED_BY,L09,inferred,https://arxiv.org/html/2509.23993v2,§3–4,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T163,P15,ADDRESSES,Q03,verified_method_description,https://arxiv.org/html/2601.12901v1,§4–6,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T164,P15,ADDRESSES,Q05,verified_method_description,https://arxiv.org/html/2601.12901v1,§4–6,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T165,P15,ADDRESSES,Q06,verified_method_description,https://arxiv.org/html/2601.12901v1,§4–6,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T166,P15,USES,M07,verified_method_description,https://arxiv.org/html/2601.12901v1,§4–6,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T167,P15,USES,M16,verified_method_description,https://arxiv.org/html/2601.12901v1,§4–6,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T168,P15,USES,A01,verified_method_description,https://arxiv.org/html/2601.12901v1,§4–6,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T169,P15,USES,A06,verified_method_description,https://arxiv.org/html/2601.12901v1,§4–6,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T170,P15,USES,A07,verified_method_description,https://arxiv.org/html/2601.12901v1,§4–6,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T171,P15,USES,A08,verified_method_description,https://arxiv.org/html/2601.12901v1,§4–6,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T172,P15,USES,B01,verified_method_description,https://arxiv.org/html/2601.12901v1,§4–6,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T173,P15,USES,B02,verified_method_description,https://arxiv.org/html/2601.12901v1,§4–6,作者方法/设定见卡片；问题映射为分类整理,2026-10-20
+T174,P15,LIMITED_BY,L05,inferred,https://arxiv.org/html/2601.12901v1,§4–6,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T175,P15,LIMITED_BY,L06,inferred,https://arxiv.org/html/2601.12901v1,§4–6,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T176,P15,LIMITED_BY,L08,inferred,https://arxiv.org/html/2601.12901v1,§4–6,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T177,P15,LIMITED_BY,L09,inferred,https://arxiv.org/html/2601.12901v1,§4–6,分析性边界归纳；作者明确承认的限制另见paper_notes，不一律归给作者,2026-10-20
+T178,R00,CITES,P01,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§1;§3.1–3.2;References 印刷p12,motion语言建模与时间分解,2026-10-20
+T179,R00,CITES,P02,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§1;§3.2;References 印刷p12,k-disks tokenizer；引用旧标题Learning the language of driving scenarios,2026-10-20
+T180,R00,CITES,P03,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3.1–3.2;References 印刷p12,NTP及分解注意力,2026-10-20
+T181,R00,CITES,P04,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,表1;References 印刷p11,PDM强规则/混合基线,2026-10-20
+T182,R00,CITES,P05,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§1–2.1;表1;References 印刷p11,模仿学习规划及评测基线,2026-10-20
+T183,R00,CITES,P06,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§1–2.1;表1;References 印刷p10,模仿学习局限及PLUTO基线,2026-10-20
+T184,R00,CITES,P07,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§1;表1;References 印刷p13,扩散规划竞争者；书目仍记arXiv,2026-10-20
+T185,R00,CITES,P08,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§1–2.1;表1;References 印刷p13,专家依赖的RL竞争路线,2026-10-20
+T186,R00,CITES,P09,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§1–2.1;References 印刷p11,偏好奖励+RL路线；引用2024预印本,2026-10-20
+T187,R00,CITES,P10,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,表1;References 印刷p11,交互规划竞争基线,2026-10-20
+T188,R00,CITES,P11,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§2.1;References 印刷p11,latent world model RL背景,2026-10-20
+T189,R00,CITES,P12,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§2.2;References 印刷p11,明确提及Dr.GRPO及其启发,2026-10-20
+T190,P02,CITES,P01,verified_citation,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,Related Work 印刷p2,同期工作；并非时间顺序继承,2026-10-20
+T191,P03,CITES,P01,verified_citation,https://arxiv.org/html/2405.15677v3,§2.2–2.3;References[34],均匀量化与NTP先例,2026-10-20
+T192,P03,CITES,P02,verified_citation,https://arxiv.org/html/2405.15677v3,§2.3;References[30],token交通模拟先例,2026-10-20
+T193,P03,CITES,P05,verified_citation,https://arxiv.org/html/2405.15677v3,References[6],规划设计相关背景,2026-10-20
+T194,P06,CITES,P04,verified_citation,https://arxiv.org/html/2404.14327v1,§I;References[2],PDM闭环强基线,2026-10-20
+T195,P06,CITES,P05,verified_citation,https://arxiv.org/html/2404.14327v1,§I–II;References[3],状态dropout和增广先例,2026-10-20
+T196,P06,CITES,P10,verified_citation,https://arxiv.org/html/2404.14327v1,§IV-A;References[31],交互规划比较,2026-10-20
+T197,P07,CITES,P05,verified_citation,https://arxiv.org/html/2501.15564v1,§4.2;References Cheng et al. 2023,运动状态捷径观察,2026-10-20
+T198,P07,CITES,P06,verified_citation,https://arxiv.org/html/2501.15564v1,§1;表1;References Cheng et al. 2024,辅助安全loss及基线,2026-10-20
+T199,P08,CITES,P04,verified_citation,https://arxiv.org/html/2502.19908v2,表1;References[9],PDM基线及数据划分,2026-10-20
+T200,P08,CITES,P09,verified_citation,https://arxiv.org/html/2502.19908v2,§2;References[21],同期生成后微调路线,2026-10-20
+T201,P08,CITES,P05,verified_citation,https://arxiv.org/html/2502.19908v2,§4.1;References[5],Test14基准来源,2026-10-20
+T202,P09,CITES,P03,verified_citation,https://arxiv.org/html/2410.05582v1,§II-C;References[28],自回归模拟路线,2026-10-20
+T203,P09,CITES,P04,verified_citation,https://arxiv.org/html/2410.05582v1,§III-D;表I;References[24]/[40],规则score与baseline,2026-10-20
+T204,P09,CITES,P10,verified_citation,https://arxiv.org/html/2410.05582v1,§II-A;表I;References[1],预测规划基线,2026-10-20
+T205,P13,CITES,P03,verified_citation,https://arxiv.org/html/2412.05334v2,§5.1;References[35],选SMART作为policy架构,2026-10-20
+T206,P13,CITES,P02,verified_citation,https://arxiv.org/html/2412.05334v2,§4.3;References[24],noisy tokenization对照,2026-10-20
+T207,P13,CITES,P01,verified_citation,https://arxiv.org/html/2412.05334v2,References[28],token化预测背景,2026-10-20
+T208,P13,CITES,P09,verified_citation,https://arxiv.org/html/2412.05334v2,References[10],RL后训练相关工作,2026-10-20
+T209,P14,CITES,R00,verified_citation,https://arxiv.org/html/2509.23993v2,§2;References Tang et al. 2025,明确引用arXiv:2505.17659；非正式版引用,2026-10-20
+T210,P14,CITES,P03,verified_citation,https://arxiv.org/html/2509.23993v2,§3.2;§4.1;References Wu et al. 2024,SMART架构与基线,2026-10-20
+T211,P14,CITES,P13,verified_citation,https://arxiv.org/html/2509.23993v2,§3.1/3.4;References Zhang et al. 2025,CAT-K闭环监督微调,2026-10-20
+T212,P15,CITES,R00,verified_citation,https://arxiv.org/html/2601.12901v1,§2;References[48],引用Plan-R1 2025预印本,2026-10-20
+T213,P15,CITES,P07,verified_citation,https://arxiv.org/html/2601.12901v1,§3;§5.1;References[56],以Diffusion Planner预训练模型为基础,2026-10-20
+T214,P15,CITES,P08,verified_citation,https://arxiv.org/html/2601.12901v1,§2;References[54],连续AR RL路线比较,2026-10-20
+T215,P15,CITES,P04,verified_citation,https://arxiv.org/html/2601.12901v1,§5.1;References[8],PDM基线/Val14来源,2026-10-20
+T216,P15,CITES,P05,verified_citation,https://arxiv.org/html/2601.12901v1,§5.1;References[4],Test14-hard来源,2026-10-20
+T217,P15,CITES,P06,verified_citation,https://arxiv.org/html/2601.12901v1,§5.1;References[3],IL规划比较,2026-10-20
+T218,P15,CITES,P10,verified_citation,https://arxiv.org/html/2601.12901v1,§5.1;References[15],交互规划比较,2026-10-20
+T219,X01,CITES,R00,verified_citation,https://arxiv.org/html/2602.21172v2,References[39],NoRD书目明确以ICLR 2026引用Plan-R1；本文自身正式发表状态未核实,2026-10-20
+T220,R00,EXTENDS,P12,author_explicit,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§2.2,明确说明VD-GRPO受Dr.GRPO启发；扩展域动机不等于全新去std算子,2026-10-20
+T221,R00,EXTENDS,P03,author_explicit,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3.2,复用分解注意力/NTP设计；仅组件继承,2026-10-20
+T222,P13,EXTENDS,P03,author_explicit,https://arxiv.org/html/2412.05334v2,§5.1,显式使用SMART backbone做CLSFT,2026-10-20
+T223,P14,EXTENDS,P03,author_explicit,https://arxiv.org/html/2509.23993v2,§3.2;§4.1,显式选择SMART-tiny,2026-10-20
+T224,P14,EXTENDS,P13,author_explicit,https://arxiv.org/html/2509.23993v2,§3.1;§3.4,明确使用CAT-K闭环SFT,2026-10-20
+T225,P15,EXTENDS,P07,author_explicit,https://arxiv.org/html/2601.12901v1,§5.1,明确以Diffusion Planner为预训练planner,2026-10-20
+T226,R00,COMPETES_WITH,P04,verified_comparison,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,表1,同Root表中的规划比较；必须按postprocessing/split/NR-R分组，不能视为严格同成本复现,2026-10-20
+T227,R00,COMPETES_WITH,P05,verified_comparison,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,表1,同Root表中的规划比较；必须按postprocessing/split/NR-R分组，不能视为严格同成本复现,2026-10-20
+T228,R00,COMPETES_WITH,P06,verified_comparison,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,表1,同Root表中的规划比较；必须按postprocessing/split/NR-R分组，不能视为严格同成本复现,2026-10-20
+T229,R00,COMPETES_WITH,P07,verified_comparison,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,表1,同Root表中的规划比较；必须按postprocessing/split/NR-R分组，不能视为严格同成本复现,2026-10-20
+T230,R00,COMPETES_WITH,P08,verified_comparison,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,表1,同Root表中的规划比较；必须按postprocessing/split/NR-R分组，不能视为严格同成本复现,2026-10-20
+T231,R00,COMPETES_WITH,P10,verified_comparison,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,表1,同Root表中的规划比较；必须按postprocessing/split/NR-R分组，不能视为严格同成本复现,2026-10-20
+T232,P15,COMPETES_WITH,R00,inferred,https://arxiv.org/html/2601.12901v1,P15 §2/§5;R00表1,共享nuPlan规划/RFT问题；v1没有直接Plan-R1实验行，不能声称已胜出,2026-10-20
+T233,R00,POTENTIALLY_COMPLEMENTS,P13,hypothesis,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,双方卡片Method/Assumptions;combinations.md,原则对齐与covariate-shift恢复作用不同；已有SMART-R1相近组合，创新未成立,2026-10-20
+T234,R00,POTENTIALLY_COMPLEMENTS,P14,hypothesis,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,双方卡片Method/Assumptions;combinations.md,可考虑改善冻结背景模型；WOMD realism并不保证nuPlan干预有效性,2026-10-20
+T235,R00,POTENTIALLY_COMPLEMENTS,P15,hypothesis,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,双方卡片Method/Assumptions;combinations.md,VD的组权重与survival的同奖组信号互补假说；需2×2消融,2026-10-20
+T236,R00,POTENTIALLY_COMPLEMENTS,P05,hypothesis,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,双方卡片Method/Assumptions;combinations.md,规划奖励与执行器差距可分别诊断；PlanTF已提出RL Adapter,2026-10-20
+T237,R00,POTENTIALLY_COMPLEMENTS,P08,hypothesis,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,双方卡片Method/Assumptions;combinations.md,一致mode与token动作细粒度可能互补；尚无直接证据,2026-10-20

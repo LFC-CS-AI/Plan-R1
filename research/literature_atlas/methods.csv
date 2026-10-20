@@ -1,0 +1,17 @@
+paper_id,problems,methods,assumptions,limitations,benchmarks,world_model_or_prediction,objective,inference_and_correction,source_url,locator
+R00,Q01;Q03;Q04;Q07,M01;M02;M03;M13,A01;A02;A03;A05;A07;A08,L01;L03;L04;L05;L08;L09,B01;B02;B09,prediction WM frozen; ego trainable,rule-gated,top-1; optional external refinement,https://proceedings.iclr.cc/paper_files/paper/2026/file/28a80012e6f564c0cc8e7661e1db83fe-Paper-Conference.pdf,§3–4;附B/D
+P01,Q01;Q07,M01,A01;A02;A03,L02;L03,B03,joint temporal predictor,NTP likelihood,many rollouts + aggregation,https://arxiv.org/html/2309.16534v1,§3–5
+P02,Q01;Q07,M01;M02,A01;A02,L02;L03;L09,B04;B10,autoregressive NPC,NTP likelihood,agent order; top-p details in appendix,https://proceedings.iclr.cc/paper_files/paper/2024/file/e904695e77bd63fe167a25def6869ae5-Paper-Conference.pdf,§2–4
+P03,Q01;Q08,M01;M02;M03,A01;A02,L02;L08,B04;B05,autoregressive simulator,motion/map NTP,sampling; model size separate,https://arxiv.org/html/2405.15677v3,§3–5
+P04,Q02;Q06,M06,A01,L08;L09;L10,B01;B02,constant velocity prediction,handcrafted scoring,IDM proposals; rule selection,https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf,§3–4;Limitations
+P05,Q02;Q06,M04,A01;A04,L04;L10,B01;B02,separate prediction task,imitation; adapter PPO separately,LQR or separately studied adapter,https://arxiv.org/pdf/2309.10443v1,§III–V;project limitations
+P06,Q01;Q02;Q03,M04;M05;M06,A01;A04,L07;L10,B01;B02,single future per non-ego,IL + auxiliary + contrastive,learned proposals; optional rule selection,https://arxiv.org/html/2404.14327v1,§III–VI
+P07,Q01;Q03;Q06,M07,A01;A06,L01;L04;L08;L10,B01;B02,joint diffusion,denoising; optional differentiable energies,DPM-Solver; refinement separately,https://arxiv.org/html/2501.15564v1,§4–5;附E
+P08,Q01;Q05,M09;M06,A01;A07;A08,L03;L09,B01;B02,one-shot non-reactive predictor,expert DE + quality rewards,Gaussian mean per mode; rule selector,https://arxiv.org/html/2502.19908v2,§3–4
+P09,Q01;Q03;Q08,M07;M08,A01;A07;A08,L06;L09,B01,joint generated scene,rule-filtered GPT-4o pairwise reward,single/multiple; learned selection,https://arxiv.org/html/2410.05582v1,§III–IV
+P10,Q01;Q07,M10;M06,A01,L01;L09,B01;B02;B03,level-k joint GMM,IL + interaction loss,reference path; optional optimization,https://arxiv.org/html/2303.05760v2,§3–4
+P11,Q05;Q07,M11,A01;A09,L08;L09,B07,RSSM latent world,learned reward/termination; actor-critic,control actions,https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf,§3–4
+P12,Q04,M12,A07,L09,B08,none; text sequence MDP,binary verifier; β=0 analysis,variable length text,https://arxiv.org/html/2503.20783v2,§3.1–3.4
+P13,Q02,M01;M14,A01;A02;A04,L02,B05,SMART policy; ego GMM separately,recovery CE / GMM NLL,training CAT-K vs inference sampling,https://arxiv.org/html/2412.05334v2,§4–5
+P14,Q02;Q08,M01;M03;M14;M15,A01;A02;A07;A08,L06;L09,B06,all-agent SMART,realism r−α + KL,no ensemble/postprocess; 2% ablations,https://arxiv.org/html/2509.23993v2,§3–4
+P15,Q03;Q05;Q06,M07;M16,A01;A06;A07;A08,L05;L06;L08;L09,B01;B02,nuMax simulator; diffusion prior,PPO long-term + GRPO survival,5-step DDIM; guidance removed at deployment,https://arxiv.org/html/2601.12901v1,§4–6

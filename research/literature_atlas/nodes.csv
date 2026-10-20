@@ -1,0 +1,71 @@
+node_id,node_type,label,definition
+R00,Paper,Plan-R1,Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling
+P01,Paper,MotionLM,MotionLM: Multi-Agent Motion Forecasting as Language Modeling
+P02,Paper,Trajeglish,Trajeglish: Traffic Modeling as Next-Token Prediction
+P03,Paper,SMART,SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction
+P04,Paper,PDM,Parting with Misconceptions about Learning-based Vehicle Motion Planning
+P05,Paper,PlanTF,Rethinking Imitation-based Planners for Autonomous Driving
+P06,Paper,PLUTO,PLUTO: Pushing the Limit of Imitation Learning-based Planning for Autonomous Driving
+P07,Paper,Diffusion Planner,Diffusion-Based Planning for Autonomous Driving with Flexible Guidance
+P08,Paper,CarPlanner,CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-Scale Reinforcement Learning in Autonomous Driving
+P09,Paper,Gen-Drive,Gen-Drive: Enhancing Diffusion Generative Driving Policies with Reward Modeling and Reinforcement Learning Fine-tuning
+P10,Paper,GameFormer,GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving
+P11,Paper,Think2Drive,Think2Drive: Efficient Reinforcement Learning by Thinking with Latent World Model for Autonomous Driving (in CARLA-v2)
+P12,Paper,Dr.GRPO,Understanding R1-Zero-Like Training: A Critical Perspective
+P13,Paper,CAT-K / CLSFT,Closed-Loop Supervised Fine-Tuning of Tokenized Traffic Models
+P14,Paper,SMART-R1,Advancing Multi-agent Traffic Simulation via R1-Style Reinforcement Fine-Tuning
+P15,Paper,PlannerRFT,PlannerRFT: Reinforcing Diffusion Planners through Closed-Loop and Sample-Efficient Fine-Tuning
+X01,Paper,NoRD [L2 lead],NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning; not in 15-paper quota
+Q01,Problem,联合不确定性,多模态未来及多agent一致性
+Q02,Problem,训练部署偏移,开环BC与闭环访问状态不同
+Q03,Problem,安全原则对齐,避免继承示范违规并兼顾效率
+Q04,Problem,优化权重失真,组内归一化改变跨场景权重
+Q05,Problem,有效探索,多样性、有效支持集及全同奖励
+Q06,Problem,计划执行差距,跟踪器和车辆动力学改变实际轨迹
+Q07,Problem,交互反应有效性,背景模型是否反映ego行动后的合理反应
+Q08,Problem,域泛化与遗忘,规模、跨数据域及后训练分布保留
+M01,Method,AR motion tokens,离散动作序列自回归
+M02,Method,k-disks tokenizer,角点距离下的数据驱动模板
+M03,Method,分解注意力,时间、agent-map、agent-agent模块
+M04,Method,IL augmentation / dropout,扰动、重归一化、状态dropout
+M05,Method,Contrastive IL,场景增强与对比目标
+M06,Method,规则提案/选择/修正,显式轨迹评价与后处理；不代表形式保证
+M07,Method,Diffusion + guidance,连续轨迹去噪与能量偏置
+M08,Method,Preference reward + DDPO,成对偏好评估器和去噪policy优化
+M09,Method,Consistent-mode PPO,rollout内固定mode的连续AR策略
+M10,Method,Level-k interaction,按层预测相互反应
+M11,Method,Latent imagination RL,RSSM想象空间actor-critic
+M12,Method,Dr.GRPO,移除std与可变响应长度归一化
+M13,Method,VD-GRPO,固定缩放的组中心化安全奖励
+M14,Method,CAT-K CLSFT,策略top-K近GT rollout与恢复监督
+M15,Method,MPO + SFT–RFT–SFT,阈值优势和交替后训练
+M16,Method,Adaptive exploration + survival,探索PPO及生成GRPO双分支
+A01,Assumption,结构化观测可用,地图、定位及检测/轨迹误差未完整建模
+A02,Assumption,有限词表覆盖,词表及策略支持集覆盖所需行为
+A03,Assumption,短时条件独立,同刻agent动作在历史条件下分解
+A04,Assumption,GT恢复目标有效,偏离后恢复到日志仍语义合理
+A05,Assumption,模拟反应可信,训练rollout足够表达真实反应
+A06,Assumption,能量可微,guidance依赖可微代价和后验近似
+A07,Assumption,奖励刻画目标,规则/偏好/realism目标与需要的行为一致
+A08,Assumption,参考分布有用,预训练策略或轨迹邻域包含有用解
+A09,Assumption,潜动态可学习,latent转移/奖励/终止足够准确
+L01,Limitation,非形式安全保证,经验安全分数不构成约束保证；分析判断
+L02,Limitation,量化/支持集缺失,有限词表或top-K可能无可行行为；分析判断
+L03,Limitation,日志外反应未证,观察数据学到反应不等于干预可识别；分析判断
+L04,Limitation,控制器偏差,计划与实际执行不一致
+L05,Limitation,同奖组无信号,中心化后全零优势；分析判断
+L06,Limitation,后训练遗忘,指标优化可能损害原分布
+L07,Limitation,后处理候选受限,全体候选不可用时选择无能为力
+L08,Limitation,地图/感知依赖,结构化输入而非完整传感器系统
+L09,Limitation,基准外推有限,分数/agent模型/切分变化不能直接外推
+L10,Limitation,横向机动不足,换道/大横移覆盖或建模不足
+B01,Benchmark,nuPlan NR,日志背景车；具体split/controller另记
+B02,Benchmark,nuPlan R,IDM背景车；不是训练学习WM
+B03,Benchmark,WOMD forecasting,marginal/interactive mAP预测
+B04,Benchmark,WOSAC 2023 original,原始metric，非更新分数
+B05,Benchmark,WOSAC 2024,更新realism分布指标
+B06,Benchmark,WOSAC 2025,含新红灯/TTC过滤指标版本
+B07,Benchmark,CARLA-v2 / CornerCaseRepo,控制输出；DS/RC，与nuPlan不同
+B08,Benchmark,Math reasoning,MATH/AIME等可验证奖励
+B09,Benchmark,interPlan,基于nuPlan扰动的长尾测试
+B10,Benchmark,nuScenes transfer,交通模型域迁移
