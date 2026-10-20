@@ -33,7 +33,7 @@ def main():
     stable+='\n参考碰撞不是由密集采样命名：自适应检查返回实际重叠witness或整个区间的分离证书；本轮无unknown。全部414个witness（含178个起点已碰撞例）经独立Shapely核对；600个随机静态矩形对也通过独立验证。\n'
     stable+='\n上述2.868%的纯时间漏检比例的描述性二项Wilson区间为'+f"[{100*summary['synthetic_temporal_miss_fraction_wilson95'][0]:.3f}%, {100*summary['synthetic_temporal_miss_fraction_wilson95'][1]:.3f}%]"+'，只针对这份固定合成分布。不能外推为真实Plan-R1/nuPlan漏检率。\n'
     stable+='\n空间问题单独计数：原角点奖励漏88例，SAT端点漏83例，相差5例是端点空间判据的额外遗漏。83个纯时间漏检也没有被原TTC一步外推项惩罚；未构造完整地图/其他奖励，因此不声称完整reward均视其为安全。\n'
-    stable+='\n所有强度/类型的原始记录、几何判据、token ID与box均在CSV中，没有只保留失败案例。\n'
+    stable+='\n全部类型与种子的原始记录、几何判据、token ID与box均在CSV中，没有只保留失败案例。\n'
     stable+='\n'
     stable+='![时间漏检实例](figures/temporal_example.png)\n'
     stable+='\n图例按“最大密集SAT重叠量的纯时间漏检”规则取样，仅用于解释；统计使用全部样本。\n'
@@ -59,6 +59,10 @@ def main():
     stable+='\n## 6. 对下一步的实际含义\n\n'
     stable+='机制缺口成立，且不是单个几何bug；但高频检查解决了大部分诊断问题并解决当前选择测试。值得继续验证真正改变区间实现/生成分布的方法，不能把检测器改造本身作为CCF B/A独立贡献。真实模型、实际执行和同标签强基线证据均未获得。详见 `go_no_go.md` 和 `method_proposal.md`。\n'
     text='# 第一轮实际执行报告与结果\n\n**结果支持存在端点—区间安全不一致，但尚不支持新方法优于廉价修复。** 无完整模型训练、GPU或大型数据下载；真实模型输出数为0。\n\n## 1. 设计与复现\n\n原始词表、原函数、独立SAT/区间器，4种子×3类×256区间；详细协议见 `protocol.json`，边界和统计口径见 `experiment_design.md`。保留全部3072行，178个起点碰撞例不计作新增时间漏检。词表筛选304个Vehicle和94个Pedestrian，全部筛选信息也可查。\n\n## 2. 起点无碰撞样本的检测比较\n\n'+dtable+'\n'+stable
+    reproduction=out/'reproducibility.json'
+    if reproduction.exists():
+        rr=json.loads(reproduction.read_text())
+        text=text.replace('## 1. 设计与复现\n','## 1. 设计与复现\n\n已在独立worktree重跑本阶段完整矩阵：6份科学数据表逐字节一致，3072例事件/token字段与全部候选选择完全一致。端点gap有浮点末位差异，最大绝对差'+f"{rr['max_diagnostic_gap_abs_difference']:.3g}"+'m，以1e-12容差核对；未修改原始测量以隐藏差异。计时与provenance另行保存，见 `results/reproducibility.json`。\n')
     (root/'experiment_results.md').write_text(text)
     print('Numeric report generated from saved observations.')
 

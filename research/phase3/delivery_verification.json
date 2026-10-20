@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "zip_bytes": 986997,
+  "zip_sha256": "b6d9f514ecdd6716053077f6a88d6cc4ee4b5974787c83861f8e46a6ef3bbb65",
+  "archive_entries": 55,
+  "crc": "PASS",
+  "all_archive_entries_byte_match": true,
+  "archive": "archives/plan_r1_phase3_research.zip",
+  "excluded_from_archive": [
+    "archive itself",
+    "delivery_verification.json"
+  ],
+  "native_chat_download": false,
+  "download": "GitHub raw URL supplied in PR/final response."
+}
