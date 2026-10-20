@@ -1,0 +1,65 @@
+{
+  "displacement_m": {
+    "min": 0.000517889497790376,
+    "median": 0.007852840699479948,
+    "max": 0.008816857318162846
+  },
+  "oracle_rescues": {
+    "0": 1,
+    "0.005": 2,
+    "0.02": 3,
+    "0.05": 0
+  },
+  "zero_buffer_rescues_by_population": {
+    "broad": 0,
+    "boundary": 1
+  },
+  "paired": [
+    {
+      "seed": 17,
+      "bridge_minus_selector": -0.00390625,
+      "paired_bootstrap_95": [
+        -0.009765625,
+        0.0
+      ],
+      "better_scenes": 2,
+      "worse_scenes": 0
+    },
+    {
+      "seed": 29,
+      "bridge_minus_selector": 0.0,
+      "paired_bootstrap_95": [
+        0.0,
+        0.0
+      ],
+      "better_scenes": 0,
+      "worse_scenes": 0
+    },
+    {
+      "seed": 43,
+      "bridge_minus_selector": 0.0,
+      "paired_bootstrap_95": [
+        0.0,
+        0.0
+      ],
+      "better_scenes": 0,
+      "worse_scenes": 0
+    },
+    {
+      "seed": 71,
+      "bridge_minus_selector": 0.0,
+      "paired_bootstrap_95": [
+        0.0,
+        0.0
+      ],
+      "better_scenes": 0,
+      "worse_scenes": 0
+    }
+  ],
+  "total_optimizer_steps": 14400,
+  "training_seconds": 9.981470396000987,
+  "evaluation_seconds": 51.95689612299975,
+  "data_seconds": 153.63993856699926,
+  "go_gpu": false,
+  "scope": "Constrained synthetic component evidence only; no real policy outputs"
+}

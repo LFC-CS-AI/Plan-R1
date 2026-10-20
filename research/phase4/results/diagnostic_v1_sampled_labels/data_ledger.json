@@ -1,0 +1,22 @@
+{
+  "train": {
+    "scenes": 768,
+    "label_trajectories": 13824,
+    "label_pose_queries": 2778624,
+    "seconds": 18.252260048000153
+  },
+  "validation": {
+    "scenes": 192,
+    "label_trajectories": 3456,
+    "label_pose_queries": 694656,
+    "seconds": 4.104955550999875
+  },
+  "test": {
+    "scenes": 512,
+    "label_trajectories": 9216,
+    "label_pose_queries": 1852416,
+    "seconds": 11.093947199000013
+  },
+  "total_seconds": 45.05144594700005,
+  "note": "Boundary construction cost additional; included in walltime, not label_trajectory count. No world model calls."
+}

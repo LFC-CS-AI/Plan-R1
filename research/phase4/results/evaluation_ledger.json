@@ -1,0 +1,7 @@
+{
+  "seconds": 51.95689612299975,
+  "predictions": 10752,
+  "distinct_reference_trajectories": 5596,
+  "feasibility_scenes": 512,
+  "note": "No pretrained or world-model calls. Filtering abstains; stopping safety is unmodeled. All raw learned rows use no online collision queries."
+}

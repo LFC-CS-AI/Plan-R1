@@ -1,0 +1,7784 @@
+{
+  "checked": 864,
+  "contradictions": 0,
+  "unknown": 5,
+  "seconds": 3.4522549990006155,
+  "rows": [
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 7.521149714223178,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 7.521084373106897,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 7.521019021171478,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 7.520953658437035,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 7.520888284935483,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 7.520822900618693,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 7.5207575054879054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 7.520692099643803,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 7.5206266829576975,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 7.533664506959621,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 7.530425729402603,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 7.527217136070959,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 7.524038168764424,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 7.520888284935483,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 7.517766956981577,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 7.514673671897945,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 7.511607930507411,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_381",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 7.48908341368349,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -2.8875915041770557,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -2.8875825544941276,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -2.8875736052904877,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -2.8875646571730247,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -2.887555709056069,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -2.887546761704556,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -2.8875378140740904,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -2.887528868808675,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -2.8875199227989463,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -2.887695123189864,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -2.8876602536881233,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -2.887625395520703,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -2.887590547189809,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -2.887555709056069,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -2.8875208810182316,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -2.8874860627170253,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -2.8874512557792813,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_389",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -2.8874164582220074,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.010474479143714799,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.010451420028603664,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.010428363170309707,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.01040530839355569,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.010382256247217114,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.010359206078600969,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.010336157960960879,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.010313112572030936,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.01029006923810416,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.011641946449923335,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.011325791146670205,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.011010460190860383,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.010695950178823188,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.010382256247217114,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.010069373795419168,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.009757299953853882,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.00944602911675485,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_466",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.009135558150493162,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.910490718073501,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.9104009814020589,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.9103111741304419,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.9102212957637887,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.9101313466323508,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.9100413266274415,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.9099512352727964,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.9098610729331994,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.9097708390259881,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.8985987567820338,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.9015327265931404,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.9044322798335702,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.9072982263614927,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.9101313466323508,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.9129323942758458,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.9157020959208121,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.9184411537679503,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_673",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.9211502461929987,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 5.395352244125642,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 5.395372257251713,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 5.395392271364939,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 5.39541228601244,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 5.395432301444596,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 5.395452317864048,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 5.395472335145645,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 5.395492353086801,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 5.395512371687504,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 5.396101562805527,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 5.395934187390529,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 5.395766852035811,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 5.395599556725716,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 5.395432301444596,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 5.3952650861768054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 5.395097911234157,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 5.394930775945932,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_21",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 5.3947636807490715,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.006434195417026611,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.006260990949468526,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.0060875329212386475,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.005913820042852458,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.005739852801266321,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.005565629945409545,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.005391150826300373,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.005216415789421447,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.005041423816072976,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.009280372756610755,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.005395314754379488,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.0015995335674275912,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.002110950740757511,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.005739852801266321,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.009290646090355459,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.012766584518055013,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.016170719383311383,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_710",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.0195059166581949,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_681",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -1.088715180974115,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 4.2345485043612054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 4.2345485043612054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 4.2345485043612054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 4.2345485043612054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 4.2345485043612054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 4.2345485043612054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 4.2345485043612054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 4.2345485043612054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 4.2345485043612054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 4.584613727578368,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 4.4971060548034885,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 4.409593388472486,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 4.322074620911817,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 4.2345485043612054,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 4.14701364296033,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 4.059468484685758,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 3.971911313298779,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_357",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 3.8843402403749834,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 0.002514370466830229,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 0.0025143524073341084,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 0.0025143348215959094,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 0.0025143172358570443,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 0.0025142999429164092,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 0.002514282357177322,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 0.0025142644206286313,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 0.002514246711941004,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 0.0025142291262016947,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.002514379637065911,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.002514359917364928,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.002514340026870565,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.002514319984893598,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 0.0025142999429164092,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.002514279608141212,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.0025142599359826434,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.0025142399979427577,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_360",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.0025142202487631327,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.028710008487272898,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.028724920836324053,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.028739833951896054,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.028754747097731737,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.028769661426301774,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.028784575785135713,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.028799490146141915,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.028814405273672294,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.028829320403370717,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.02924795690587212,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.029128342040990907,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.02900875476093656,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.028889194301281673,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.028769661426301774,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.028650154899180436,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.028530676428976554,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.028411224504011456,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_524",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.02829179976836671,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.010181586341837967,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.010953938963107923,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.011725779146722015,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.01249710144168148,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.01326790033497316,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.014038170614971701,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.014807906913949953,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.015577103797677072,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.01634575579897035,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.04665344691928164,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.038128143056285424,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.029724383427133905,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.021438732184895226,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.01326790033497316,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.005208736738404607,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.002741779567851488,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.01058654561307737,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_20",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.01832834276141515,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 0.669194096645545,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 0.6691572859116922,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 0.6691204500393869,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 0.6690835903580097,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 0.6690467062269531,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 0.6690097978353331,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 0.6689728644961959,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 0.6689359072876611,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 0.6688989254500344,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.661071312292162,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.6630886763448665,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.6650902005462767,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.6670761301296944,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 0.6690467062269531,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.6710021629156778,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.6729427296711238,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.6748686301190315,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_173",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.6767800842872012,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.01647257283126935,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.016190940567079926,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.015909063548332547,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.015626940784881915,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.015344572535430645,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.015061958642679674,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.014779098514579925,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.014495992736654362,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.014212640343393756,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.000484883959519955,
+      "interval_status": "unknown",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.003536377328473339,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.007514412408289761,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.01145017140886262,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.015344572535430645,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.01919850436096926,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.023012826224553473,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.026788370605324463,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_284",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.030525942258522676,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 0.01846273364955775,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 0.01846273364955775,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 0.01846273364955775,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 0.01846273364955775,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 0.01846273364955775,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 0.01846273364955775,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 0.01846273364955775,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 0.01846273364955775,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 0.01846273364955775,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.017825944490775347,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.017997772612195817,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.018165229573225528,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.01832214521080111,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 0.01846273364955775,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.018581775813658608,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.018674818419294636,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.01873838992333554,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_602",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.018770233893345978,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 1.811747644579586,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 1.8118699565463197,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 1.8119923459286884,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 1.8121148113332173,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 1.8122373527608366,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 1.8123599710743021,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 1.8124826657940631,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 1.8126054371715448,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 1.8127282858190323,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 1.841356913426459,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 1.8339084556019594,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 1.8265746752654182,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 1.8193520840062023,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 1.8122373527608366,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 1.8052273032432575,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 1.7983188976605295,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 1.7915092317577979,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_111",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 1.784795524262659,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 3.058636572900634,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 3.058636572900634,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 3.058636572900634,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 3.058636572900634,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 3.058636572900634,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 3.058636572900634,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 3.058636572900634,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 3.058636572900634,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 3.058636572900634,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 3.5383127931759075,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 3.41838585543676,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 3.298470522489736,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 3.1785576547353354,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 3.058636572900634,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 2.9386949524720003,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 2.8187187116933625,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 2.6986918914766047,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "train",
+      "scene_id": "train_731",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 2.5785965252463336,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 6.497372626943541,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 6.497372626943541,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 6.497372626943541,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 6.497372626943541,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 6.497372626943541,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 6.497372626943541,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 6.497372626943541,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 6.497372626943541,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 6.497372626943541,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 6.678156220380487,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 6.632971361531409,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 6.58777317061743,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 6.5425703310437395,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 6.497372626943541,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 6.452191004260316,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 6.40703763424729,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 6.361925979652799,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_73",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 6.316870863901631,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.011401283869436618,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.011493487458645757,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.011585679585748299,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.011677860331331225,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.01177002853491782,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.01186218528569516,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.011954329775778039,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.012046462523063295,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.012138583212598086,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.00947929570409034,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.010053337123506978,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.010626471501746337,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.01119870086405328,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.01177002853491782,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.012340457480317202,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.012909989795486965,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.013478629053899405,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_132",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.01404637741155268,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_55",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 1.532750522549942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.9755196893082629,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.9755079051853823,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.9754961195388898,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.9754843326001434,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.9754725442489252,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.9754607544616156,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.9754489634589043,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.9754371710045895,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.9754253771868082,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.9763890743632411,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.9761586180519204,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.9759290487673613,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.9757003597210392,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.9754725442489252,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.975245595844479,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.9750195080033417,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.9747942742424831,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_13",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.9745698882274385,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.03090586540588003,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.02905798989635633,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.02721002968830044,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.025361988494428278,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.0235138687431955,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.021665673334331448,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.019817405350364137,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.01796906819143773,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.01612066423029246,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.24141976815897648,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.1725822721001351,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.10554006898828527,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.04020261156588578,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.0235138687431955,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.08568703198894756,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.14638902030014167,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.2056869735860687,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_184",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.26364349121177355,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 0.009017394146218827,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 0.009160505186172063,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 0.00930361711981309,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 0.00944673039160504,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 0.009589845275258302,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 0.009732961044736754,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 0.00987607842085092,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 0.01001919640121729,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 0.010162316706447516,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.00044399980720433163,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.0020761135261486707,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.004588426647521349,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.007092988316803606,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 0.009589845275258302,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.01207904496555079,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.01456063428317833,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.01703466026433942,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_110",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.019501168399356228,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 0.02626159613665857,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 0.026233674192499112,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 0.026205756448964945,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 0.026177844434801867,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 0.026149937824758496,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 0.026122036210153965,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 0.026094139891872925,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 0.026066249113784412,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 0.02603836331199727,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.026844189096607907,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.026670219404337225,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.02649652155455806,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.026323094198586805,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 0.026149937824758496,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.025977050914563482,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.025804432228088037,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.02563208083031976,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_50",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.02545999646755226,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.0195361723668932,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.01812278078205276,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.016708469147938665,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.015293239203681974,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.013877093841728971,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.012460036248445494,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.011042069282136246,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.009623196454656258,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.008203420693331687,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.15098525333048407,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.1075861145212813,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.0657107847944911,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.025254441837510466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.013877093841728971,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.05176876752939297,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.08849747126995355,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.12413304118985002,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_16",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.1587391041573798,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 1.616246379385467,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 1.616246379385467,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 1.616246379385467,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 1.616246379385467,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 1.616246379385467,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 1.616246379385467,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 1.616246379385467,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 1.616246379385467,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 1.616246379385467,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 1.8900511957831596,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 1.8216077643230286,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 1.7531578996840271,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 1.6847034270893144,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 1.616246379385467,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 1.5477890073349458,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 1.479333790268511,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 1.410883447126782,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_141",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 1.342440947923785,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 0.650363755344638,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 0.6501785930667405,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 0.649993224168153,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 0.6498076485321309,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 0.649621865381314,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 0.6494358750604472,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 0.6492496772002243,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 0.6490632716688847,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 0.6488766580118885,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.6301018645560523,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.6351737073460941,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.6401132460366954,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.6449272217924871,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 0.649621865381314,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.6542029464046024,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.6586758197347096,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.6630454633975646,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_113",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.6673165150879983,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.003996245607349902,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.0037949057123380925,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.003593435061233663,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.0033918334952667273,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.003190100864427059,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.0029882370411065118,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.0027862418780353337,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.0025841152439722848,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.002381856987968778,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.016174645510173224,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.014329106767552613,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.01158919822897131,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.004936115359672311,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.003190100864427059,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.01126920917512475,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.01930174205575863,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.027288222969107157,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_150",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.03522916657447084,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 10.018115964604856,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 10.018115964604856,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 10.018115964604856,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 10.018115964604856,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 10.018115964604856,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 10.018115964604856,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 10.018115964604856,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 10.018115964604856,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 10.018115964604856,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 10.160017288242695,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 10.124547982121609,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 10.089075637766918,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 10.05359880479234,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 10.018115964604856,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 9.982625528835284,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 9.947125837684624,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 9.91161515817597,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_37",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 9.876091682301123,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.0013299983477863542,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.000710072689339647,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -8.92366129638944e-05,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 0.0005325132494848894,
+      "interval_status": "unknown",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 0.0011551770603901446,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 0.0017787580282075943,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 0.002403258327178026,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 0.0030286796492662305,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 0.0036550233901069262,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.075474640472317,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.056087947901955815,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.037259625504906246,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.01895828858260895,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 0.0011551770603901446,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.016176130626623042,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.0330599697539693,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.049518806693665596,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_70",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.06557342807173905,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.017981858462823963,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.01807080545320283,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.018159815303147364,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.018248888037306954,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.01833802373940152,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.018427222186177428,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.01851648330841249,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.01860580737289308,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.018695194025516004,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.021993728486627173,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.021067413632511856,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.020149458883569005,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.019239711678911253,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.01833802373940152,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.01744425080359724,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.01655825278374845,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.01567989319049834,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_166",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.01480903914390308,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 0.0036976524119939347,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 0.002869908186977632,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 0.002041914372885145,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 0.001213672399442034,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 0.00038518595499681396,
+      "interval_status": "unknown",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.00044354395555235016,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.0012725157635748996,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.002101727778131668,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.002931175799348207,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.05065705724677261,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.03759710391928062,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.024740879660064774,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.012082111475294477,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 0.00038518595499681396,
+      "interval_status": "unknown",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.01266672368555466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.02476795652203423,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.03669409776749322,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_122",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.048450134806131695,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -1.88308024410592,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -1.882768215608654,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -1.8824559626260076,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -1.8821434847602254,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -1.8818307820767566,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -1.8815178539875292,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -1.8812047002822787,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -1.880891320839444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -1.880577715202755,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -1.8111184649751015,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -1.8292738864172366,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -1.8471035069873563,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -1.8646188383875866,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -1.8818307820767566,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -1.8987496717511023,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -1.9153853134035863,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -1.9317470202124518,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "validation",
+      "scene_id": "validation_171",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -1.9478436463511026,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 0.024994585800496516,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 0.024204236393869483,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 0.02341319716450707,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 0.022621468016103208,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 0.021829049221267827,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 0.021035939272529003,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 0.02024213820455767,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 0.019447645098985333,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 0.0186524602060385,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.04306775074097313,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.026450032507868038,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.01010033971268065,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.005989953092167877,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 0.021829049221267827,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.037424766898112694,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.052784553001343326,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.0679155146858621,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_258",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.08282443634396053,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 0.0028731166467563796,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 0.0028471950384263423,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 0.002821277620660312,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 0.0027953640943683133,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 0.0027694536567874906,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 0.0027435473570910363,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 0.0027176454750383883,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 0.0026917466943637836,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 0.0026658524680951423,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 0.0031375633653669688,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 0.003045431519609676,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 0.0029533686921401348,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 0.0028613768341824164,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 0.0027694536567874906,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.0026776008194131506,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.0025858164725280908,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.0024941021383524387,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_158",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.002402457135417535,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 4.684745722754913,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 4.684745722754913,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 4.684745722754913,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 4.684745722754913,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 4.684745722754913,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 4.684745722754913,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 4.684745722754913,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 4.684745722754913,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 4.684745722754913,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 5.00971466574505,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 4.928475321499239,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 4.847235431312335,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 4.765992962943639,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 4.684745722754913,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 4.603491349913471,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 4.522227310283245,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 4.440950889952567,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_23",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 4.359659188342272,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.02434753029468828,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.025512399408179842,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.02667796098398023,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.027844214418311974,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.029011160018166393,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.03017879778010535,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.031347127036632116,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.03251614816438897,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.03368586064440415,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.15319002060755826,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.12126695543828925,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.08994406380177455,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.05919912740648847,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.029011160018166393,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.0006396797236742913,
+      "interval_status": "unknown",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.029772173702875993,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.058404117745724626,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_474",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.08655239213922705,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_1",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 2.120683262888466,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 8.068438810257703,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 8.068438810257703,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 8.068438810257703,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 8.068438810257703,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 8.068438810257703,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 8.068438810257703,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 8.068438810257703,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 8.068438810257703,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 8.068438810257703,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 8.267962982759737,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 8.218078573497907,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 8.168195047569444,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 8.118314408717923,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 8.068438810257703,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 8.018570560089456,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 7.9687121260528215,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 7.918866141684484,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_485",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 7.869035412458439,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.006739505192113526,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.007284705834480043,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.007830499751566133,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.008376882738275526,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.008923850913725495,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.009471400568089816,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.010019527417331364,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.010568227798067209,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.011117497568104096,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.04259790736377633,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.033765487914118264,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.025220857741245606,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.01694581197044509,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.008923850913725495,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.0011399696282481386,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.006419519931851081,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.013767139647451465,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_146",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.02091437654835815,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 0.017161187022757485,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 0.016042342712785373,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 0.014923375846092046,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 0.013804290793934193,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 0.012685087501460579,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 0.011565767666093407,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 0.010446333533389751,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 0.009326784815840927,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 0.008207124833097712,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.09177548888998421,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.0650335568246927,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.038718339940908564,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.012816394057427294,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 0.012685087501460579,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.037798313425279506,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.06253493443986091,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.08690607376390314,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_190",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.1109223628013245,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 4.436092448181409,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 4.436092448181409,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 4.436092448181409,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 4.436092448181409,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 4.436092448181409,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 4.436092448181409,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 4.436092448181409,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 4.436092448181409,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 4.436092448181409,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 4.445886243312063,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 4.443417859273837,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 4.440922878900283,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 4.438459652509433,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 4.436092448181409,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 4.4338916115015286,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 4.431933713796741,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 4.4303016867605685,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_63",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 4.429084941025352,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 14.014886662590825,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 14.014737998570336,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 14.014589312068221,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 14.014440603168472,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 14.014291871599799,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 14.014143117483659,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 14.013994340793957,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 14.013845541719462,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 14.013696719862985,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 14.032690234666001,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 14.02806119735336,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 14.023451903017556,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 14.018862183207965,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 14.014291871599799,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 14.009740804312262,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 14.005208819280131,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 14.00069575676336,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_389",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 13.996201458866437,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.022795056771649502,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.02346571160305011,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.024136743316111264,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.024808151884854635,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.02547994037314716,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.02615210486720887,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.026824647907251364,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.027497566949976626,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.028170865076502682,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.07433313134508657,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.06189081909842553,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.04960370988616081,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.03746797869102192,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.02547994037314716,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.013636045525644569,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.0019328732187124942,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.009632872460484165,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_14",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.021064375601990815,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.016498931592219268,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.016695406320316852,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.016891867468938893,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.01708831475330408,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.01728474794007706,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.017481166685418437,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.017677571536049097,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.017873962278111222,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.018070339118319234,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.006212337545356661,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.008993996636850854,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.011766578870764377,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.014530143026217468,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.01728474794007706,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -0.020030451152157402,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -0.02276731146743849,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -0.025495383838956442,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_470",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -0.028214726187890227,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_407",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -1.2730445892444444,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -0.00365238341447649,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -0.004363866618540602,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -0.005075281184806157,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -0.005786625863791972,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -0.006497897861639235,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -0.007209097543324106,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -0.007920222437169055,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -0.00863127107329642,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -0.00934224299307962,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -0.08337895455841116,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -0.06357747028149352,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -0.04417378263410565,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -0.025152183634953307,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -0.006497897861639235,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 0.011802998554373723,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 0.029763636282521766,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 0.04739641379377835,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_370",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 0.064713057199841,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": 7.536353100402609,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": 7.53616019886819,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": 7.535967285651237,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": 7.535774359972896,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": 7.535581423149047,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": 7.535388473841769,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": 7.535195511998653,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": 7.535002539052554,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": 7.534809554219246,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": 7.5524088494881125,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": 7.548169838125103,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": 7.543952409236232,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": 7.539756342621281,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": 7.535581423149047,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": 7.531427437824457,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": 7.527294178972953,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": 7.523181439335476,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_327",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": 7.5190890162472215,
+      "interval_status": "safe",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "bridge",
+      "k": 0,
+      "refined_gap": -1.5011361009841884,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "bridge",
+      "k": 1,
+      "refined_gap": -1.5021239881776989,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "bridge",
+      "k": 2,
+      "refined_gap": -1.5031125549588813,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "bridge",
+      "k": 3,
+      "refined_gap": -1.5041018038757965,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "bridge",
+      "k": 4,
+      "refined_gap": -1.5050917337526335,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "bridge",
+      "k": 5,
+      "refined_gap": -1.5060823463796726,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "bridge",
+      "k": 6,
+      "refined_gap": -1.507073642182803,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "bridge",
+      "k": 7,
+      "refined_gap": -1.5080656217337571,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "bridge",
+      "k": 8,
+      "refined_gap": -1.5090582857455712,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "residual",
+      "k": 0,
+      "refined_gap": -1.603285093089514,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "residual",
+      "k": 1,
+      "refined_gap": -1.578309269010409,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "residual",
+      "k": 2,
+      "refined_gap": -1.5536228284945666,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "residual",
+      "k": 3,
+      "refined_gap": -1.5292191227705216,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "residual",
+      "k": 4,
+      "refined_gap": -1.5050917337526335,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "residual",
+      "k": 5,
+      "refined_gap": -1.4812344636469956,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "residual",
+      "k": 6,
+      "refined_gap": -1.4576413239707668,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "residual",
+      "k": 7,
+      "refined_gap": -1.4343065275012603,
+      "interval_status": "collision",
+      "contradiction": false
+    },
+    {
+      "split": "test",
+      "scene_id": "test_299",
+      "family": "residual",
+      "k": 8,
+      "refined_gap": -1.4112244777778624,
+      "interval_status": "collision",
+      "contradiction": false
+    }
+  ]
+}

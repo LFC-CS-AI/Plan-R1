@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "independent_scene_splits": true,
+  "head_reload_and_predictions_verified": 12,
+  "head_training_updates": 14400,
+  "test_prediction_rows": 10752,
+  "label_audit_contradictions": 0,
+  "source_data_hashes": [
+    {
+      "split": "train",
+      "scene_sha256": "4e30908d62a0841e40a7d169ef694d8b9aadb6ac5081f357e0a4a4927b2f4813",
+      "data_sha256": "7b580b2125a76c0b417f1ec779bc8bd783cc54ecb94c2df609c4e22c474f6914"
+    },
+    {
+      "split": "validation",
+      "scene_sha256": "5e81b9b4fbda5d76257e85456e361b38cf37d0a4c4de9b31ece613f45aaa22fd",
+      "data_sha256": "d118167b848b42b582d66f97e669de0be722e6bb8714b7d71372a98703ca784b"
+    },
+    {
+      "split": "test",
+      "scene_sha256": "f6e49c56ca65c2e9a90ae6611521ded009d0ceeaf3c372ad5f5b372a0f965acb",
+      "data_sha256": "ea22da33742ef8a8424c3981ae6bdd32df2bc8e89737a2af80f46bbd2898605f"
+    }
+  ],
+  "real_pretrained_outputs": 0
+}

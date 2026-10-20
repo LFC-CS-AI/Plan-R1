@@ -1,0 +1,261 @@
+{
+  "base_commit": "fd7d0364c97c2bc77423e8aeaec5699a4dfd32f7",
+  "files": [
+    {
+      "file": "model/PlanR1.py",
+      "sha256": "2da58bc96943e37782339cae01c296e23150ea526b913c93cdb8f4739e799533",
+      "definitions": [
+        {
+          "name": "PlanR1",
+          "line": 17,
+          "end_line": 464
+        },
+        {
+          "name": "__init__",
+          "line": 18,
+          "end_line": 143
+        },
+        {
+          "name": "training_step",
+          "line": 145,
+          "end_line": 175
+        },
+        {
+          "name": "pred_inference",
+          "line": 177,
+          "end_line": 196
+        },
+        {
+          "name": "plan_inference",
+          "line": 198,
+          "end_line": 223
+        },
+        {
+          "name": "validation_step",
+          "line": 225,
+          "end_line": 260
+        },
+        {
+          "name": "freeze_pred_model",
+          "line": 262,
+          "end_line": 273
+        },
+        {
+          "name": "on_train_start",
+          "line": 275,
+          "end_line": 280
+        },
+        {
+          "name": "transition",
+          "line": 282,
+          "end_line": 305
+        },
+        {
+          "name": "rollout",
+          "line": 307,
+          "end_line": 348
+        },
+        {
+          "name": "compute_ae_outcome_supervision",
+          "line": 350,
+          "end_line": 359
+        },
+        {
+          "name": "compute_ae_process_supervision",
+          "line": 361,
+          "end_line": 388
+        },
+        {
+          "name": "reward_fn",
+          "line": 390,
+          "end_line": 415
+        },
+        {
+          "name": "configure_optimizers",
+          "line": 417,
+          "end_line": 464
+        },
+        {
+          "name": "warmup_cosine_annealing_schedule",
+          "line": 453,
+          "end_line": 456
+        }
+      ]
+    },
+    {
+      "file": "transforms/token_builder.py",
+      "sha256": "81989b7c46351ea8d5ad23030d3b3a75b6dabc4db6ee38b5bd45c85e194570a6",
+      "definitions": [
+        {
+          "name": "TokenBuilder",
+          "line": 15,
+          "end_line": 88
+        },
+        {
+          "name": "__init__",
+          "line": 16,
+          "end_line": 23
+        },
+        {
+          "name": "__call__",
+          "line": 25,
+          "end_line": 88
+        }
+      ]
+    },
+    {
+      "file": "modules/map_encoder.py",
+      "sha256": "5742c988fa43d3825a85781b18fdee9017d0e6f2f575252922d0122da1b04908",
+      "definitions": [
+        {
+          "name": "MapEncoder",
+          "line": 14,
+          "end_line": 131
+        },
+        {
+          "name": "__init__",
+          "line": 16,
+          "end_line": 46
+        },
+        {
+          "name": "forward",
+          "line": 48,
+          "end_line": 131
+        }
+      ]
+    },
+    {
+      "file": "modules/backbone.py",
+      "sha256": "70f8a6cff26a136ec17893fdb623015f1ca14ebb7fcd2ef071399c5dbdbbe3c4",
+      "definitions": [
+        {
+          "name": "Backbone",
+          "line": 16,
+          "end_line": 266
+        },
+        {
+          "name": "__init__",
+          "line": 17,
+          "end_line": 64
+        },
+        {
+          "name": "forward",
+          "line": 66,
+          "end_line": 146
+        },
+        {
+          "name": "pre_inference",
+          "line": 148,
+          "end_line": 170
+        },
+        {
+          "name": "inference",
+          "line": 172,
+          "end_line": 266
+        }
+      ]
+    },
+    {
+      "file": "datasets/nuplan_dataset.py",
+      "sha256": "79657504d9c5d734640cffea6623b790e3491fc2e6dd6b6cba5b8b69dc40b76f",
+      "definitions": [
+        {
+          "name": "NuplanDataset",
+          "line": 23,
+          "end_line": 183
+        },
+        {
+          "name": "__init__",
+          "line": 24,
+          "end_line": 91
+        },
+        {
+          "name": "raw_dir",
+          "line": 94,
+          "end_line": 95
+        },
+        {
+          "name": "processed_dir",
+          "line": 98,
+          "end_line": 99
+        },
+        {
+          "name": "raw_file_names",
+          "line": 102,
+          "end_line": 103
+        },
+        {
+          "name": "processed_file_names",
+          "line": 106,
+          "end_line": 107
+        },
+        {
+          "name": "processed_paths",
+          "line": 110,
+          "end_line": 111
+        },
+        {
+          "name": "process",
+          "line": 113,
+          "end_line": 137
+        },
+        {
+          "name": "process_batch_scenario",
+          "line": 139,
+          "end_line": 144
+        },
+        {
+          "name": "process_single_scenario",
+          "line": 146,
+          "end_line": 177
+        },
+        {
+          "name": "len",
+          "line": 179,
+          "end_line": 180
+        },
+        {
+          "name": "get",
+          "line": 182,
+          "end_line": 183
+        }
+      ]
+    },
+    {
+      "file": "datasets/nuplan_utils.py",
+      "sha256": "e8f2de8aba599705148223ed0eb10706d3abb38ec332126ca2091803e63e8f97",
+      "definitions": [
+        {
+          "name": "get_scenario_map",
+          "line": 24,
+          "end_line": 101
+        },
+        {
+          "name": "get_plan_scenario_types",
+          "line": 103,
+          "end_line": 121
+        },
+        {
+          "name": "get_filter_parameters",
+          "line": 123,
+          "end_line": 148
+        },
+        {
+          "name": "set_default_path",
+          "line": 150,
+          "end_line": 171
+        },
+        {
+          "name": "filter_agents_according_to_type_and_distance",
+          "line": 173,
+          "end_line": 184
+        },
+        {
+          "name": "get_features",
+          "line": 186,
+          "end_line": 657
+        }
+      ]
+    }
+  ]
+}

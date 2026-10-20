@@ -1,0 +1,4 @@
+Certified original-token bases: 21
+train {'scenes': 768, 'label_trajectories': 13824, 'minimum_seed_pose_queries': 2778624, 'seconds': 74.14003518199934}
+validation {'scenes': 192, 'label_trajectories': 3456, 'minimum_seed_pose_queries': 694656, 'seconds': 19.819085603999156}
+test {'scenes': 512, 'label_trajectories': 9216, 'minimum_seed_pose_queries': 1852416, 'seconds': 48.41766862900022}
